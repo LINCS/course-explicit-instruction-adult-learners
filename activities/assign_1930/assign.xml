@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="164" moduleid="1930" modulename="assign" contextid="2589">
+  <assign id="164">
+    <name>Session #6 Assignment: Plan an EI Lesson for Content Learning - Practice and Closure</name>
+    <intro>&lt;p&gt;&lt;img style="float: left; margin-left: 10px; margin-right: 10px;" alt="Assignment icon - hand writing in notebook" src="@@PLUGINFILE@@/LTA-EI-Assignmenticon.jpg" height="64" width="75" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For this assignment, we ask that you use what you have learned about practice and &lt;span style="color: #000000;"&gt;closure &lt;span color="#800080"&gt;in EI lesson planning for content learning&lt;/span&gt; to &lt;/span&gt;complete the lesson you began in Session #5.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Steps to Complete this Assignment:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Using the EI Lesson Planning resources linked below, &lt;strong&gt;complete development of an EI Lesson for content learning, incorporating scaffolded practice and closure into the lesson you submitted for Session 5. &lt;/strong&gt;Be sure to include the introduction, explanation, and modeling components of the plan (as revised based on facilitator feedback).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Submit your completed lesson plan to your facilitator.&lt;/strong&gt; &lt;br /&gt;Click on the Add Submission button below, and then upload your plan or enter it into the box below (or paste). Feel free to add any reflections or thoughts you have on&lt;span style="color: #000000;"&gt; &lt;span color="#800080"&gt;the EI for content lesson planning&lt;/span&gt; process in the box as well.&lt;/span&gt; &lt;span style="color: #ff0000;"&gt;Remember to click on the Save button.&lt;/span&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;Reminder: We strongly encourage you to SAVE a digital copy of your lesson plan to your computer before submitting it.&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;EI Lesson Planning Resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;EI Lesson Plan-Content Example: &lt;a target="_blank" title="SIA EI Hamburger Writing Lesson Plan - full" href="@@PLUGINFILE@@/LtAEI-S5b-Hamburger-lesson-plan-full.pdf"&gt;LtAEI-S6a-Hamburger-lesson-plan-full.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;a href="@@PLUGINFILE@@/LtAEI-S1-EI_Lesson_Plan_Outline%20%281%29.pdf" target="_blank" title="Explicit Instruction Lesson Plan Outline"&gt;Explicit Instruction Plan Outline.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;span style="color: #000000;"&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Once you have submitted your plan (and any feedback):&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style="color: #800080;"&gt;&lt;span style="color: #800080;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;Click on an "Explicit Instruction" link at the top (or at left under "my Courses") &lt;/strong&gt;to return to the Main Course Outline and access the next course activity.&lt;/p&gt;
+&lt;span style="color: #800080;"&gt;&lt;span style="color: #800080;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Note: &lt;/strong&gt; This item will not automatically mark itself complete on the main course outline until y&lt;/span&gt;&lt;span style="color: #800080;"&gt;our facilitator has reviewed your responses and marked the assignment complete ("grade" of 100= complete).&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>100</grade>
+    <timemodified>1526587256</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>none</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="1175">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1176">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1177">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1178">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>1048576</value>
+      </plugin_config>
+      <plugin_config id="1179">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1180">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1181">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1182">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1183">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

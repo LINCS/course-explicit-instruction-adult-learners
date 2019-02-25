@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="77" moduleid="1931" modulename="lesson" contextid="2590">
+  <lesson id="77">
+    <course>25</course>
+    <name>WU - Course Review and Planning Your Next Steps in Implementing EI</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1526587276</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="794">
+        <prevpageid>0</prevpageid>
+        <nextpageid>795</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1508980193</timemodified>
+        <title>Explicit Instruction Review</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="200" height="268" style="margin-left: 10px; float: right;" alt="blank puzzle pieces partially assembled with one piece ready to place" src="@@PLUGINFILE@@/LTA-EI-WU%20-Summary.jpg" /&gt;During this course, you:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;learned about the characteristics and principles of explicit instruction, the types of student needs addressed by EI and the teacher’s (your) role in conducting EI lessons. &lt;/li&gt;
+&lt;li&gt;examined the importance of developing students’ ability to be self-regulated learners and the role of practice in strengthening this ability.&lt;/li&gt;
+&lt;li&gt;became familiar with the four major components of an EI lesson plan as well as the components of an EI introduction.&lt;/li&gt;
+&lt;li&gt;examined effective methods for explaining and modeling an academic skill or strategy (including how to task analyze a skill/strategy into steps).&lt;/li&gt;
+&lt;li&gt;examined effective methods for explaining and modeling concepts via graphic organizers as a part of EI for content learning.&lt;/li&gt;
+&lt;li&gt;explored how to structure scaffolded practice for EI learning, including guided, peer-assisted, and independent practice.&lt;/li&gt;
+&lt;li&gt;examined ways to provide EI lesson closure.&lt;/li&gt;
+&lt;li&gt;applied your learning by designing two EI lessons: one for skill and strategy learning and one for content learning, and then refined these lessons via facilitator and peer feedback.&lt;/li&gt;
+&lt;li&gt;shared your reflections and experiences with peers, deepening and expanding your understanding of explicit instruction for adult literacy learners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition, you were introduced to many additional resources relating to this topic. For your convenience, below is a link to the collected References and Resources for this entire course:&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;a title="Collated Explicit Instruction Resources and References" href="@@PLUGINFILE@@/EI%20Course%20References.pdf" target="_blank"&gt;Explicit Instruction  - References and Resources – Sessions 1-5&lt;/a&gt; (pdf format)&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Now it is time to reflect on this learning and consider some next steps for the future. Please take a moment to think back to the needs, concerns and goals that drew you to participate in this course (you shared these in the Introductions discussion forum).&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Considering your purpose(s) for participating in this course:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do you feel about what you have learned during this course?&lt;/li&gt;
+&lt;li&gt;How has the course addressed your initial goals and/or issues? &lt;/li&gt;
+&lt;li&gt;Have you been able to answer your initial questions? &lt;/li&gt;
+&lt;li&gt;Is there more you want to know?  How will you find out?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One way to find out more on this and other topics is to explore the LINCS Resource Collection and/or further explore the LINCS Online Learning Portal. Let’s take a look at these resources.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1780">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="795">
+        <prevpageid>794</prevpageid>
+        <nextpageid>796</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1508980267</timemodified>
+        <title>LINCS Resources for Further Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="250" height="96" style="margin-left: 10px; float: right;" alt="LINCS Logo: Literacy Information and Communications System" src="@@PLUGINFILE@@/LtA-EI-WU-LINCSlogo2012.jpg" /&gt;LINCS Resource Collection&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Many of the resources used in this course are available as a part of the LINCS Resource Collection. This free online database contains multimedia resources that are high-quality, evidence-based and vetted by experts. The collection lists resources in 16 topic areas with each resource profile containing an overview and suggestions for use. The database is searchable and frequently updated.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;Optional:&lt;/b&gt; Search the LINCS Resource Collection&lt;br /&gt;&lt;a href="http://lincs.ed.gov/professional-development/resource-collection/search-resources"&gt;http://lincs.ed.gov/professional-development/resource-collection/search-resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;br /&gt;LINCS Learning Portal&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;As a participant in this course, you are already somewhat familiar with the LINCS Learning Portal. We encourage you to explore the other online courses available in this portal. We recommend the self-paced courses in Differentiated Instruction (methods for addressing multi-level learners) and those addressing Learning Disabilities (Learning to Achieve series).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;/b&gt;&lt;strong&gt;&lt;br /&gt;Optional:&lt;/strong&gt; Review the self-paced online courses available in the LINCS Learning Portal  &lt;a href="http://lincs.ed.gov/learning-portal"&gt;http://lincs.ed.gov/learning-portal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1781">
+            <jumpto>794</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1782">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="796">
+        <prevpageid>795</prevpageid>
+        <nextpageid>797</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1508980331</timemodified>
+        <title>Your Next Steps Plan for Explicit Instruction</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="175" height="235" style="margin-left: 10px; float: right;" alt="Hand holding compass in front of scene of field and trees with forked path immediately ahead." src="@@PLUGINFILE@@/LTA-EI-WU-NextSteps.jpg" /&gt;What’s next?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Based on your reflections, make a simple “Next Steps” plan for yourself focusing on just the next 1- 3 months. Please include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;what you plan to do with what you have learned (specific steps/tasks) and&lt;/li&gt;
+&lt;li&gt;how you will address any further questions you have on this topic.  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Be sure to keep your plan simple and doable. Include some concrete deadline points at which you could measure your progress.  &lt;strong&gt;&lt;span style="color: #800080;"&gt;[You will share this plan with your facilitator and peers via a Discussion Forum ]&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During this course, you have already engaged in a couple of activities that asked you to apply your learning. Hopefully these activities provided you with some direction for applying new ideas in your classroom.  On the next slide, we list some examples of specific tasks you might include in your next steps plan.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1783">
+            <jumpto>794</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1784">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1785">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="797">
+        <prevpageid>796</prevpageid>
+        <nextpageid>798</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377548914</timecreated>
+        <timemodified>1508980394</timemodified>
+        <title>EI- Plan Examples</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="175" height="233" style="margin-left: 10px; float: right;" alt="Teacher holding a pencil up to her cheek, looking up thoughtfully" src="@@PLUGINFILE@@/LtA-S3a-Whatpre-req.JPG" /&gt;Next Steps Plan Examples:&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;/b&gt;&lt;strong&gt;&lt;em&gt;I want to pilot test my EI lesson (for skills/strategy learning or content learning) with my learners in the next month.&lt;/em&gt;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;I will deliver the lesson plan as written within the next 4 weeks.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;I will ask learners for their reflections on the lesson, as well as note my own reflections.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;I will revise the lesson based on this feedback, and make plans to design another lesson by the end of the month after.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;I want to strengthen my explanation and modeling skills for skills/strategy learning – I think I go through this step too fast.  I think my learners will benefit from the QAR reading strategy for the course.&lt;/em&gt;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;Practice 'explaining and modeling' the QAR strategy by myself (maybe videotape it so I can watch). Pay attention to my physical motions and avoiding wordiness – be concise.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;Practice my explanation and modeling with a friend/family member.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;Try out my QAR explanation and modeling with a single student and ask for feedback.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Conduct the QAR lesson with my whole class within two months and ask for feedback (or video the lesson).&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;&lt;em&gt;I want to do more to integrate peer-guided practice into my instruction.&lt;/em&gt;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Re-watch the video segments showing methods for scaffolded practice, including peer-guided practice (Session 4 and 6).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Plan for scaffolded practice that includes peer-guided practice in two lessons in the next month. &lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;/em&gt;Gather student input on the peer-guided practice sessions and revise my approach as necessary.&lt;br /&gt;&lt;em&gt; &lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;I want to do more work with graphic organizers to teach content.&lt;/em&gt;&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;Review more of the graphic organizer resources in the course by the end of the month.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;Consider upcoming lessons for declarative knowledge needed by my learners and match content to organizer type(s).&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;Plan and try out EI lessons incorporating graphic organizers for at least two content areas by the end of next month.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1789">
+            <jumpto>794</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1790">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1791">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="798">
+        <prevpageid>797</prevpageid>
+        <nextpageid>799</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1408642165</timecreated>
+        <timemodified>1508980541</timemodified>
+        <title>LINCS Community of Practice Resource</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;img width="200" height="414" style="margin-left: 10px; float: right;" alt="Screen shot of LINCS Public Discussion Groups page showing 16 Topic areas. Text in the image is illegible." src="@@PLUGINFILE@@/LtA-EI-WU_LINCS_Discussion_Groups.jpg" /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;Continuing the Conversation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Once you post your Next Steps Plan, you have the option to share your &lt;em&gt;EI for content learning lesson plan&lt;/em&gt; with peers. This will be your last opportunity to “talk” to your peers within the course, but it does NOT have to be the end of the conversation.&lt;/p&gt;
+&lt;p&gt;Throughout this course we have emphasized the importance of peer networking and support as part of the learning process. &lt;strong&gt;We hope that course discussion activities have allowed you to expand and/or strengthen your &lt;em&gt;community of practice&lt;/em&gt; relating to instructional methods for adult literacy learners.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We encourage you to continue this process by exploring and participating in other conversations relating to explicit instruction, support for struggling learners and evidence-based instructional practices. One way to do this is to join one or more of the groups in the &lt;strong&gt;LINCS Community.&lt;/strong&gt; The LINCS Community is a professional learning space that brings together adult educators worldwide to work together toward one common goal—providing high-quality, evidence-based learning opportunities to adult students. The LINCS Community is a place where the field can seek help, collaborate, network, share knowledge and resources, participate in special events, and grow professionally.&lt;/p&gt;
+&lt;p&gt;Members may engage in the community by joining one or more of the 11 topic groups and then participating in a number of ways at different &lt;em&gt;levels&lt;/em&gt; of intensity depending on your current needs and time limits, such as: reading posts, sharing LINCS posts with others, commenting on discussions, and starting or leading discussions. While membership in the LINCS Community is not required to read and search community posts, &lt;b&gt;members gain the ability to actively engage in community conversations,&lt;/b&gt; greatly enhancing their own professional understanding and skills.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;br /&gt;Optional:&lt;/b&gt; Explore the 11 Groups in the LINCS Community&lt;br /&gt;&lt;a href="https://community.lincs.ed.gov/groups"&gt;https://community.lincs.ed.gov/groups&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; You may also use social media to continue your professional learning through LINCS.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; @LINCS_ED  &lt;a href="https://twitter.com/LINCS_ED"&gt;https://twitter.com/LINCS_ED&lt;/a&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; LINCS_ED &lt;a href="https://www.linkedin.com/grp/home?gid=4555711"&gt;https://www.linkedin.com/grp/home?gid=4555711&lt;/a&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1792">
+            <jumpto>794</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1793">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1794">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="799">
+        <prevpageid>798</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508980605</timemodified>
+        <title>EI - Last Steps</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="194" height="150" style="margin-left: 10px; float: right;" alt="Pencil next to a list of choices with fill in circles: Excellent, very good, good, average, poor" src="@@PLUGINFILE@@/LTA-EI-WU-Survey.jpg" /&gt;EI Course Evaluation and Certificate&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Once you have posted your reflections and Next Steps Plan to the Discussion forum, you will have access to the LINCS online course evaluation survey and the digital completion certificate for this course.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;We strongly encourage you to complete the evaluation survey for this course.&lt;/b&gt; LINCS uses your feedback to refine and improve professional development offerings, striving to always deliver high quality training experiences for adult education practitioners.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ALSO - remember that you&lt;/strong&gt; &lt;strong&gt;have the option of posting your EI for Content Learning Lesson Plan&lt;/strong&gt; to a final discussion forum and providing feedback to your peers.&lt;/p&gt;
+&lt;p&gt;If you have any questions about these last course tasks, do not hesitate to contact your course facilitator(s).&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click Finish Lesson to complete this lesson and access the final course items.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1786">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1787">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1788">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Finish Lesson</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

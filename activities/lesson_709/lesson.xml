@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="709" modulename="lesson" contextid="1052">
+  <lesson id="9">
+    <course>25</course>
+    <name>2B EI Lesson Plan - Part 1: Lesson Introduction</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441912846</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="74">
+        <prevpageid>0</prevpageid>
+        <nextpageid>75</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1509033383</timemodified>
+        <title>Lesson Introduction and Self-regulation</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="234" height="171" style="float: right;" alt="A hand raised in class, teacher in background, pointing at hand" src="@@PLUGINFILE@@/LTA-EI-S2b-hand-in-air-pencil.jpg" /&gt;A short standard set of opening lesson activities can help prepare students for new learning. Having a consistent routine for beginning each lesson allows learners to get set to be active participants in instruction (foster self-regulation).&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;Do you have a short standard way that you begin each class?&lt;br /&gt;If you asked your students, “&lt;em&gt;How do we usually begin class?&lt;/em&gt;” what would they say?&lt;/strong&gt;  &lt;br /&gt;&lt;br /&gt;Let’s explore how to design a lesson introduction that incorporates principles of explicit instruction. As we explore, compare this EI lesson introduction with your own practices.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="197">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="75">
+        <prevpageid>74</prevpageid>
+        <nextpageid>76</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1508872953</timemodified>
+        <title>Lesson Introduction Components</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="161" height="241" style="float: right; margin-left: 10px;" alt="two lines of diverse people shaking hands across lines" src="@@PLUGINFILE@@/LTA-EI-S2b-introductions.jpg" /&gt;Most AE instructors have some procedures they use to start off a lesson.  Let's compare these to the recommended components of an EI Lesson Introduction.&lt;/p&gt;
+&lt;p&gt;For EI Instruction, a lesson introduction should set up new learning by:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Gaining students’ attention.&lt;/li&gt;
+&lt;li&gt;Informing students of the lesson’s objective/s.&lt;/li&gt;
+&lt;li&gt;Identifying reason/s to learn.&lt;/li&gt;
+&lt;li&gt;Connecting to prior knowledge.&lt;/li&gt;
+&lt;li&gt;Reviewing and checking for prerequisite skills.&lt;/li&gt;
+&lt;li&gt;Pre-teaching vocabulary.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Let’s examine each of these 6 components more closely.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="198">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="199">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="76">
+        <prevpageid>75</prevpageid>
+        <nextpageid>77</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1509033598</timemodified>
+        <title>EI Lesson Introduction – Component #1</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Gain Student Attention&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;This is a brief but important entry into the lesson which:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recognizes that learners are transitioning into the class from another activity, or within a class from one topic to another,&lt;/li&gt;
+&lt;li&gt;should take no more than a minute, and&lt;/li&gt;
+&lt;li&gt;consists of a simple teacher statement, question, or physical prompt(s).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let's look at some examples and nonexamples of this lesson introduction component.&lt;/p&gt;
+&lt;table style="width: 604px; height: 286px;" border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="280" valign="top" scope="col"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="273" valign="top" scope="col"&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;strong&gt;Nonexamples&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="224" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;"Please open your notebooks to the homework you did for this class. This will help us get started."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="273" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;em&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;"Open your books to page 16."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="224" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;"Why are decimals important in our daily lives?"&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="273" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;em&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;"It’s time to do some more writing."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="224" valign="top" rowspan="2"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif;"&gt;"Welcome to class. Please look at me when you are ready to begin."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="273" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif; color: #ff0000;"&gt;Teacher starts talking while students are talking to each other.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="283" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif; color: #ff0000;"&gt;Teacher starts while students are still getting organized.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="224" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif; color: #008000;"&gt;Teacher stands at door to greet students. When teacher goes to the front of the room, the lesson begins.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="283" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-size: small; font-family: arial,helvetica,sans-serif; color: #ff0000;"&gt;Teacher sits at front of the room and passes worksheet to students.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Review the nonexamples above – what makes each of them a nonexample of Gaining Students' Attention?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click on Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="200">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="201">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="202">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="77">
+        <prevpageid>76</prevpageid>
+        <nextpageid>78</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1509033782</timemodified>
+        <title>Activity: Component #1 Nonexamples – Possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;While responses may vary, we’ve listed below one set of responses to why each of these is a nonexample of &lt;em&gt;Gaining Students' Attention.&lt;/em&gt;&lt;/p&gt;
+&lt;table style="width: 637px; height: 340px;" border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th width="247" valign="top" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="243" valign="top" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;What’s Wrong?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"Open your books to page 16."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="243" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;General, non-motivating statement. What’s on page 16? Why open the book to page 16?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"It’s time to do some more writing."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="243" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;General statement. What does it mean to do more writing?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Teacher starts talking while students are talking to each other.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="243" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The students who are talking aren’t paying attention. They are missing what the teacher is saying. This sends the message that what the teacher is saying isn’t important.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Teacher starts while students are still getting organized.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="243" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Students are still getting themselves settled and materials out. They are missing what is said.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Teacher sits at front of the room and passes worksheet to students.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="243" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;There is no introduction or connection with learners.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Consider how you typically gain students’ attention before beginning instruction. &lt;br /&gt;What might you want to change or improve?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="203">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="204">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="205">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="78">
+        <prevpageid>77</prevpageid>
+        <nextpageid>79</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1509033842</timemodified>
+        <title>EI Lesson Introduction – Component #2</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Inform Students of the Lesson’s Objective/s&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During this component of a lesson introduction, the instructor should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inform students of what they will be able to do as a result of the lesson.&lt;/li&gt;
+&lt;li&gt;Use learner-friendly language.&lt;/li&gt;
+&lt;li&gt;Help learners anticipate their role.&lt;/li&gt;
+&lt;li&gt;Give the message that there is a clear goal for the session.&lt;/li&gt;
+&lt;li&gt;Keep the objectives in mind and stay focused in planning and teaching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below are some examples and nonexamples of this lesson introduction component:&lt;/p&gt;
+&lt;table style="width: 568px; height: 230px;" border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="237" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Examples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="256" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="237" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;"By the end of the session you will be able to explain the steps of writing a persuasive essay."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;"Today you will answer the questions at the end of the chapter."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="237" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #008000; font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;em&gt;"By the end of this session you will be able to multiply with decimals&lt;/em&gt;."&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;"We are going to work on addition today."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="237" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;"You will be able to picture what you read using the visualization strategy."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #ff0000; font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Written on the board: Given a 3 paragraph passage, students will be able to identify 1 main idea and 2 details for each paragraph with 80% accuracy.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: right;"&gt; &lt;em&gt;&lt;span style="font-size: x-small;"&gt;Adapted from Goeke, 2009, p.54&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon_2.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Review the nonexamples above. &lt;br /&gt;What makes each of them a nonexample of Informing Students of the Lesson’s Objective/s?&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="209">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="210">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="211">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="79">
+        <prevpageid>78</prevpageid>
+        <nextpageid>80</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878378</timecreated>
+        <timemodified>1509125604</timemodified>
+        <title>Activity: Component #2 Nonexamples – Possible responses</title>
+        <contents>&lt;p&gt;While responses may vary, we’ve listed below one set of responses as to why each of these is a nonexample of ‘Informing Students of the Lesson’s Objective/s.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table style="width: 582px; height: 210px;" border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="250" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="247" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;What’s Wrong?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="250" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;"Today you will answer the questions at the end of the chapter."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Tells students what they will do, not what they will learn.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="250" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #ff0000;"&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;"We are going to work on addition today."&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;This is a general statement - what does "work on addition" mean? What are students going to be able to do as a result of the lesson?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="250" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Written on the board: Given a 3 paragraph passage, students will be able to identify 1 main idea and 2 details for each paragraph with 80% accuracy.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="247" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Too technical, lack of user friendly language.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;Do you start each lesson with a clear objective of what students will be able to do as a result of the session activities? How do you inform students of the learning outcomes they can expect for a lesson? What might you want to change or improve?&lt;/strong&gt;&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="212">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="213">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="214">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="80">
+        <prevpageid>79</prevpageid>
+        <nextpageid>81</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878483</timecreated>
+        <timemodified>1509033906</timemodified>
+        <title>EI Lesson Introduction – Component #3</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Identify Reasons to Learn&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;During this component of a lesson introduction, the instructor should conduct a short discussion with learners about the reasons for the lesson. This component addresses these typical learner questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why learn this?&lt;/em&gt; &lt;br /&gt;The answer helps to motivate learners to pay attention and put forth effort.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Where and when can you use this?&lt;br /&gt;&lt;/em&gt;The answer helps to:&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect the lesson with present and future situations.&lt;/li&gt;
+&lt;li&gt;Show how the lesson will help meet learning of school-related tasks and goals.&lt;/li&gt;
+&lt;li&gt;Show how the lesson will help meet functional/career-related tasks and goals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let's look at some examples and nonexamples:&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="237" valign="top" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Examples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="256" valign="top" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="237" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;"What are some reasons you have for wanting to remember what you read?"&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"You are going to practice the Visualization Strategy today."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="237" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;"Who would like to be a better speller? How would that help you?"&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"Based on the spelling quiz I gave you, I see we need more practice adding -ed and -ing to short vowel words."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="237" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;"The paragraph writing we are doing this session will help you on the writing portions of the high school equivalency tests."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"We have a lot to do, so let’s get started."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Review the nonexamples above – what makes each of them a nonexample of Identifying Reasons to Learn?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="215">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="216">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="217">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="81">
+        <prevpageid>80</prevpageid>
+        <nextpageid>82</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878615</timecreated>
+        <timemodified>1509033954</timemodified>
+        <title>Activity: Component #3 Non-Examples – Possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Identify Reasons to Learn&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;While responses may vary, we’ve listed below one set of responses as to why each of these is a nonexample of&lt;em&gt; Identifying Reasons to Learn.&lt;/em&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="249" valign="top" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="244" valign="top" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;What’s Wrong?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="249" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"You are going to practice the Visualization Strategy today."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="244" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;It informs students what they will be doing, not why they are doing it.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="249" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"Based on the spelling quiz I gave you, I see we need more practice adding -ed and -ing to short vowel words."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="244" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Why is it important to know the spelling rule beyond a quiz grade?&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="249" valign="top"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;"We have a lot to do, so let’s get started."&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="244" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;No reason provided for what students will be doing.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm_2.jpg" /&gt;&lt;em&gt;&lt;strong&gt;How well do you think your students are able to tell you the reasons for what they are learning in your class?  How well are students using what you are teaching in their lives outside of school? &lt;br /&gt;What would you enjoy about having brief rationale discussions with students? How might these discussions inform your teaching?&lt;/strong&gt;&lt;/em&gt; [Note the discussion prompts in the previous examples.]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="218">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="219">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="220">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="82">
+        <prevpageid>81</prevpageid>
+        <nextpageid>83</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878986</timecreated>
+        <timemodified>1503521130</timemodified>
+        <title>EI Lesson Introduction – Component #4</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Connect to Prior Knowledge&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;There is a direct relationship between what a learner knows about a topic and how easy it is to learn more about the topic. New learning means that learners are able to make connections between what they already know and what they are currently learning.&lt;br /&gt;&lt;br /&gt;We meet learners with two types of challenges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Challenge 1&lt;/strong&gt;  - &lt;span style="color: #800000;"&gt;The less you know, the fewer skills you have, the greater the learning challenge&lt;/span&gt;.&lt;br /&gt;These are our learners with major gaps in their prior learning in school. They must put forth extra effort to learn.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Challenge 2&lt;/strong&gt;  - &lt;span style="color: #800000;"&gt;Many learners do not automatically search for prior knowledge connections.&lt;/span&gt;&lt;br /&gt;These are often learners who have experienced lack of success in school because of learning disabilities, family stressors, or disrupted schooling.  They have learned to take a passive stance to learning.  They need to learn that they can learn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;img width="180" height="204" style="float: right; margin-left: 10px;" alt="drawing - transparent head profile with interconnected puzzle pieces where brain would be." src="@@PLUGINFILE@@/LTA-EI-S2b-puzzlebrain.jpg" /&gt;When activating prior knowledge it is important that you:&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;DO&lt;/strong&gt; – connect with what students are familiar with in a way that is engaging and relates to meaningful contexts.&lt;br /&gt;&lt;strong&gt;DON’T&lt;/strong&gt; – use new vocabulary.&lt;/p&gt;
+&lt;p&gt;It is also important to help &lt;strong&gt;all students&lt;/strong&gt; activate their prior knowledge, not just a few. Try a variety of techniques to engage students. Include &lt;em&gt;all&lt;/em&gt; students in activities like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a brief paper-pencil activity,&lt;/li&gt;
+&lt;li&gt;paired student discussions, and/or&lt;/li&gt;
+&lt;li&gt;whole group discussion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s next look at some examples and non-examples of connecting to a learner’s prior knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="221">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878986</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="222">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878986</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="223">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878986</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="83">
+        <prevpageid>82</prevpageid>
+        <nextpageid>84</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879258</timecreated>
+        <timemodified>1509034043</timemodified>
+        <title>Activity: Component #4 Examples and Non-Examples </title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Connect to Prior Knowledge&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lesson:&lt;/strong&gt; Introducing how to write a persuasive essay&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="214" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Example&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="283" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Nonexample&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="214" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;&lt;i&gt;"If you wanted a boss to give you a raise, what would you do?"&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="283" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;&lt;i&gt;"What does persuasive mean?" &lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Lesson:&lt;/strong&gt; Types of animals in ecosystems include carnivores, herbivores and omnivores&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="214" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Example&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="283" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Nonexample&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="214" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;&lt;i&gt;"Name 3 things you have eaten in the last week."&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="283" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;&lt;i&gt;"Are humans carnivores, omnivores or herbivores?"&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Lesson:&lt;/strong&gt; Subtracting numbers with decimals&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="244" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Example&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="243" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Nonexample&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="244" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;&lt;i&gt;"What do you buy that costs less than $1.00? More than $1.00?"&lt;br /&gt;&lt;/i&gt;Students name items and provide an estimate of the cost. Teacher writes the responses on the board in a simple comparison chart.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="243" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;&lt;i&gt;"Work this problem: 10.75 - .99 = ?"&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;&lt;em&gt;Review the nonexamples above. &lt;br /&gt;What makes each of them a nonexample of Connecting to Prior Knowledge?&lt;/em&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="224">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="225">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="226">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="84">
+        <prevpageid>83</prevpageid>
+        <nextpageid>85</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879474</timecreated>
+        <timemodified>1527702713</timemodified>
+        <title>Activity: Component #4 Nonexamples – Possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Connect to Prior Knowledge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While responses may vary, we’ve listed below one set of responses as to why each of these is a nonexample of Connecting to Prior Knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lesson:&lt;/strong&gt; Introducing how to write a persuasive essay&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="214" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Example&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="283" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Nonexample&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="214" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;&lt;i&gt;"What does persuasive mean?" &lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="283" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #000000;"&gt;Uses vocabulary that may not be familiar to the learners.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Lesson:&lt;/strong&gt; Types of animals in ecosystems include carnivores, herbivores and omnivores&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="214" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Example&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="283" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Nonexample&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="214" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;&lt;i&gt;"Are humans carnivores, omnivores or herbivores?"&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="283" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #000000;"&gt;Uses vocabulary that may not be familiar to the learners.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Lesson:&lt;/strong&gt; Subtracting numbers with decimals&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="244" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Example&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="243" valign="top" scope="col"&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;&lt;b&gt;Nonexample&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="244" valign="top"&gt;
+&lt;p&gt;&lt;span&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;&lt;i&gt;"Work this problem: 10.75 - .99 = ?"&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="243" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #000000;"&gt;This is a decontextualized example. It does not connect to students’ real lives.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;In your mind, identify an important skill or concept that you have recently taught. &lt;br /&gt;What question or activity could help you connect to your students’ prior knowledge?  &lt;br /&gt;&lt;/strong&gt;Would this be a short written activity, paired student discussion, or whole group discussion?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="227">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="228">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="229">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="85">
+        <prevpageid>84</prevpageid>
+        <nextpageid>86</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879704</timecreated>
+        <timemodified>1509034265</timemodified>
+        <title>EI Lesson Introduction – Component #5</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;Review and Check for Prerequisite Knowledge and Skills&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Most skills and concepts build on previous learning. Prior to instruction, instructors should identify prerequisites to review, then develop a short activity to ensure that all students have the prerequisites.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table style="width: 516px;" border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="176" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Focus Objective&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="340" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Prerequisite&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="176" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Summarize a passage.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="340" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Identify the main idea of a passage.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="176" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Write a paragraph.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="340" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Knowledge of sentence structure and basic grammar.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="176" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Spell 1-syllable &lt;br /&gt;short vowel words.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="340" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Identify short vowel sounds and match to appropriate letter.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="176" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Multiply decimals.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="340" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Multiply whole numbers.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Describe how a decimal is different from a whole number.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="176" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Describe characteristics &lt;br /&gt;of capitalism.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="340" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Differentiate between goods and services, and public and private organizations.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="176" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Describe what happens &lt;br /&gt;in photosynthesis.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="340" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Describe basic cell structure.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;br /&gt;Below are some clarifying examples and non-examples of activities that check for prerequisite knowledge and skills:&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="276" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Examples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="228" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Give a short homework assignment of prerequisite knowledge and/or skills. &lt;br /&gt;Then go over the homework at the beginning &lt;br /&gt;of class.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Ask one or two students to come to the board to demonstrate.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Give a short "quiz" and review.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Review consists of asking students, “&lt;em&gt;Do you remember...?&lt;/em&gt;”&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Give a pretest prior to lesson. Teach/reteach any prerequisites needed &lt;b&gt;&lt;i&gt;prior to&lt;/i&gt;&lt;/b&gt; introducing the new information and/or skills &lt;br /&gt;[the Explanation/Modeling step]. &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Reteach all students the prerequisites as part of the lesson introduction.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;br /&gt;Below are some clarifying examples and non-examples of activities that check for prerequisite knowledge and skills:&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="276" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Examples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="228" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Give a short homework assignment of prerequisite knowledge and/or skills. &lt;br /&gt;Then go over the homework at the beginning &lt;br /&gt;of class.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Ask one or two students to come to the board to demonstrate.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Give a short "quiz" and review.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Review consists of asking students, “&lt;em&gt;Do you remember...?&lt;/em&gt;”&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Give a pretest prior to lesson. Teach/reteach any prerequisites needed &lt;b&gt;&lt;i&gt;prior to&lt;/i&gt;&lt;/b&gt; introducing the new information and/or skills &lt;br /&gt;[the Explanation/Modeling step]. &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Reteach all students the prerequisites as part of the lesson introduction.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon_2.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Review the nonexamples above.&lt;br /&gt;What makes each of them a nonexample of a method for Reviewing and Checking for Prior Knowledge?&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="230">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="231">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="232">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="86">
+        <prevpageid>85</prevpageid>
+        <nextpageid>87</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379880335</timecreated>
+        <timemodified>1509034209</timemodified>
+        <title>Activity: Component #5 Nonexamples – Possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Reviewing and Checking for Prerequisite Knowledge and Skills&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While responses may vary, we’ve listed below one set of responses as to why each of these is a non-example of Checking for Prerequisite Knowledge and Skills.&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="225" valign="top" scope="col"&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="284" valign="top" scope="col"&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;What’s Wrong?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="225" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Ask one or two students to come to the board to demonstrate.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="284" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The teacher will only get information on the students who come to the board.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="225" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Review consists of asking students, “&lt;em&gt;Do you remember…?&lt;/em&gt;”&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="284" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Students may erroneously think they know or may be embarrassed to indicate they don’t remember.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="225" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Reteach all students the prerequisites as part of the lesson introduction.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="284" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Students may not need reteaching of all prerequisites, or not all students may need assistance. Also, effective reteaching takes time. If significant reteaching is needed, instructor needs to set aside the original lesson objective, and address the needed prerequisites.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm_2.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Identify an important skill or concept that you teach. &lt;br /&gt;What are the key prerequisite skills needed to master the skill or concept? &lt;br /&gt;How can you review and check on these skills with your students?&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="color: #800080;"&gt;Optional: &lt;/span&gt; &lt;/strong&gt;To learn more about activating prior knowledge, visit the resource below:    &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.dcc-cde.ca.gov/documents/Anita%20Archer%20-%202012/A.%20Archer%20-%20NCAC_BK.pdf" target="_blank"&gt;NCAC Background Knowledge: Curriculum Enhancement Report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="233">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="234">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="235">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="87">
+        <prevpageid>86</prevpageid>
+        <nextpageid>88</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379880679</timecreated>
+        <timemodified>1503521189</timemodified>
+        <title>EI Lesson Introduction – Component #6</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="227" height="156" style="float: right; margin-left: 10px;" alt="jumble of overlapping words - vocabulary" src="@@PLUGINFILE@@/LTA-EI-S2b-words.jpg" /&gt;Preteach New Vocabulary&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;During this last component of an EI lesson introduction an instructor should briefly introduce key vocabulary words. These are words that are :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;central to the content,&lt;/li&gt;
+&lt;li&gt;difficult to understand using context clues,&lt;/li&gt;
+&lt;li&gt;challenging to decode, and&lt;/li&gt;
+&lt;li&gt;probably not part of students’ oral vocabulary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left; margin-left: 240px;"&gt;&lt;span style="font-size: x-small;"&gt;Goeke, 2009, pp. 66-67&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Preteaching vocabulary:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps students anticipate challenging vocabulary they will be reading.&lt;/li&gt;
+&lt;li&gt;Can help activate students’ prior knowledge related to the new vocabulary.&lt;/li&gt;
+&lt;li&gt;Assists students in knowing what vocabulary is important to learn.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;When preteaching vocabulary:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DO:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Select words that are most important for the new learning.&lt;/li&gt;
+&lt;li&gt;Present and discuss words in context.&lt;/li&gt;
+&lt;li&gt;Expand and enrich the meaning of the words by presenting them in varied contexts.&lt;/li&gt;
+&lt;li&gt;Keep vocabulary instruction engaging and fast-paced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;DON’T:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a long laundry list of words.&lt;/li&gt;
+&lt;li&gt;Simply require students to look up or memorize rote definitions.&lt;/li&gt;
+&lt;li&gt;Delay the lesson with long, tedious vocabulary instruction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;Let’s look at some examples and non-examples of how to effectively pre-teach vocabulary.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="236">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880679</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="237">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880679</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="238">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880679</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="88">
+        <prevpageid>87</prevpageid>
+        <nextpageid>89</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379880951</timecreated>
+        <timemodified>1509034417</timemodified>
+        <title>Activity: Component #6 Examples and Nonexamples </title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Preteach New Vocabulary&lt;/strong&gt;&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="276" valign="top" scope="col"&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Examples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="228" valign="top" scope="col"&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Show a key vocabulary word in a sentence &lt;br /&gt;from a passage students will be reading &lt;br /&gt;and then discuss the meaning.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Give students a list of words to look up definitions.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;Introduce the word “retrospect” by &lt;br /&gt;discussing what the two word parts mean (“retro-” and “-spect”).&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Give students a list of 25 challenging words in a passage.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="276" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #008000;"&gt;After introducing a new word in context, &lt;br /&gt;ask students to try out using the new word orally with a partner. Then debrief the students.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Give students a list of words and dictionary definitions to use when reading a passage.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon_2.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Review the nonexamples above.&lt;br /&gt;What makes each of them a nonexample of a method for Preteaching New Vocabulary?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="239">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="240">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="241">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="89">
+        <prevpageid>88</prevpageid>
+        <nextpageid>91</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379881241</timecreated>
+        <timemodified>1509034450</timemodified>
+        <title>Activity: Component #6 Nonexamples – Possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;While responses may vary, we’ve listed below one set of responses as to why each of these is a nonexample of a method for Preteaching of New Vocabulary.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="228" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Nonexamples       &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="282" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;What’s Wrong?&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Give students a list of words to look up definitions.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="282" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Simply looking up definitions is not an effective or efficient method for learning new vocabulary.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Give students a list of 25 challenging words in a passage.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="282" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;The teacher is presenting a laundry list of new words, probably not just the most important words.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="228" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small; color: #ff0000;"&gt;Give students a list of words and dictionary definitions to use when reading a passage.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="282" valign="top"&gt;
+&lt;p&gt;&lt;span style="font-family: arial,helvetica,sans-serif; font-size: small;"&gt;Students may not learn the meanings of the words, just rote definitions.&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;strong&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt=" Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;In your mind, identify a key vocabulary word in an upcoming lesson that you think will be unfamiliar to many of your students. How could you briefly preteach this word to your students in a way that will help them better comprehend the word during the lesson?&lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="242">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379881241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="243">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379881241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="244">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379881241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="91">
+        <prevpageid>89</prevpageid>
+        <nextpageid>92</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1384972351</timecreated>
+        <timemodified>1508883175</timemodified>
+        <title>EI Lesson Introduction  - Putting it all together</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="192" height="140" style="float: right; margin-left: 10px;" alt="raised hand with pencil, teacher in the background pointing to hand" src="@@PLUGINFILE@@/LTA-EI-S2b-hand-in-air-pencil.jpg" /&gt;Now that we’ve looked at each of the Introduction components more closely, let’s once again consider how these elements fit together as a whole to promote learner self-regulation.&lt;br /&gt;&lt;br /&gt;To review, the explicit instruction lesson format has an introduction consisting of the following 6 components:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Gaining students’ attention&lt;/li&gt;
+&lt;li&gt;Informing students of the lesson’s objective/s&lt;/li&gt;
+&lt;li&gt;Identifying reason/s to learn&lt;/li&gt;
+&lt;li&gt;Connecting to prior knowledge&lt;/li&gt;
+&lt;li&gt;Reviewing and checking for prerequisite skills&lt;/li&gt;
+&lt;li&gt;Preteaching vocabulary&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Below, we’ve provided you with a tool to assist in designing and implementing an EI lesson introduction. Click on either link to download and save or print this planning tool for use in the activity below.&lt;/p&gt;
+&lt;p&gt;&lt;a href="@@PLUGINFILE@@/EI%20lesson%20introduction.docx" target="_blank"&gt;Explicit Instruction: Planning Your Lesson Introduction .doc file&lt;/a&gt;  - editable/printable&lt;br /&gt;&lt;a href="@@PLUGINFILE@@/LtAEI-S2-EI%20Lesson_Intro_Plan.pdf" target="_blank"&gt;&lt;br /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;br /&gt;Now we ask you to view a video of a lesson introduction.  &lt;br /&gt;As you watch, use the lesson introduction planning tool to:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;identify the introduction components,&lt;/li&gt;
+&lt;li&gt;estimate the amount of time spent on each component, and&lt;/li&gt;
+&lt;li&gt;reflect on the introduction overall.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; Click on the Video button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="245">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1384972351</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="246">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1384972351</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="247">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1384972351</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="92">
+        <prevpageid>91</prevpageid>
+        <nextpageid>90</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1384973880</timecreated>
+        <timemodified>1508883281</timemodified>
+        <title>Activity – Video EI Lesson Introduction</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Video - Alphabetics: Closed Syllable&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=zTZ-oqSWMSc&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;t=3s&amp;amp;index=2"&gt;Alphabetics: Closed Syllable&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3260" target="_blank"&gt;&lt;span style="font-size: small;" size="2"&gt;Video Transcript&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: small;" size="2"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window &lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: small;" size="2"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;&lt;em&gt;https://www.youtube.com/watch?v=zTZ-oqSWMSc&amp;amp;t&lt;/em&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #ffffff;"&gt;&lt;em&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;em&gt;&lt;strong&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; As you watch the video, take notes on what you observe.&lt;br /&gt;Use the lesson introduction planning tool (linked below) to:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;identify the introduction components,&lt;/li&gt;
+&lt;li&gt;estimate the amount of time spent on each component, and&lt;/li&gt;
+&lt;li&gt;reflect on the introduction overall.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;a href="@@PLUGINFILE@@/LtAEI-S2-EI%20Lesson_Intro_Plan.docx" target="_blank"&gt;Explicit Instruction: Planning Your Lesson Introduction .doc file&lt;/a&gt; - editable/printable&lt;br /&gt;&lt;a href="@@PLUGINFILE@@/LtAEI-S2-EI%20Lesson_Intro_Plan.pdf" target="_blank"&gt;Explicit Instruction: Planning Your Lesson Introduction .pdf file &lt;/a&gt; - printable&lt;i&gt;&lt;br /&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;This video is an excerpt from ones created by the California Adult Literacy Professional Development Project (CALPRO), a state Leadership Project of the California Department of Education (CDE), Adult Education Office. CALPRO produced them in collaboration with community adult schools of the Los Angeles Unified School District and the Outreach and Technical Assistance Network (OTAN). The videos were recorded and edited by Douglas Rennie of OTAN and they are copyright CALPRO 2011.  CDE and CALPRO have granted permission to include these excerpts in this free online professional learning course funded by OVAE and hosted on LINCS servers.&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="248">
+            <jumpto>74</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1384973880</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="249">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1384973880</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="250">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1384973880</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="90">
+        <prevpageid>92</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508883363</timemodified>
+        <title>EI Lesson Introduction - Review and Reflection</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;div&gt;In this section, we have examined an EI lesson format and its first component – the Lesson Introduction. We have also begun an exploration of how EI lesson components can support the important development of our students as self-regulated learners.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Now we ask you to reflect on what you have learned.&lt;/strong&gt;&lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt;You will be asked to post your thoughts to a discussion forum.&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm_2.jpg" /&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;&lt;strong&gt;How can you, as a teacher, use these six components (listed below) in a way that helps your students become self-regulated learners who:&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;set goals for their learning,&lt;/li&gt;
+&lt;li&gt;can describe their progress toward those goals, and&lt;/li&gt;
+&lt;li&gt;marshall their intellectual and emotional resources to solve problems and persist in working to master challenging content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+EI Lesson Introduction components:&lt;br /&gt;&lt;ol style="padding-left: 60px;"&gt;
+&lt;li&gt;Gaining students’ attention&lt;/li&gt;
+&lt;li&gt;Informing students of the session’s objective/s&lt;/li&gt;
+&lt;li&gt;Identifying reason/s to learn&lt;/li&gt;
+&lt;li&gt;Connecting to prior knowledge&lt;/li&gt;
+&lt;li&gt;Reviewing and checking for prerequisite skills&lt;/li&gt;
+&lt;li&gt;Preteaching vocabulary&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Finish to end this lesson, return to the Main Course Menu, and access the Discussion Forum to post your reflection.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="206">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="207">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="208">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Finish</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

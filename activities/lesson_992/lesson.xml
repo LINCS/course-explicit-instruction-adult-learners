@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="15" moduleid="992" modulename="lesson" contextid="1444">
+  <lesson id="15">
+    <course>25</course>
+    <name>4A - EI Lesson Plan – Part 3: Practice – Introduction and One-on-One Example </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>1</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1493998090</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="159">
+        <prevpageid>0</prevpageid>
+        <nextpageid>160</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503522166</timemodified>
+        <title>Review and Session 4 Objectives</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;b&gt;Explicit Instruction Lesson Plan – Practice and Closure&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="150" height="225" style="float: right;" alt="Overview - 3 business people discussing large plan document" src="@@PLUGINFILE@@/LTA-EI-S1a-Overview.jpg" /&gt;Last session we:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examined the role of skills and strategies in the context of explicit instruction and self-regulated learning.&lt;/li&gt;
+&lt;li&gt;Described how to analyze an academic task into steps.&lt;/li&gt;
+&lt;li&gt;Described how to explain and model a strategy or skill (including the use of a ‘think aloud’) based on that task analysis.&lt;/li&gt;
+&lt;li&gt;Continued development of an EI Lesson - incorporating the explain and model steps for a skill or strategy (based on a task analysis).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;In this session we will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examine how to structure scaffolded practice as an important component of EI.&lt;/li&gt;
+&lt;li&gt;Explore the teacher’s role in guided, peer-assisted, and independent practice.&lt;/li&gt;
+&lt;li&gt;Describe ways to provide lesson closure.&lt;/li&gt;
+&lt;li&gt;Complete the development of an EI Lesson for a skill or strategy incorporating the final steps of practice and closure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;EI Lesson Plan Format:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As previously stated, we are working our way through the four parts of our explicit instruction lesson plan format. In this session we will focus on the second part:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lesson Introduction&lt;/li&gt;
+&lt;li&gt;Teacher Explanation and Demonstration/Modeling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practice &amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Closure &amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="437">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="160">
+        <prevpageid>159</prevpageid>
+        <nextpageid>161</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1508945992</timemodified>
+        <title>Practice and retention</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;img width="150" height="172" style="margin-left: 10px; float: right;" alt="hands on a piano keyboard" src="@@PLUGINFILE@@/LtAEI-S4M2-Practice-Piano-sm.jpg" /&gt;Why is practice important? &lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;What is the connection between practice and retention?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In cognitive terms, &lt;strong&gt;practice&lt;/strong&gt; is how learners solidify information in long-term memory.  The more a person practices at appropriate levels of difficulty, the more likely they are to master the skills and strategies practiced.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;With which of these quotes do you most agree? Why?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;“Practice makes perfect.”  &lt;/li&gt;
+&lt;li&gt;“Practice makes better.”&lt;/li&gt;
+&lt;li&gt;“Practice is the best of all instructors.”  &lt;/li&gt;
+&lt;li&gt;“The more you sweat in practice, the less you bleed in battle.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s explore practice as part of explicit instruction and then check in at the end of this section to see if your opinion of these quotes has changed.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="438">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="439">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="161">
+        <prevpageid>160</prevpageid>
+        <nextpageid>162</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1503522185</timemodified>
+        <title>Practice and automaticity</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Sustained and focused practice can result in &lt;strong&gt;automaticity&lt;/strong&gt; – the ability to engage in tasks with little conscious mental effort.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;&lt;img width="200" height="152" style="margin-left: 10px; float: right;" alt="Car steering wheel and dashboard" src="@@PLUGINFILE@@/LtA-S3b-Drivecar.JPG" /&gt;Example - Driving&lt;/strong&gt; &lt;br /&gt;&lt;em&gt;Can you remember the first time you sat behind the wheel of a car? &lt;br /&gt;Did it seem like there were so many things to think about and do to drive?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;After driving for years, driving becomes an automatic process of accelerating, braking, changing lanes, and monitoring the cars around you. Veteran drivers can drive and expend mental effort on other tasks such as having a conversation, listening to the radio, or even breaking the law by cell phone texting.&lt;/p&gt;
+&lt;p&gt;Although we don’t want our learners texting while driving, we want them to master important skills and strategies. The higher the level of mastery, the more automatic the performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Automaticity and Self-Regulated Learning&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many of our learners do not get enough sustained and connected practice to have important skills and strategies become automatic. When they do not get enough practice to function independently, they often become discouraged learners who are dependent on others or do not persist with their education. Thus, &lt;strong&gt;the purpose of practice in explicit instruction is to give learners ample opportunities to become successful and confident in the target skill/strategy.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="440">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="441">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="442">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="162">
+        <prevpageid>161</prevpageid>
+        <nextpageid>163</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1508976604</timemodified>
+        <title>EI Practice -  The shift in teacher and student roles</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;In explicit instruction, practice is structured so that the learner is applying the procedures the teacher has explained and modeled.&lt;/p&gt;
+&lt;p&gt;&lt;img width="450" height="52" alt="Flow of learning: Starts with Explain then arrow points to Model then arrow points to Practice" src="@@PLUGINFILE@@/LtAEI-S4M1-Explain-Model-Practice.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Practice should enable learners to use these procedures as self-instructional guides that provide a way to plan, guide, and monitor their learning. This shift from teacher explanation and modeling to independent practice, however, should be gradual.&lt;/p&gt;
+&lt;p&gt;Below is a graphic depiction of how EI progresses from teacher-centered instruction to student-centered practice.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Take a minute and think about the graphic below. &lt;br /&gt;What do you think each phase: I DO, WE DO, and YOU DO means?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="484" height="357" style="display: block; margin-left: auto; margin-right: auto;" alt="Change in Teacher and Student Roles: 3 sets of figures, arranged on an arrow drawn from lower left to upper right. Lower left set: Large teacher figure next to small student figure labeled I DO; Middle set: equal sized teacher and student figures labled WE DO; top right set: small teacher figure next to large student figure labeled YOU DO" src="@@PLUGINFILE@@/LtAEI-S4-Change-in-roles.jpg" /&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt; Graphic from &lt;em&gt;Learning to Achieve: A Research-Based Training on Serving Adults with Learning Disabilities. &lt;br /&gt;&lt;/em&gt;2009 National Institute for Literacy Contract No. ED-NIL-09-C-0054 with TATC Consulting.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Let’s take a look at each section of this graphic in turn, beginning with I DO.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="443">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="444">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="445">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="163">
+        <prevpageid>162</prevpageid>
+        <nextpageid>164</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1508947826</timemodified>
+        <title>EI – I DO phase</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt; &lt;img width="130" height="217" style="margin-left: 10px; float: right;" alt="I Do graphic - Large red teacher stick figure, small blue student figure" src="@@PLUGINFILE@@/LtAEI-S3M2-I_DO.jpg" /&gt; I DO – Teacher Explanation and Modeling &lt;/strong&gt;&lt;/p&gt;
+This section of the graphic shows the beginning phase as the “I DO.”  The teacher is portrayed as big and the student as small because the teacher sets the foundation of learning by clearly showing the learner how to perform a new skill. The basis of I DO is teacher explanation and modeling of a clear procedure for performing the skill/strategy. The teacher explains and, most importantly, models.
+&lt;p&gt;In our previous exploration of modeling, we noted that teachers should model alone first, and then involve learners in subsequent modeling. This is the beginning of a shift away from the “I DO” phase of EI.&lt;/p&gt;
+&lt;p&gt;Next – WE DO&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="449">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="450">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="451">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="164">
+        <prevpageid>163</prevpageid>
+        <nextpageid>165</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878378</timecreated>
+        <timemodified>1503522351</timemodified>
+        <title>EI – WE DO phase</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="200" height="250" style="margin-left: 10px; float: right;" alt="We Do - Student and teacher Icons of equal/medium size; " src="@@PLUGINFILE@@/We%20DO.jpg" /&gt;WE DO – Teacher-Assisted Guided Practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;WE DO can begin with teacher-led practice. The purpose is for students to try out using what the teacher has explained and modeled. When implementing teacher-led practice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practice examples should be relatively short and easy to complete.&lt;/li&gt;
+&lt;li&gt;The teacher helps by providing prompts to use the procedure he/she has modeled. &lt;/li&gt;
+&lt;li&gt;The teacher provides immediate feedback to reinforce and clarify learners’ use of the skill or strategy procedure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that the teacher and the student are represented the same size in the graphic – they are more equally involved in practicing the new skill or strategy.&lt;/p&gt;
+&lt;p&gt;WE DO usually includes peer-assisted practice. Depending on learners’ grasp of the modeled procedure, this can occur after teacher-led practice or immediately after modeling.&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing a puzzle piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How can peer-assisted guided practice be important to the EI process?  &lt;br /&gt;Write down at least one reason before you move on.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="452">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="453">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="454">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="165">
+        <prevpageid>164</prevpageid>
+        <nextpageid>167</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097425</timecreated>
+        <timemodified>1508953446</timemodified>
+        <title>EI – WE DO – peer-assisted practice</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="250" height="208" style="margin-left: 10px; float: right;" alt="We Do with peer assistance - 1 small red teacher figure, group of large blue students figures" src="@@PLUGINFILE@@/We%20DO-peer.jpg" /&gt;Although many answers apply, here are some reasons we feel peer-assisted guided practice is an effective component of EI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It provides an opportunity for students to engage in dialogue, explanations and clarifications with peers (before relying on the teacher).&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Students may use language and explanations that are more familiar to each other.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;It engages more students at one time.  More students are  actively interacting with the material and each other than is possible with teacher-led practice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note that the teacher in this graphic is smaller, allowing peers to take a more significant role in supporting the practice of the new skill or strategy.&lt;/p&gt;
+&lt;p&gt;One very important goal of guided practice is for learners to become confident and motivated to use the skill/strategy steps. Thus guided practice means starting with small and easy exercises. The more successful learners are and the more ‘doable’ the procedure appears in the beginning, the more likely learners are to put forth continued effort.&lt;/p&gt;
+&lt;p&gt;Lastly, we’ll look at the YOU DO phase.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="455">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="456">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="457">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="167">
+        <prevpageid>165</prevpageid>
+        <nextpageid>169</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097511</timecreated>
+        <timemodified>1508949818</timemodified>
+        <title>EI – You DO phase</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="150" height="250" style="margin-left: 10px; float: right;" alt="You Do - 1 small teacher figure, 1 large student figure" src="@@PLUGINFILE@@/You%20DO.jpg" /&gt;YOU DO – Independent Practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Finally, in YOU DO, the learner takes ownership of the skill/strategy and the teacher provides feedback and guidance as needed. Thus, the teacher is now shown as smaller in the graphic and the student is the size the teacher was at the beginning. &lt;/p&gt;
+&lt;p&gt;Learners can practice independently once they can demonstrate they can use the skill/strategy competently. Typically, 80% accuracy is used as the indicator that a learner is ready to practice without significant assistance.  The goal is for learners to have enough practice to build both &lt;em&gt;&lt;strong&gt;accuracy&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;fluency&lt;/strong&gt;&lt;/em&gt; in successfully completing the target academic task.&lt;/p&gt;
+&lt;p&gt;Eventually, for each skill or strategy, we hope for the teacher to fade from the picture entirely. At that point, the learner could be said to have mastered the skill/strategy and be moving towards automaticity.&lt;/p&gt;
+&lt;p&gt;Let’s watch some example practice sessions.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="461">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="462">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="463">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="169">
+        <prevpageid>167</prevpageid>
+        <nextpageid>168</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097590</timecreated>
+        <timemodified>1508949888</timemodified>
+        <title>EI Practice – WE DO: One-on one examples (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="200" height="250" style="margin-left: 10px; float: right;" alt="We Do - Student and teacher Icons of equal/medium size" src="@@PLUGINFILE@@/We%20DO.jpg" /&gt;To start, we’ll revisit the QAR tutoring you viewed last session and see how the guided practice connects to the teacher explanation and modeling. We will then view the teacher providing feedback on the learner’s independent practice work.&lt;/p&gt;
+&lt;p&gt;This first video is an example of WE DO - where student and teacher have equal roles.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;span style="color: #008000;"&gt;If you would find it helpful, you can review the QAR strategy, including the videos of the teacher explanation and modeling , by clicking on the grey &lt;b&gt;Review&lt;/b&gt; button beside the Next button below.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Play the video below to observe the teacher guide the student through a first practice session of identifying and answering the QAR questions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As you watch, note what the teacher does and what the student does.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li style="list-style-type: none;"&gt;
+&lt;ul&gt;
+&lt;li&gt;In what ways was the learner actively involved?&lt;/li&gt;
+&lt;li&gt;In what ways was the teacher guiding the student?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video: QAR: Guided practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=-EICl_lP70o&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=7"&gt;QAR: Guided Practice&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3263&amp;amp;chapterid=998" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;https://www.youtube.com/watch?v=-EICl_lP70o&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p align="right"&gt;&lt;span style="font-size: x-small;"&gt;This video excerpt used with permission from &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;The National Center for Family Literacy/National Center for Families Learning (NCFL)&lt;/span&gt;&lt;br /&gt;&lt;a title="National Center for Families Learning" href="http://familieslearning.org/"&gt;&lt;span style="font-size: x-small;"&gt;http://familieslearning.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="467">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="468">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="469">
+            <jumpto>168</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Review</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="549">
+            <jumpto>170</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="170">
+        <prevpageid>168</prevpageid>
+        <nextpageid>172</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097625</timecreated>
+        <timemodified>1508950090</timemodified>
+        <title>Video Activity – QAR Guided Practice possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="188" height="235" style="margin-left: 10px; float: right;" alt="We Do - Student and teacher Icons of equal/medium size; " src="@@PLUGINFILE@@/We%20DO.jpg" /&gt;While many answers are possible, below are our responses to the questions regarding the QAR – Guided Practice video:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;In what ways was the learner actively involved? &lt;/em&gt;&lt;/strong&gt;The learner:&lt;strong&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discusses answers with teacher&lt;/li&gt;
+&lt;li&gt;Responds to teachers oral and visual prompts&lt;/li&gt;
+&lt;li&gt;Writes answers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;In what ways was the teacher guiding the student? &lt;/strong&gt;&lt;/em&gt;The teacher:&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Refers the learner to QAR guide sheet.&lt;/li&gt;
+&lt;li&gt;Prompts the student to identify the types of question and answers. Ex:&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;“Is there one sentence you can point to for the underground railroad?”&lt;/li&gt;
+&lt;li&gt;“What type of question do you think this is?”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ol&gt;
+&lt;p&gt;In this first guided practice the teacher did more talking than the student.  The teacher is actively guiding the student to use the QAR questions. As guided practice sessions continue, we would expect that the teacher would be talking less and less and the student would be talking and explaining more.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="470">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="471">
+            <jumpto>169</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="472">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="168">
+        <prevpageid>169</prevpageid>
+        <nextpageid>170</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097551</timecreated>
+        <timemodified>1503522403</timemodified>
+        <title>QAR Video Review</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Question-Answer-Relationship Strategy – For Review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This strategy helps students to identify and answer three types of reading comprehension questions.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;Right there&lt;/strong&gt; - The answer to a Right There question is easily found in the story or article. It’s right there!&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;Think and Search&lt;/strong&gt; - To answer this kind of question, you might have to look in more than one place in the story or article and put together ideas or information to get the answer.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;Writer and Me&lt;/strong&gt; - For this kind of question you have to use some of your own knowledge or experience. Some information is in the story or article, and some is “in your head.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=QdNC9qYQf18&amp;amp;index=3&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq"&gt;Introduction to the QAR Strategy&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=RUbrAFRtAkI&amp;amp;index=4&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq"&gt;QAR Modeling: Right There  &lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262&amp;amp;chapterid=995" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=Xg3JKnq3C8M&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=5"&gt;QAR Modeling: Think and Search  &lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262&amp;amp;chapterid=996" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=S_-GMUVFWnI&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=6"&gt;QAR Modeling: Writer and Me &lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262&amp;amp;chapterid=997" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;When you are done, click the Return button below.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="464">
+            <jumpto>169</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Return</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="172">
+        <prevpageid>170</prevpageid>
+        <nextpageid>173</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097704</timecreated>
+        <timemodified>1508950221</timemodified>
+        <title>EI Practice – YOU DO: One-on one example (Video Activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="100" height="167" style="margin-left: 10px; float: right;" alt="You Do - small teacher figure, large student figure" src="@@PLUGINFILE@@/You%20DO.jpg" /&gt;This next video is an example of YOU DO - where student and teacher have equal roles. Once the student is consistent in using the QAR strategy (identifying and answering the questions) it is time for independent practice.&lt;/p&gt;
+&lt;p&gt;At the start of this video, we see the instructor giving the independent practice assignment. We then move to their next meeting, where they review the homework and discuss the learner’s answers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;Play the video below &lt;/strong&gt;to watch the instructor and student discuss her independent practice of the QAR strategy. &lt;br /&gt;&lt;strong&gt;As you watch, make note of your answers to these questions:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What evidence do you see that the learner was ready for independent practice?&lt;/li&gt;
+&lt;li&gt;How well did the teacher connect her feedback to reinforce the learner’s use of the QAR strategy?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video: QAR: Independent practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=XqyK0bgSP2k&amp;amp;index=8&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq"&gt;QAR: Independent Practice&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3263&amp;amp;chapterid=999" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=XqyK0bgSP2k&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: x-small;"&gt;Excerpt used with permission from &lt;/span&gt;&lt;span style="font-size: x-small;"&gt;The National Center for Family Literacy/National Center for Families Learning (NCFL)&lt;/span&gt;&lt;/p&gt;
+&lt;p align="right"&gt;&lt;a title="National Center for Families Learning" href="http://familieslearning.org/"&gt;&lt;span style="font-size: x-small;"&gt;http://familieslearning.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="476">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="477">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="478">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="173">
+        <prevpageid>172</prevpageid>
+        <nextpageid>198</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097750</timecreated>
+        <timemodified>1508950269</timemodified>
+        <title>Video Activity – QAR Independent Practice possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="120" height="200" style="margin-left: 10px; float: right;" alt="You Do - small teacher figure, large student figure" src="@@PLUGINFILE@@/You%20DO.jpg" /&gt;While many answers are possible, listed below are our responses to the questions regarding the QAR – Independent practice video:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What evidence do you see that the learner was ready for independent practice?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;The learner successfully completed the activity and responded to teacher feedback indicating initial competence in the strategy using short passages.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How well did the teacher connect her feedback to reinforce the learner’s use of the QAR strategy?&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;The teacher consistently referred back to the QAR questions to provide feedback and reinforcement. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="479">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="480">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="481">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="198">
+        <prevpageid>173</prevpageid>
+        <nextpageid>174</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1408997358</timecreated>
+        <timemodified>1503522432</timemodified>
+        <title>Summary – EI One-on-one practice examples</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="250" height="205" style="margin-left: 10px; float: right;" alt="learner and instructor talking about reading from QAR video" src="@@PLUGINFILE@@/LtAEI-S4M1_QARstill.JPG" /&gt;These practice session videos provide clear examples of effective explicit instruction practice. During these videos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The teacher consistently prompted use of QAR.&lt;/li&gt;
+&lt;li&gt;The teacher used practice to continue to explain and demonstrate how to use QAR.&lt;/li&gt;
+&lt;li&gt;The learner was given an appropriate independent practice activity based on her performance.&lt;/li&gt;
+&lt;li&gt;Teacher feedback was directly tied to the use of QAR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;But wait, is this the end of the story?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;No! While the learner has demonstrated the ability to use QAR in short, simple reading passages, &lt;em&gt;&lt;strong&gt;practice should continue in passages with gradually more challenging content and length.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The goal is for the learner to have enough practice that the explicit use of QAR fades as she reads and recognizes the three types of QAR information in a passage. The goal is for this procedure to become automatic (as it is for skilled readers).&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="546">
+            <jumpto>159</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="547">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="548">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="174">
+        <prevpageid>198</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508950390</timemodified>
+        <title>Wrap-up EI Practice – Introduction </title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="267" height="200" style="border: 1px solid black; margin-left: 10px; float: right;" alt="Change in Teacher and Student Roles: I Do - large red teacher figure, small blue student figure; We Do - Both student and teacher icons are medium size; You Do - small teacher figure, large student figure" src="@@PLUGINFILE@@/LtAEI-S4-Change-in-roles.jpg" /&gt;In this lesson we examined scaffolded practice as a critical component of explicit instruction.  Through videos, you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Explored how an instructor would structure guided and independent practice in a one-on-one instructional situation.&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observed the teacher’s changing role in moving from modeling to guided practice and finally to independent practice.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Next we’ll examine scaffolded practice in a classroom learning situation, including peer-assisted guided practice.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Next to end this lesson, return to the Main Course Menu, and access the next session section.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="446">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="447">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="448">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

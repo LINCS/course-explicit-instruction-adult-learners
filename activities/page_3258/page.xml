@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="536" moduleid="3258" modulename="page" contextid="4104">
+  <page id="536">
+    <name>LINCS Survey</name>
+    <intro>&lt;p&gt;LINCS Survey&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;Congratulations on completing the LINCS course, we invite you to complete the survey. Your input is really valuable to us. We will use your feedback to improve LINCS trainings and professional development.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It typically takes 5 minutes to complete the survey. Your answers are completely anonymous and will be analyzed in combination with the answers of other course takers. Participation is voluntary.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Click here to start the survey: &lt;a href="https://www.surveygizmo.com/s3/4303396/DS04F-Explicit-Instruction-for-Adult-Learners-4-9-18" title="LINCS Customer Satisfaction Survey" target="_blank"&gt;&lt;span&gt;https://www.surveygizmo.com/s3/4303396/DS04F-Explicit-Instruction-for-Adult-Learners-4-9-18&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Should you have any questions about this survey, please contact Marilia Mochel, &lt;a href="mailto:mmochel@manhattanstrategy.com"&gt;mmochel@manhattanstrategy.com&lt;/a&gt;, or Jessie Stadd, &lt;a href="mailto:jstadd@manhattanstrategy.com" target="_blank"&gt;jstadd@manhattanstrategy.com&lt;/a&gt;. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;We appreciate your time and input.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Thank you,&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The LINCS Team&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1524174487</timemodified>
+  </page>
+</activity>

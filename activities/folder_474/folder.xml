@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="474" modulename="folder" contextid="745">
+  <folder id="1">
+    <name>Session 1 Images</name>
+    <intro>&lt;p&gt;Images  for Session 1&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <revision>20</revision>
+    <timemodified>1401828948</timemodified>
+    <display>0</display>
+    <showexpanded>1</showexpanded>
+  </folder>
+</activity>

@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="16" moduleid="993" modulename="lesson" contextid="1445">
+  <lesson id="16">
+    <course>25</course>
+    <name>4B - EI Lesson Plan – Part 3: Practice – Classroom Example </name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>1</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1415727065</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="175">
+        <prevpageid>0</prevpageid>
+        <nextpageid>177</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1508951841</timemodified>
+        <title>EI Practice – Classroom Example: Background</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;In the previous example of practice in an EI lesson, we examined a one-on-one teaching scenario. Teachers often, however, aren’t able to allot so much time for an individual student. Let’s continue exploring practice by observing how a teacher structures practice for a larger group of learners – a math class.&lt;/p&gt;
+&lt;p&gt;In this class, the teacher is guiding students through math problems with percent calculations. Previously, she has:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explained and modeled how to solve problems with percents.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Introduced the three main types of  problems with percents.
+&lt;ul&gt;
+&lt;li&gt;problems looking for the whole&lt;/li&gt;
+&lt;li&gt;problems looking for the %&lt;/li&gt;
+&lt;li&gt;problems looking for the part&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Explained and modeled the formulas using a graphic representation (see below) as well as using typical math formulas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table style="width: 708px; height: 361px;" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr valign="top"&gt;
+&lt;td&gt;&lt;img width="250" height="418" alt="Percent triangle - Equilateral triangle with P in the top corner, W in the left corner and a percent sign in the right corner" src="@@PLUGINFILE@@/LtAEI-S4M2-Percent-triangle.jpg" /&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;p&gt;&lt;strong&gt;To Find the PART&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. Cover the P&lt;/p&gt;
+&lt;p&gt;2. W (whole) is next to %&lt;/p&gt;
+&lt;p&gt;3. Multiply the whole by the percent (in decimal form)  &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To Find the WHOLE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. Cover the W&lt;/p&gt;
+&lt;p&gt;2.  P (part) is over the %&lt;/p&gt;
+&lt;p&gt;3.  Divide the part by the percent (in decimal form)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To Find the PERCENT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1. Cover the %&lt;/p&gt;
+&lt;p&gt;2.  P (part) is over the W (whole)&lt;/p&gt;
+&lt;p&gt;3. Divide the part by the whole and multiply by 100&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="482">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="177">
+        <prevpageid>175</prevpageid>
+        <nextpageid>179</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1508952206</timemodified>
+        <title>EI Practice – Classroom Example: Guided Practice #1 (video activity) </title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Remember, in explicit instruction, practice is structured so that the learner is applying the procedures the teacher has explained and modeled.&lt;/p&gt;
+&lt;p&gt;&lt;img width="500" height="58" alt="Flow of Explicit Learning: Explain then arrow points to Model then arrow points to Practice" src="@@PLUGINFILE@@/LtAEI-S4M1-Explain-Model-Practice.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;As you view the next few videos, we’ll see that this instructor’s guided practice is focused on helping students to first identify the type of problem (whole, part, %), and then apply the correct procedure to calculate the answer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guided practice problem #1:&lt;/strong&gt; In this video, students are solving this problem:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;A ticket to the Super Bowl costs $500 plus 8% entertainment tax. What is the total cost of the ticket? The teacher has the formula on the board. P(part) = % X w (whole)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Play the video below to watch a clip from&lt;/strong&gt; &lt;em&gt;Observing Standards-in-Action: Math Classroom Lesson. &lt;/em&gt; &lt;strong&gt;As you watch, observe both the teacher and the students, making note of your answers to these questions:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What does the teacher do to guide her students through the first practice exercise? What is most effective? What could she do to be more effective?&lt;/li&gt;
+&lt;li&gt;How able are students to answer her questions during this first practice? What do they seem to understand and not understand?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;We will suggest you refer to these notes in a later discussion forum post.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Guided Practice #1&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=7WYDpxzVq7c&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=9" target="_blank"&gt;SIA: Math Guided Practice #1&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3263&amp;amp;chapterid=1000" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=7WYDpxzVq7c&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;This video is a part of Standards-in-Action: Innovations for Standards-Based Education, produced under &lt;br /&gt;U.S. Department of Education Contract No. ED-04-CO-0121/0001 with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. &lt;br /&gt;Copyright © 2011 assigned to the U.S. Department of Education. All rights reserved, used with permission.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="485">
+            <jumpto>175</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="486">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="487">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="179">
+        <prevpageid>177</prevpageid>
+        <nextpageid>181</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1508952351</timemodified>
+        <title>EI Practice – Classroom Example: Guided Practice #2 (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="200" height="335" style="float: right;" alt="Percent triangle - Equilateral triangle with P in the top corner, W in the left corner and a percent sign in the right corner" src="@@PLUGINFILE@@/LtAEI-S4M2-Percent-triangle.jpg" /&gt;&lt;strong&gt;Guided practice problem #2:&lt;/strong&gt; In this video, students are solving this problem:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;Ben Roethlesberger completed 70% of his passes. He attempted 30 passes. &lt;br /&gt;How many were completed?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Note that the teacher reminds students of the percent triangle graphic as a tool to solve % problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;Play the video below to watch a 2nd clip from&lt;/strong&gt; &lt;em&gt;Observing Standards-in-Action: Math Classroom Lesson.&lt;/em&gt; &lt;strong&gt; As you watch, observe both the teacher and the students, making note of your answers to these questions:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What does the teacher do to guide her students through the second practice exercise?&lt;ol&gt;
+&lt;li&gt;How do her questions guide the students to figure out the answer?&lt;/li&gt;
+&lt;li&gt;What is she learning about her students from their responses to her questions?&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;How able are students to answer her questions during this second practice?&lt;/li&gt;
+&lt;li&gt;What do they seem to understand and not understand?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Math Guided Practice #2&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=P6P8G2N08TQ&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=10"&gt;SIA: Math Guided Practice #2&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3263&amp;amp;chapterid=1001" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=P6P8G2N08TQ&lt;/em&gt;&lt;/p&gt;
+&lt;p style="width: 716px; text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;This video is a part of Standards-in-Action: Innovations for Standards-Based Education, produced under &lt;br /&gt;U.S. Department of Education Contract No. ED-04-CO-0121/0001 with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. &lt;br /&gt;Copyright © 2011 assigned to the U.S. Department of Education. All rights reserved, used with permission.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt; &lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="494">
+            <jumpto>175</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="495">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="496">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="181">
+        <prevpageid>179</prevpageid>
+        <nextpageid>183</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097425</timecreated>
+        <timemodified>1508953010</timemodified>
+        <title>EI Practice – Classroom Example: Guided Practice #3  (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong id="yui_3_13_0_2_1441914130150_191"&gt; &lt;img width="200" height="335" style="float: right;" alt="Percent triangle - Equilateral triangle with P in the top corner, W in the left corner and a percent sign in the right corner src=" src="@@PLUGINFILE@@/LtAEI-S4M2-Percent-triangle.jpg" /&gt; Guided practice problem #3:&lt;/strong&gt; In this video, students are solving this problem:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;If you got 62 out of 85 questions right on a test, what percentage of the questions did you get correct?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The teacher is now focusing on how to find the percent when the part and the whole are known.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;Play the video below to watch a 3rd clip from&lt;/strong&gt; &lt;em&gt;Observing Standards-in-Action: Math Classroom Lesson.&lt;/em&gt; &lt;strong&gt; As you watch, observe both the teacher and the students, making note of your answers to these questions:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What does the teacher do to guide her students through the third practice exercise?&lt;ol&gt;
+&lt;li&gt;How intentional is her use of the three main percent problem parts (part, %, whole)?&lt;/li&gt;
+&lt;li&gt;Why do you think she uses a short problem and has students use their calculators?&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;How able are students to answer her questions during this third practice?&lt;/li&gt;
+&lt;li&gt;What might be some reasons for how students respond to the teacher’s questions?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;We will suggest you refer to these notes in a later discussion forum post.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Guided Practice #3&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=AWQCkkQ1EQA&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=11"&gt;SIA: Math Guided Practice #3&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3263&amp;amp;chapterid=1003" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359472701_434" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=AWQCkkQ1EQA&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;This video is a part of Standards-in-Action: Innovations for Standards-Based Education, produced under &lt;br /&gt;U.S. Department of Education Contract No. ED-04-CO-0121/0001 with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. &lt;br /&gt;Copyright © 2011 assigned to the U.S. Department of Education. All rights reserved, used with permission.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="500">
+            <jumpto>175</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="501">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="502">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="183">
+        <prevpageid>181</prevpageid>
+        <nextpageid>184</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097511</timecreated>
+        <timemodified>1509109798</timemodified>
+        <title>EI Practice – Classroom Example: Peer-assisted Guided Practice  (video activity)</title>
+        <contents>&lt;p&gt;&lt;strong&gt;&lt;img width="200" height="250" style="margin-right: 10px; float: right;" alt="We Do - Student and teacher Icons of equal/medium size" src="@@PLUGINFILE@@/We%20DO.jpg" /&gt;Are these students now ready for independent practice?&lt;/strong&gt; &lt;br /&gt;&lt;em&gt;No.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;After these three practice sessions, the teacher engages her learners for another 30 minutes in working through problems. A student reads a problem, the teacher guides learners to determine whether it is the whole, part, or, % that is missing. She then prompts them to decide whether they need to multiply or divide using either the formulas or the % triangle. For easier problems they calculate on paper, for larger numbers they use the calculator.&lt;/p&gt;
+&lt;p&gt;The teacher then ends class practice time with peer-assisted guided practice. She hands out an ad section from the newspaper along with directions for student pairs (listed below).&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;Newspaper Ad Percent Practice Directions:&lt;/strong&gt; &lt;br /&gt;&lt;em&gt;With a partner, identify one item to purchase and make the following calculations. &lt;/em&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;A. How much will the item cost with a 15% discount? &lt;/em&gt;&lt;br /&gt;&lt;em&gt;B. Calculate and add sales tax for total cost. &lt;/em&gt;&lt;br /&gt;&lt;em&gt;C. How much would you pay with a 6 month installment plan that adds 5% to your monthly payment? &lt;/em&gt;&lt;br /&gt;&lt;em&gt;D. Check to make sure that the monthly payment will not be more than 10% of a monthly income of $1,200.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Play the video below to watch this next clip from&lt;/strong&gt; &lt;em&gt;Observing Standards-in-Action: Math Classroom Lesson. &lt;/em&gt; &lt;strong&gt;As you watch, observe to assess how well the practice activity accomplished these purposes:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table style="width: 710px; height: 89px;" border="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="350" valign="top" style="text-align: center;" scope="col"&gt;&lt;strong&gt;Teacher Role&lt;/strong&gt;&lt;/th&gt;&lt;th width="350" valign="top" style="text-align: center;" scope="col"&gt;&lt;strong&gt;Student Role&lt;/strong&gt;&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide practice examples that are relatively short and easy to complete.&lt;/li&gt;
+&lt;li&gt;Prompt learners to use the procedures that have been explained and modeled.&lt;/li&gt;
+&lt;li&gt;Provide feedback to reinforce and clarify.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;ul&gt;
+&lt;li&gt;Engage actively with peers.&lt;/li&gt;
+&lt;li&gt;Apply procedures teacher has explained and modeled.&lt;/li&gt;
+&lt;li&gt;Rely on self and peer before looking for teacher assistance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;We will suggest you refer to these notes in a later discussion forum post.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Peer-Assisted Guided Practice&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=e12EQoRUGHc&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=12"&gt;SIA: Peer-Assisted Guided Practice&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3263&amp;amp;chapterid=1002" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/div&gt;
+&lt;div style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt; https://www.youtube.com/watch?v=e12EQoRUGHc&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p align="right" style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;This video is a part of Standards-in-Action: Innovations for Standards-Based Education, &lt;/em&gt;&lt;em&gt;produced under U.S. Department of Education Contract No. ED-04-CO-0121/0001 &lt;/em&gt;&lt;em&gt;with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;Copyright © 2011 assigned to the U.S. Department of Education. &lt;/em&gt;&lt;em&gt;All rights reserved, used with permission.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="506">
+            <jumpto>175</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="507">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="508">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="184">
+        <prevpageid>183</prevpageid>
+        <nextpageid>185</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097551</timecreated>
+        <timemodified>1508953250</timemodified>
+        <title>EI Practice – Classroom Example Summary</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="250" height="188" style="margin-right: 10px; float: right;" alt="EI Change in Teacher and Student Roles Graphic: progressing from I Do to We Do to You Do" src="@@PLUGINFILE@@/LtAEI-S4-Change-in-roles.jpg" /&gt;In these 4 examples, we observed teacher-assisted and peer-assisted guided practice sessions for a whole-class EI math lesson. Please take a moment to reflect on this teacher’s overall performance, considering the guidelines below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guided Practice Guidelines:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Students are trying out the  procedure(s) the teacher has explained and modeled.&lt;/li&gt;
+&lt;li&gt;Practice examples should be relatively short and easy to complete.&lt;/li&gt;
+&lt;li&gt;The teacher prompts learners to use the procedure he/she has modeled.&lt;/li&gt;
+&lt;li&gt;The teacher provides feedback to reinforce and clarify.&lt;/li&gt;
+&lt;li&gt;Responsibility for using the procedure is gradually transferred from the teacher to students as students demonstrate competence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="65" height="60" style="margin-right: 10px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;What is your assessment of how well the math teacher orchestrated guided practice for her math students?  &lt;/strong&gt;What did you observe that was effective? &lt;br /&gt;&lt;strong&gt;What recommendations would you make to have the four guided practice activities be more productive for students?&lt;/strong&gt; What would you recommend for structuring the next session’s practice exercises?&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;&lt;strong&gt;Refer to your notes on the videos to enhance your reflection.&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="509">
+            <jumpto>175</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="510">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="511">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="185">
+        <prevpageid>184</prevpageid>
+        <nextpageid>186</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097590</timecreated>
+        <timemodified>1508953343</timemodified>
+        <title>EI Practice – QAR and Math Comparison</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="75" height="113" style="margin-right: 10px; margin-left: 10px; float: right;" alt="SIA Math Instructor headshot" src="@@PLUGINFILE@@/LtAEI-S4M2_SIA-headshot-tirangle.jpg" /&gt;&lt;img width="75" height="109" title="QAR" style="margin-left: 10px; float: right;" alt="QAR teacher Headshot" src="@@PLUGINFILE@@/LtAEI-S4M2_QAR-headshot.jpg" /&gt;You’ve now had the opportunity to observe two different teachers’ approaches towards the practice component of an EI lesson.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How do they compare?&lt;/strong&gt; &lt;br /&gt;Although the two practice situations you viewed provided two very different teaching situations (tutoring vs. class), it is possible to compare and contrast how well the two teachers provided practice.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;In your opinion, which teacher (QAR vs. math) did a better job of keeping the practice tightly connected to the process she was teaching?&lt;/strong&gt; What effect do you think this would have on student success during independent practice? How might this affect your own use of practice with adult learners?&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt; Refer to your notes on the videos to enhance your reflection.&lt;/strong&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="512">
+            <jumpto>175</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="513">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="514">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="186">
+        <prevpageid>185</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097625</timecreated>
+        <timemodified>1508953550</timemodified>
+        <title>EI Practice – Wrap Up</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="240" height="200" style="margin-left: 10px; float: right;" alt="We Do with peer assistance - 1 small red teacher figure, group of large blue students figures" src="@@PLUGINFILE@@/We%20DO-peer.jpg" /&gt;During this lesson, we examined scaffolded practice in a whole-class EI lesson. In particular, we were able to observe how a teacher structured peer-assisted guided practice. You also had the opportunity to compare two different teachers’ use of practice as part of an EI lesson.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Now we ask you to reflect on what you have learned.&lt;/strong&gt; &lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt;You will be asked to post your thoughts to a discussion forum.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;What are the key ideas you’ve gathered regarding the practice step of an EI lesson? &lt;br /&gt;What questions or concerns do you have?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And also, &lt;strong&gt;based on your experiences in both this and the previous lesson, which of these quotes do you now most agree with?&lt;/strong&gt; Did your opinion change or stay the same? Why?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;"Practice makes perfect."&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;"Practice makes better."&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;"Practice is the best of all instructors."&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;"The more you sweat in practice, the less you bleed in battle."&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to complete this section and return to the Main Menu.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="515">
+            <jumpto>175</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="516">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="517">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

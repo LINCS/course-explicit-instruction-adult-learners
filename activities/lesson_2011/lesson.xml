@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="107" moduleid="2011" modulename="lesson" contextid="2673">
+  <lesson id="107">
+    <course>25</course>
+    <name>GETTING STARTED - Click here for key online course information</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>1</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1523979447</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1313">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1314</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1378239026</timecreated>
+        <timemodified>1508981235</timemodified>
+        <title>Course Schedule and Structure</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Course Schedule&lt;/span&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is a 6-week course (designed to be about 2-3 hours of work per week).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Week 1:  Introduction to Explicit Instruction (Session 1)&lt;/li&gt;
+&lt;li&gt;Week 2:  EI Lesson Construction for Skill and Strategies – Lesson Format and Introduction (Session 2)&lt;/li&gt;
+&lt;li&gt;Week 3:  Explanation and Modeling for Skill and Strategy Learning (Session 3)&lt;/li&gt;
+&lt;li&gt;Week 4:  Providing Practice and Closure for Skill and Strategy Learning (Session 4)&lt;/li&gt;
+&lt;li&gt;Week 5:  Content learning – Explanation and Modeling (Session 5)&lt;/li&gt;
+&lt;li&gt;Week 6:  Content Learning – Practice and Closure (Session 6) and Course Wrap Up (Session 7)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;&lt;img width="227" height="200" style="margin-left: 10px; float: right;" alt="clock overlayed on a calendar page" src="@@PLUGINFILE@@/LTA-EI-GS-schedule.jpg" /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;Assignment Due Dates: &lt;/b&gt;Your facilitator will send you a list of specific assignment due dates for this course via e-mail.  These due dates are designed to help you pace yourself in order to get the most out of this online professional development experience.  If you have any concerns about assignment due dates, please contact your course facilitator.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Course Structure&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Throughout this course you will be asked to:&lt;/p&gt;
+&lt;ul type="disc"&gt;
+&lt;li&gt;post your reflections and share your thoughts with the facilitator and with each other;&lt;/li&gt;
+&lt;li&gt;read other participants’ reflections and respond;&lt;/li&gt;
+&lt;li&gt;read online texts, watch example videos, and explore online resources;&lt;/li&gt;
+&lt;li&gt;complete individual activities;&lt;/li&gt;
+&lt;li&gt;reflect on how new knowledge and skill relate to or affect your experience;&lt;/li&gt;
+&lt;li&gt;apply new learning to your own situation;&lt;/li&gt;
+&lt;li&gt;learn about LINCS professional development resources. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Skills for Successful Online Learning&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It is important to note that, for most people, online learning can be a different experience from face learning.  If you have not taken another facilitated LINCS Moodle course, we recommend that you take time to review the article linked to the button at the bottom of the page, &lt;em&gt;Face to Face vs. Online Learning.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2810">
+            <jumpto>1315</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1378239026</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2819">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1378239026</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Face to Face vs. Online Learning</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1314">
+        <prevpageid>1313</prevpageid>
+        <nextpageid>1315</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1378327009</timecreated>
+        <timemodified>1523978616</timemodified>
+        <title>Face to Face vs. Online Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;&lt;br /&gt;&lt;strong&gt;What are some important differences between face-to-face workshops and asynchronous, discussion based courses offered online?&lt;/strong&gt; As you review the list of key differences, think about which of these differences is the most important to you, personally, and what you might do to help yourself be a successful online learner.&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;br /&gt;&lt;strong&gt;&lt;img width="156" height="200" style="margin-left: 10px; float: right;" alt="Thoughtful man looking at laptop screen" src="@@PLUGINFILE@@/LTA-EI-GS-onlinelearning.jpg" /&gt;Sequencing Course Information&lt;/strong&gt;&lt;br /&gt;In a traditional classroom, the instructor or facilitator may choose from a wide variety of materials but presents the information in a linear fashion. However, in an online course, it is largely the participants who determine when and in what sequence they will access course information that is available to them (e.g., Web sites, lectures, readings, discussions).&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Accommodating Multiple Learning Styles&lt;/strong&gt;&lt;br /&gt;Face-to-face, the instructor may employ a variety of means to deliver training, such as lectures, assigned readings, small-group discussions and task-based learning and other assignments. Online, the instructor and students may be more limited to the written word and would likely rely more heavily on writing and reading responses. To ward against this, online instructors can consciously incorporate different multimedia and collaborative, small-group activities.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Nature Of Discussions&lt;/strong&gt;&lt;br /&gt;Face-to-face classroom discussions have the potential to be spontaneous and lively, and discussions can take off suddenly in different directions, with unexpected comments or questions. Online, the discussions are more likely to be more reflective and perhaps consider a topic or issue more thoughtfully than in a classroom discussion; here participants have more time to ponder questions and comments posed by the instructor and respond to them when they are ready.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Class Participation&lt;/strong&gt;&lt;br /&gt;In a face-to-face class, the instructor may make efforts to engage all participants, calling on individuals by name, for example, for an on-the-spot response. Online, participants decide for themselves how actively they will take part in the course. They may interact in different times and even different in time zones, and thus not be participating as one whole group in real-time. The online instructor must take care to elicit comments from all students, including those who may be "quiet" or not very visible.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;&lt;img width="159" height="200" style="margin-right: 10px; float: left;" alt="worried woman looking at a laptop screen" src="@@PLUGINFILE@@/LTA-EI-GS-sonlinelearning2.jpg" /&gt;Clarifying Misunderstandings&lt;/strong&gt;&lt;br /&gt;In a face-to-face class, body language (facial expressions, gestures, tone of voice) contributes a great deal to everyone's understanding of the messages conveyed and clarification can be immediate and brief. Online, in contrast, participants and facilitator alike may easily misinterpret the tone or intention of another's remark, and over time, misunderstandings can occur or can become exacerbated. Therefore, it is important for online learners to give the author of a remark the benefit of the doubt, and to follow simple rules of Netiquette, such as not using all capital letters (the equivalent of screaming at someone on the Internet).&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Accommodating Different Personalities&lt;/strong&gt;&lt;br /&gt;In a face-to-face course, shy participants, or participants who perceive that their language proficiency is not as strong as that of their colleagues, may refrain from contributing much to class discussions. They may feel that more outgoing or outspoken participants dominate classroom conversations. Online, however, research shows that shy or less proficient students tend to blossom, as they are given the time they need to formulate their thoughts and feel that they are on a more level playing field, so to speak. As well, discrimination related to age, gender, or other factors does not come into play as heavily in an online class, in which participants usually can neither see nor hear each other.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Course Duration&lt;/strong&gt;&lt;br /&gt;Face-to-face classes meet for set periods of time and are relatively brief, compared to online classes. Online, participants need considerably more time to read and respond to comments made in class. Yet, by spanning a longer period of days or weeks, the online class has the potential to incorporate more reflection and practical application, as participants may relate what they are learning in class to what they are doing in the rest of their lives. This contrasts to the one-time workshop, which, research has shown, tends to have less impact on significantly changing a participant's actions. Here, for example, think of the one-off teacher development workshop and its ability to make a significant difference in how the teacher works with his or her learners.&lt;br /&gt; &lt;br /&gt;&lt;strong&gt;Access&lt;/strong&gt;&lt;br /&gt;Face-to-face classes are certainly more familiar to most participants than online courses, and depending on where the learners live and work, they may be easily accessed. However, as participants in professional development courses take on additional responsibilities (work, family and professional development), their schedules may become so impacted that it is nearly impossible to pursue further education. For those participants whose schedules do not easily permit taking a course at a regular schedule, online courses, which can be accessed 24 hours a day, seven days a week, from any computer with an Internet connection, can be a great boon. As well, for those participants who live in remote areas, or who are physically challenged, connecting to an online course may provide access to an education that would otherwise not be possible.&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div style="width: 716px;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on Next below to continue, OR click on Back below to return to the previous slide.&lt;/span&gt;&lt;/strong&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2811">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1378327009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2812">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1378327009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1315">
+        <prevpageid>1314</prevpageid>
+        <nextpageid>1316</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379451197</timecreated>
+        <timemodified>1523978732</timemodified>
+        <title>Course Readings, Reflections and Activities</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Course Readings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Readings provide information on the session topic, as well as opportunities for reflection on your own experiences and instructional practices. Readings may also contain visual examples, videos and activities to assist you in applying course concepts and ideas to your own teaching situations and contexts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;Within a reading, this “puzzle brain” icon indicates an opportunity for &lt;b&gt;reflection.&lt;/b&gt; Before reading further, stop and think about the information just presented, using the question prompts to guide your thinking. Sometimes we will suggest you take notes on your answers for reference in later course activities or assignments. These notes are private, but &lt;strong&gt;we recommend keeping these notes organized in a single, easy to access location.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="69" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;During readings, we may ask you to complete a task or &lt;strong&gt;activity&lt;/strong&gt; relating to a specific point or concept. Indicated by this "hand placing puzzle piece" icon, these activities typically ask you to &lt;em&gt;apply&lt;/em&gt; what you have just learned. Examples include: watching a video while taking note of key statements or actions; making note of answers to questions, reviewing a document to identify specific information, etc. Like the reflection questions, sometimes we will ask you to make note of your answers for later course activities or assignments.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Course Resources and References&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For each course week, there are a list of references and suggested resources/readings.   Many of the items on these lists can be found in  the  LINCS Resource Collection online. We have provided direct web  links  to  cited documents where  possible.  For your convenience, Session 7 contains a Course References and Resources list collecting all individual session lists into a single document.&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt; &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next link below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2816">
+            <jumpto>1313</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379451197</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2817">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379451197</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2818">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379451197</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1316">
+        <prevpageid>1315</prevpageid>
+        <nextpageid>1317</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379434757</timecreated>
+        <timemodified>1508981305</timemodified>
+        <title>Course Discussions and Assignments</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;b&gt;Participant Discussions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="65" height="50" style="margin-right: 10px; float: left;" alt="Discussion Graphic - multicolored heads with gear thought balloons" src="@@PLUGINFILE@@/LTA-EI-Discussionicon.jpg" /&gt;Your first required activity in this course will be to participate in an online &lt;strong&gt;Discussion&lt;/strong&gt; – Participant Introductions. Discussions are designed to build an online learning community and are an important component of this online course. There is at least one required discussion activity for each course session.&lt;/p&gt;
+&lt;p&gt;To enhance the learning experience for all participants, we encourage you to &lt;b&gt;actively participate&lt;/b&gt; &lt;b&gt;in course discussions&lt;/b&gt; by:&lt;/p&gt;
+&lt;ul type="disc"&gt;
+&lt;li&gt;Posting your thoughts in a timely manner&lt;/li&gt;
+&lt;li&gt;Reading and replying to other’s posts&lt;/li&gt;
+&lt;li&gt;Checking back to earlier discussions to respond to peers' questions and comments.&lt;/li&gt;
+&lt;li&gt;Being respectful of the diverse points of view brought to this course by your peers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Note: you are not being evaluated on spelling, grammar or writing form in your discussion posts.  A casual, conversational tone to your writing is appropriate.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Session Assignments&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="59" height="50" style="margin-right: 10px; float: left;" alt="Assignment icon - hand writing in notebook" src="@@PLUGINFILE@@/LTA-EI-Assignmenticon.jpg" /&gt;Each session has at least one required &lt;strong&gt;Assignment&lt;/strong&gt; activity focused around planning Explicit Instruction (EI) lessons. These are designed to help you independently apply and practice what you have learned from the readings and other activities. These lesson planning assignments build on one another, each focusing on a specific facet of the EI lesson planning process. In general, assignments will be submitted only to your facilitator, although there are opportunities to share your completed lesson with your peers in the course.&lt;/p&gt;
+&lt;p&gt;Together, Discussions and Assignments constitute “peer guided practice” and “independent practice” components for participants in this course (more on these concepts in Sessions 2 and 4).&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click Next below to continue.&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2813">
+            <jumpto>1313</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379434757</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2814">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379434757</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2815">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379434757</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1317">
+        <prevpageid>1316</prevpageid>
+        <nextpageid>1318</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442454068</timecreated>
+        <timemodified>1470332617</timemodified>
+        <title>Course Navigation and About LINCS</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;You are about ready to get started with the course! Below are two resources that you may want to review before you get started.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(1) Course Navigation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you have not recently taken a LINCS facilitated online course, we strongly recommend that you &lt;strong&gt;click on the Course Navigation button below&lt;/strong&gt;. This will provide you with a "how-to" for navigating between the course outline area, readings (lessons), course discussions and assignments in the LINCS Online Learning Portal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(2) LINCS Overview&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="margin-left: 10px; float: right;" alt="LINCS Logo - Literacy INformation and Communication System" src="@@PLUGINFILE@@/LtA-EI-WU-LINCSlogo2012.jpg" height="94" width="245" /&gt;This course is brought to you by the Literacy Information and Communication System (LINCS).&lt;i&gt; &lt;/i&gt;LINCS serves as a portal accessing a wide variety of resources specific to adult education. To access LINCS visit: &lt;a href="http://lincs.ed.gov/" target="_blank"&gt;http://lincs.ed.gov/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For more information about LINCS, &lt;strong&gt;click on the LINCS button below&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click the Next button below to return to the Course Outline and access the first topic's readings and activities: &lt;em&gt;Introduction to EI&lt;/em&gt;.&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2820">
+            <jumpto>1313</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454068</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2821">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454068</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2825">
+            <jumpto>1318</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454068</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>LINCS</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2827">
+            <jumpto>1319</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454068</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Course Navigation</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2828">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454068</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1318">
+        <prevpageid>1317</prevpageid>
+        <nextpageid>1319</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442454405</timecreated>
+        <timemodified>1523979183</timemodified>
+        <title>LINCS Overview</title>
+        <contents>&lt;p&gt;&lt;b&gt;Why Should You Visit LINCS Regularly?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;LINCS provides you with the information, resources, activities, and network you need to enhance your practice in order to provide your students with high-quality learning opportunities.&lt;/p&gt;
+&lt;p&gt;&lt;img width="384" height="200" style="display: block; margin-left: auto; margin-right: auto;" alt="Screen shot of the LINCS home page showing the LINCS Learning Portal, Community and Resource collection" src="@@PLUGINFILE@@/LtA-EI-GS-LINCSHome.PNG" /&gt;&lt;/p&gt;
+&lt;p&gt;LINCS offers:&lt;/p&gt;
+&lt;ul type="disc"&gt;
+&lt;li&gt;A &lt;b&gt;Resource Collection&lt;/b&gt; containing high-quality, evidence-based materials in 16 topic areas critical to the field&lt;/li&gt;
+&lt;li&gt;An online &lt;b&gt;Community of Practice &lt;/b&gt;where you can share knowledge and collaborate with your peers&lt;/li&gt;
+&lt;li&gt;A &lt;b&gt;Learning Portal &lt;/b&gt;where you can engage in self-paced and facilitated professional development courses*&lt;/li&gt;
+&lt;li&gt;A &lt;b&gt;Professional Development Center &lt;/b&gt;that deploys evidenced-based PD trainings to states*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*This course draws on two of these LINCS components, the Learning Portal and the Professional Development Center in order to provide you with an &lt;b&gt;&lt;i&gt;online learning opportunity &lt;/i&gt;&lt;/b&gt;supported by &lt;b&gt;&lt;i&gt;expert facilitation.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The LINCS Learning Portal:&lt;/b&gt;&lt;/p&gt;
+&lt;ul type="disc"&gt;
+&lt;li&gt;Contains over 30 free online interactive courses developed specifically for the adult education field from OCTAE initiatives;&lt;/li&gt;
+&lt;li&gt;Enables users to take and complete self-paced courses on their own schedule;&lt;/li&gt;
+&lt;li&gt;Enables states to provide facilitated online courses free to practitioners;&lt;/li&gt;
+&lt;li&gt;Provides users with a certificate of completion after each course; and&lt;/li&gt;
+&lt;li&gt;Is updated as new courses are developed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To access the list of available courses, click on &lt;a href="http://lincs.ed.gov/learning-portal" target="_blank"&gt;http://lincs.ed.gov/learning-portal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About the LINCS Professional Development Center&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The LINCS Professional Development Center provides stakeholders with technical assistance to meet requirements under the Workforce Innovation and Opportunity Act (WIOA); enhance the capacity of state and local partners to establish and operate comprehensive professional development systems; offer high-quality, evidence-based instructional resources through the LINCS Resource Collection; and facilitate professional development training opportunities for adult educators. Visit the Center's page for more information: &lt;a href="https://lincs.ed.gov/state-resources/professional-development-center" title="LINCS Professional Development Center" target="_blank"&gt;https://lincs.ed.gov/state-resources/professional-development-center&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;br /&gt; &lt;/i&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt;This course was developed under the LINCS Regional Professional Development Center for Adult Education, PR/Award Number V191B110003, administered by the Office of Career, Technical, and Adult Education, U. S. Department of Education. However, the contents do not necessarily represent the positions or policies of the Office of Career, Technical, and Adult&lt;/i&gt; &lt;i&gt;Education or the U.S.Department of Education, and you should not assume endorsement by the Federal Government.&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;&lt;i&gt; &lt;/i&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2823">
+            <jumpto>1313</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454405</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="2824">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454405</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4548">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442454405</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1319">
+        <prevpageid>1318</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1442857322</timecreated>
+        <timemodified>1494353584</timemodified>
+        <title>Course Navigation</title>
+        <contents>&lt;p&gt;&lt;span style="font-size: medium;"&gt;&lt;span style="font-size: small;"&gt;Listed below is vocabulary and information helpful in learning your way around this course. We recommend that you save or print the information on this page for future reference.&lt;/span&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course outline:&lt;/strong&gt; The main page of the course, listing the "Getting Started" link and all 7 course topic/session headers. Access this page by clicking on any  "Explicit Instruction" link (at the top of the screen, in the left-hand navigation or at the end of a reading).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course session:&lt;/strong&gt; One course topic containing at least one reading and discussion, most also containing an assignment. Access course sessions from the Course outline by clicking on each numbered Session Header. This will reveal links to all session activities. Note that clicking on the header again will hide all session activities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course activities:&lt;/strong&gt; Each course activity is listed as a standard internet link under a session header on the Course outline. Links that are grey are not yet available to learners (see Activity restrictions below). Most activity screens will open up in the same browser tab or window. Return to the course outline from a course activity by clicking on any "Explicit Instruction" link.  Four types of course activities are discussed below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Readings&lt;/strong&gt; - These present as a slideshow with short chunks of information on each web page and navigation buttons (Re-Start, back, Next, etc.) at the end of each slide. Readings may contain links to additional documents and/or video clips, which may open in a new tab or browser window (you may need to switch tabs or windows to return to the course). Readings are complete when you have reached the last required slide and are finished viewing the content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discussion Forums&lt;/strong&gt; - These ask you to add a thread/post to a discussion topic and then add replies to your own and others' posts. The post and reply interfaces look a lot like an email interface, with an editing tool bar, a subject line and a larger content window. These are complete when you have "posted a thread" (not just posted a reply).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Session Assignments&lt;/strong&gt; - These ask you to upload one or more documents and/or type in a response to a small email-like content window. These are submitted for grading when you have "Saved Changes" and complete when your facilitator has reviewed and marked them complete (100). A score of 50 indicates that the facilitator feels something is missing from your response, and a score of 0 means either that nothing has yet been marked or submitted through the course.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reference and Resource documents&lt;/strong&gt; - These documents will generally ask to download themselves to your computer and open up in a software window (Adobe Acrobat Reader or word processing program). They generally contain links to many additional online resources and are always available to you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Activity restrictions:&lt;/strong&gt; Unless clearly noted, all coursework should be completed in the order it appears on the course outline. Most activity links will not become available to you unless you have completed the previous reading or activity.  Some assignments, however, ALSO require the facilitator to review and mark the assignment complete before you can move on in the course. [If you are waiting on the facilitator to access the next course activity, we recommend that you return to and participate in previou0s discussion forums to enhance your learning experience.]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Evaluation:&lt;/strong&gt; This is a link to an online survey hosted by LINCS outside the online learning portal. It will open in a new browser window or tab and present you with one survey question at a time until it is complete. You will need to switch tabs or windows to return to the course.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Certificate:&lt;/strong&gt; This digital certificate is accessible and automatically generated once you have completed all required course activities.  You are welcome to save and/or print this certificate as may times as you wish.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you have any trouble with accessing or finding course materials during this course, please contact your course facilitator(s).&lt;/strong&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2826">
+            <jumpto>1313</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442857322</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4547">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1442857322</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="51" moduleid="991" modulename="resource" contextid="1443">
+  <resource id="51">
+    <name>Session 4 Resources and References</name>
+    <intro>&lt;p&gt;pdf&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>4</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>8</revision>
+    <timemodified>1526228789</timemodified>
+  </resource>
+</activity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="24" moduleid="2012" modulename="folder" contextid="2674">
+  <folder id="24">
+    <name>Getting Started Images</name>
+    <intro>&lt;p&gt;images for the getting started session&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <revision>1</revision>
+    <timemodified>1442446246</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+  </folder>
+</activity>

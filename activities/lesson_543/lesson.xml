@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="543" modulename="lesson" contextid="828">
+  <lesson id="6">
+    <course>25</course>
+    <name>Reading 1C: Principles of Explicit Instruction</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1503410006</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="37">
+        <prevpageid>0</prevpageid>
+        <nextpageid>38</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503519979</timemodified>
+        <title>How do you DO Explicit Instruction?</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="170" height="153" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Welder in helmet welding scaffolding" src="@@PLUGINFILE@@/LTA-EI-S1c-welder.jpg" /&gt;Now that we've looked at the characteristics of Explicit Instruction (EI), let's look at how you would build lessons that contain EI characteristics.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EI lessons are built around these principles:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol start="1"&gt;
+&lt;li&gt;Learning is focused on &lt;strong&gt;meaningful and critical content.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What students are &lt;strong&gt;learning is precisely defined.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Skills are &lt;strong&gt;sequenced logically.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Students know &lt;strong&gt;what&lt;/strong&gt; they will be learning and &lt;strong&gt;why.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Teacher provides &lt;strong&gt;organized and structured instruction&lt;/strong&gt; using the following techniques: reviews, explanations, demonstration/modeling, examples/non-examples, and scaffolded practice.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;During this course you will be asked to *apply* these principles as you create EI lessons for your own adult learners. To assist you in this process, let's look at each of these principles more closely.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="94">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="38">
+        <prevpageid>37</prevpageid>
+        <nextpageid>39</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1509030822</timemodified>
+        <title>EI Principle #1</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;EI Principle #1:&lt;/span&gt; Learning is focused on meaningful and critical content.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Given the planning and instructional time involved, we want to use explicit instruction to teach skills, concepts, and strategies that are&lt;strong&gt;&lt;i&gt; foundational&lt;/i&gt;&lt;/strong&gt;&lt;em&gt; &lt;/em&gt;and will enable students to perform &lt;strong&gt;&lt;i&gt;important&lt;/i&gt;&lt;/strong&gt; current and future tasks.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;&lt;img width="250" height="164" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Map of division of states and territories during US civil war" src="@@PLUGINFILE@@/LTA-EI-S1c-Example-Civilwarstates.jpg" /&gt;Example:&lt;/strong&gt; In teaching about the causes of the Civil War in the US&lt;b&gt;&lt;i&gt;, sectionalism&lt;/i&gt;&lt;/b&gt; can be considered a &lt;strong&gt;central concept.&lt;/strong&gt; The Civil War was rooted in differences in the economics, social norms and politics of different sections of the country.  Learners can use this concept to examine how specific events reflect sectionalism in the Civil War, other current and historical conflicts, and even in their daily lives.&lt;/p&gt;
+&lt;p&gt;As the example implies, this means that not all skills, concepts or information should be delivered using an explicit instruction approach.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Non-example:&lt;/strong&gt; In teaching about sectionalism, there are many details and specific examples from the Civil War that learners can connect with this central concept (examples: &lt;em&gt;Who proposed the Missouri Compromise?&lt;/em&gt; &lt;em&gt;What was “bleeding Kansas” and how did it reflect sectionalism?&lt;/em&gt;). Although this information is interesting and supports the concept, it is possible to understand the concept without mastery of this information.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;b&gt;Think of a unit or topic you teach. What is one critical learning outcome that is essential for students to master?&lt;/b&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt;(Example and non-example from Lenz, Bulgren, Kissam &amp;amp; Taymans, 2004, p. 55-56)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="95">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="96">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="39">
+        <prevpageid>38</prevpageid>
+        <nextpageid>40</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1503520013</timemodified>
+        <title>EI Principle #2</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;EI Principle #2:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;What students are learning is precisely defined.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In an EI lesson, learning material is broken down into bite-sized chunks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For &lt;strong&gt;skills and strategies&lt;/strong&gt;, students learn a series of steps to follow.&lt;/li&gt;
+&lt;li&gt;For &lt;strong&gt;content learning&lt;/strong&gt;, students work from a clearly delineated definition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Click on the link below to explore some examples of breaking content into bite-sized chunks.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;&lt;a title="Breaking Down Skills, Strategies, and Content Learning" href="@@PLUGINFILE@@/EI%20Principles.pdf" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt;&lt;span style="color: #0000ff;"&gt;Examples of Breaking Down Skills, Strategies, and Content Learning&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Now that you have reviewed these examples, take a moment to think about breaking learning content down into chunks.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;em&gt;Identify one foundational &lt;/em&gt;&lt;i&gt;skill&lt;/i&gt;&lt;em&gt; that you teach your students. List for yourself the steps they can follow to perform that skill. &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;Do you typically teach your students these steps? Is breaking down learning content a new idea for you as an instructor?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00; color: #000000;"&gt;&lt;span style="background-color: #ffffff;"&gt;Note that we will revisit the idea of teaching skills, strategies and content learning later in this course.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click on Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="97">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="98">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="99">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="40">
+        <prevpageid>39</prevpageid>
+        <nextpageid>42</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1509030979</timemodified>
+        <title>EI Principle #3</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="183" height="223" style="float: right; margin-left: 10px; margin-right: 10px; border: 1px solid black;" alt="Cover of Making Sense of Decoding and Spelling curriculum documentation" src="@@PLUGINFILE@@/LTA-EI-S1c-making-sense-cover.jpg" /&gt;&lt;/strong&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;EI Principle #3: &lt;span style="color: #000000;"&gt;Skills/concepts are sequenced logically.&lt;/span&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Teach easier skills/concepts before more complex ones.&lt;/li&gt;
+&lt;li&gt;Teach prerequisite knowledge/skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;em&gt;Making Sense of Decoding and Spelling&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The adult education curriculum &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-282"&gt;&lt;em&gt;Making Sense of Decoding and Spelling&lt;/em&gt;&lt;/a&gt; is an example of a carefully sequenced curriculum where skills build upon each other. This curriculum is for adult education students who are intermediate readers. Thus, the beginning of the curriculum ensures learners have the basic prerequisite skills to read longer words.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explore &lt;a href="https://lincs.ed.gov/professional-development/resource-collections/profile-282"&gt;Making Sense of Decoding and Spelling&lt;/a&gt; for an example of a logically sequenced curriculum&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="100">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="101">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="102">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="42">
+        <prevpageid>40</prevpageid>
+        <nextpageid>44</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1503520040</timemodified>
+        <title>EI Principle #4</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;b&gt;EI Principle #4: &lt;/b&gt;&lt;/span&gt;&lt;b&gt;Students know what they will be learning and why.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The teacher introduces the goal(s) and rationale of the lesson. Students are thus partners in the lesson, and can anticipate what they are going to be doing as learners. Let's take a look at an example of a teacher introducing a &lt;em&gt;Coding Text&lt;/em&gt; lesson.&lt;/p&gt;
+&lt;p&gt;&lt;img width="73" height="53" style="margin-left: 10px; margin-right: 10px; float: left;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;&lt;br /&gt;Play the video below to watch a clip showing an EI introduction. As you watch, observe for answers to the following questions:&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How does the teacher inform students of the lesson goal?&lt;/li&gt;
+&lt;li&gt;How does she connect with their prior knowledge?&lt;/li&gt;
+&lt;li&gt;Does she give them a reason to learn the strategy?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - Introduction: &lt;em&gt;Coding Text&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;em&gt;&lt;/em&gt;&lt;a href="https://www.youtube.com/watch?v=xtJvvSa-9Kw&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq"&gt;Introduction: Coding Text by NCFL&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3261" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;https://www.youtube.com/watch?v=xtJvvSa-9Kw&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="font-size: x-small;"&gt;This video excerpt used with permission from &lt;br /&gt;The National Center for Family Literacy/&lt;a title="National Center for Families Learning" href="http://www.familieslearning.org/" target="_blank"&gt;National Center for Families Learning&lt;/a&gt; (NCFL)&lt;/span&gt;&lt;span style="font-size: x-small;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="106">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="107">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="108">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="44">
+        <prevpageid>42</prevpageid>
+        <nextpageid>45</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878483</timecreated>
+        <timemodified>1503520146</timemodified>
+        <title>EI Principle #4 - Video Activity Possible Responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;While responses may vary, below we've listed below our answers to the observation questions for the &lt;em&gt;Introduction to Coding Text&lt;/em&gt; Video.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;How does the teacher inform students of the lesson goal?&lt;/b&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;The instructor simply states the goal for the students.&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i&gt;She names the strategy, "Coding Text."&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;How does she connect with their prior knowledge?&lt;/b&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;The instructor checks for understanding of the word “coding.”&lt;/i&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Does she give them a reason to learn the strategy?&lt;/b&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;i&gt;Yes, she states that it will help with comprehension.&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;&lt;strong&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;How did your answers compare with those above?  How does your current instructional approach to lesson introduction compare to what was demonstrated in the video?&lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="112">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="113">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="114">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878483</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="45">
+        <prevpageid>44</prevpageid>
+        <nextpageid>46</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878615</timecreated>
+        <timemodified>1508868563</timemodified>
+        <title>EI Principle #5-Overview</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;EI Principle #5:&lt;/span&gt; The instructor provides organized and structured instruction using the following techniques:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review&lt;/li&gt;
+&lt;li&gt;Explanation&lt;/li&gt;
+&lt;li&gt;Demonstration/modeling&lt;/li&gt;
+&lt;li&gt;Examples/nonexamples&lt;/li&gt;
+&lt;li&gt;Scaffolded Practice&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;Which of these techniques are familiar? Which would you like to learn more about? Which do you think you use in your current instruction?&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Throughout the rest of the course, we will examine applications of these techniques as we explore EI lesson planning for skill, strategy, and content learning. So let's take a quick look at each before we wrap up our exploration of EI Principles.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="115">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="116">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="117">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="46">
+        <prevpageid>45</prevpageid>
+        <nextpageid>47</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878986</timecreated>
+        <timemodified>1509031188</timemodified>
+        <title>EI Principle #5 - Reviews</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;EI Principle #5:&lt;/span&gt; &lt;/strong&gt;The instructor provides organized and structured instruction using the following techniques:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="188" height="157" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Street sign pointing right with word Review" src="@@PLUGINFILE@@/LTA-EI-S1c-Review.jpg" /&gt;Review&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A review typically occurs during the introduction of a lesson to assist learners in connecting new learning to what they already know. During a review, a teacher can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;remind students of what they know,&lt;/li&gt;
+&lt;li&gt;refresh pre-requisite skills, and/or&lt;/li&gt;
+&lt;li&gt;provide interactive reviews.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reviews can help teachers identify students who may struggle with the new content (or who are struggling with previous content).&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="118">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878986</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="119">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878986</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="120">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878986</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="47">
+        <prevpageid>46</prevpageid>
+        <nextpageid>48</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879258</timecreated>
+        <timemodified>1509031325</timemodified>
+        <title>EI Principle #5 - Explanation</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;&lt;img width="200" height="208" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Teacher addressing class of adults student - all referencing a book" src="@@PLUGINFILE@@/LTA-EI-S1c-explain.jpg" /&gt;EI Principle #5:&lt;/span&gt; &lt;/strong&gt;The instructor provides organized and structured instruction using the following techniques:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explanation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Explanations present the new material to the learner in chunks and typically occur after the introduction of a lesson. During explanations, a teacher should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;tailor vocabulary, sentence structure, and analogies to connect with the students,&lt;/li&gt;
+&lt;li&gt;include a clear set of steps or concept definition that students will be learning, and&lt;/li&gt;
+&lt;li&gt;be as clear and concise as possible to minimize information overload.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="121">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="122">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="123">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="48">
+        <prevpageid>47</prevpageid>
+        <nextpageid>49</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879474</timecreated>
+        <timemodified>1508869000</timemodified>
+        <title>EI Principle #5 - Demonstration/Modeling</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;EI Principle #5:&lt;/span&gt; &lt;/strong&gt;The instructor provides organized and structured instruction using the following techniques:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;&lt;img width="171" height="152" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Female teacher demonstrating decimal multiplication on a blackboard" src="@@PLUGINFILE@@/LTA-EI-S1c-modeling.jpg" /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;Demonstration/Modeling&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During the demonstration/modeling component of EI, students see what competent performance looks like. During demonstrations a teacher should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;show how to use the skill or concept and&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;think aloud&lt;/em&gt; to make thinking processes transparent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The video activity you experienced earlier in this module is an example of the use of modeling to support learner understanding.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="124">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="125">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="126">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="49">
+        <prevpageid>48</prevpageid>
+        <nextpageid>50</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879704</timecreated>
+        <timemodified>1509031495</timemodified>
+        <title>EI Principle #5 - Examples and Non-examples</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;EI Principle #5:&lt;/span&gt; &lt;/strong&gt;The instructor provides organized and structured instruction using the following techniques:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples and Non-examples&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some explicit instruction lessons will include an activity asking students to discriminate between examples and nonexamples of the skill or concept being learned. This technique can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;help to quickly check for student misconceptions and&lt;/li&gt;
+&lt;li&gt;show a range of relevant situations in which students can apply their learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Let's take a closer look at the power of this technique.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt; Below is an exercise from &lt;i&gt;Making of Sense of Decoding and Spelling. &lt;/i&gt;Students discriminate CVC syllables (which have only &lt;b&gt;&lt;i&gt;one&lt;/i&gt;&lt;/b&gt; vowel and &lt;b&gt;&lt;i&gt;end&lt;/i&gt;&lt;/b&gt; in a consonant) from non-CVC syllables.*&lt;/p&gt;
+&lt;p&gt;&lt;img width="267" height="264" alt="Table with three columns:  syllables, CVC, and Not CVC.  Seven syllables have a check in the CVC column:  dis, ket, chim, ic, mod, bab, trans and three syllables are checked in the non-CVC column:  creat, peek, and lo" src="@@PLUGINFILE@@/S1B-EIP5ex-non-CVCsyllables.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-left: 10px; margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Now please take a moment to look back at the sequence of lessons in this curriculum, and answer the questions listed below.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a title="Table of Contents and Scope and Sequence for Making Sense of Decoding and Spelling" href="@@PLUGINFILE@@/LtAEI-S1-MakingSense_LessonPlans_p1-9.pdf" target="_blank"&gt;Table of Contents and Scope and Sequence for &lt;em&gt;Making Sense of Decoding and Spelling&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Is the ability for students to discriminate CVC syllables from non-CVC syllables a foundational skill for this curriculum?&lt;/li&gt;
+&lt;li&gt;Why is &lt;strong&gt;&lt;em&gt;trans&lt;/em&gt;&lt;/strong&gt; a good example syllable to include in this activity?&lt;/li&gt;
+&lt;li&gt;If a student is unsuccessful at this task, what can the teacher do? Why?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: right;"&gt;&lt;i&gt;*Note that it doesn‘t matter how many consonants &lt;br /&gt;come before or after the single vowel.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="127">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="128">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="129">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="50">
+        <prevpageid>49</prevpageid>
+        <nextpageid>51</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379880335</timecreated>
+        <timemodified>1415388871</timemodified>
+        <title>EI Principle #5 - Examples and Non-examples Activity Possible Responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;While responses may vary, we've listed below one set of answers to the questions for regarding the CVC activity from &lt;i&gt;Making of Sense of Decoding and Spelling&lt;/i&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Why is it important for students to discriminate CVC syllables from non-CVC syllables?&lt;/b&gt;&lt;br /&gt;&lt;i&gt;This is a foundational skill of the curriculum. A learner who does not have this foundational skill cannot be successful in subsequent lessons. &lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Why is &lt;span style="text-decoration: underline;"&gt;trans&lt;/span&gt; a good example to include? &lt;/b&gt;&lt;br /&gt;&lt;i&gt;It follows the pattern of a CVC syllable – one vowel with one or more consonants before or after it. It shows the learner knows that a CVC syllable can have more than 3 letters.&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;If a student is unsuccessful at this task, what can the teacher do? Why?&lt;br /&gt;&lt;/b&gt;&lt;i&gt;The student is missing an important pre-requisite skill for decoding and spelling multiple syllable words. The student needs more practice with this foundational skill of working with the short vowel sound syllables.&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" alt="Reflection icon - dark head profile with puzzle brain" style="float: left; margin-left: 10px; margin-right: 10px;" height="50" width="54" /&gt;How did your answers compare with those above? Do you currently incorporate the examples and non-examples technique into your instruction for adults? When and how?&lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="130">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="131">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="132">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="51">
+        <prevpageid>50</prevpageid>
+        <nextpageid>52</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379880679</timecreated>
+        <timemodified>1509032797</timemodified>
+        <title>EI Principle #5 - Scaffolding</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;&lt;img width="129" height="300" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Skyscraper under construction with scaffolding, workers and a crane overhead" src="@@PLUGINFILE@@/LTA-EI-S1c-scaffolded.jpg" /&gt;EI Principle #5:&lt;/span&gt; &lt;/strong&gt;The instructor provides organized and structured instruction using the following techniques:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scaffolding Practice&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;During scaffolded practice, the instructor gradually moves students towards independent performance and practice of the skill, strategy or content. During scaffolded practice, a teacher should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Start with short and relatively simple exercises.&lt;/li&gt;
+&lt;li&gt;Build motivation and confidence when students experience initial success and feedback.&lt;/li&gt;
+&lt;li&gt;Prevent students from practicing mistakes.&lt;/li&gt;
+&lt;li&gt;Closely monitor student performance and provide feedback.&lt;/li&gt;
+&lt;li&gt;Increase task difficulty as student proficiency increases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During scaffolded practice, instructors can structure practice as whole group, small group, partner, or individual based on students' needs.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="133">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880679</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="134">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880679</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="135">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880679</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="52">
+        <prevpageid>51</prevpageid>
+        <nextpageid>53</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379880951</timecreated>
+        <timemodified>1508869774</timemodified>
+        <title>EI Principle #5 - Incorporating Techniques into a Lesson</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;We have just explored five techniques that organize and structure explicit instruction.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Review&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explanation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Demonstration/modeling&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Examples and nonexamples&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scaffolded practice&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;How might these techniques be used in an EI lesson? Let's take a look.&lt;/p&gt;
+&lt;p&gt;You may encounter many different Explicit Instruction lesson plan formats. The graphic below provides one example that clearly identifies three of the techniques we explored.&lt;/p&gt;
+&lt;p&gt;&lt;img width="65" height="47" style="margin-left: 10px; margin-right: 10px; float: left;" alt="Activity icon - hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;As you review the graphic, consider the following questions:&lt;/strong&gt; &lt;br /&gt;&lt;em&gt;&lt;strong&gt;Which two techniques are not identified? Where could they go in the instructional process?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="366" height="292" alt="Graphic made up of 3 sets of linked squares. Each set has a blue header. First set is labeled Pre-instruction and includes gain attention, state purpose, and tell students their role.  The second set is called Preparing the Knowledgebase and includes activate prior knowledge, review, and preteach vocabulary.  The third set is labeled Instruction and includes Model, Guided and Independent Practice, and Closure" src="@@PLUGINFILE@@/LTA-EI-S1c-geoke-lesson.jpg" /&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="136">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="137">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="138">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880951</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="53">
+        <prevpageid>52</prevpageid>
+        <nextpageid>41</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379881241</timecreated>
+        <timemodified>1503520358</timemodified>
+        <title>EI Principle #5 - Incorporating Techniques Activity Possible Answers</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;While responses may vary, we've listed below one set of answers to the questions for regarding the sample EI lesson below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Which two techniques are not identified?&lt;br /&gt;&lt;/strong&gt;&lt;i&gt; - Explanation&lt;br /&gt;&lt;/i&gt;&lt;i&gt; - Examples and nonexamples&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Where could they go in the instructional process?&lt;br /&gt;&lt;/strong&gt;&lt;i&gt; - A teacher can use them when providing explanations prior to modeling.&lt;br /&gt;&lt;/i&gt;&lt;i&gt; - Examples and nonexamples could be included as part of scaffolded practice. &lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;&lt;strong&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt=" Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;br /&gt;How did your answers compare with those above? &lt;br /&gt;How does this sample lesson format compare with your own?&lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="139">
+            <jumpto>37</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379881241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="140">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379881241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="141">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379881241</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="41">
+        <prevpageid>53</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508870059</timemodified>
+        <title>Principles of EI - Review and Reflection</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;div&gt;In this section, we have examined the question "&lt;em&gt;How do you DO Explicit Instruction?&lt;/em&gt;" In answer, we have examined the &lt;strong&gt;5 principles of EI &lt;/strong&gt;and instructional technique&lt;strong&gt;s&lt;/strong&gt; listed below:&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;img width="181" height="155" style="margin-left: 10px; margin-right: 10px; float: right;" alt="Welder in helmet welding scaffolding" src="@@PLUGINFILE@@/LTA-EI-S1c-welder.jpg" /&gt;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;Learning is focused on &lt;strong&gt;meaningful and critical content.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;What students are &lt;strong&gt;learning is precisely defined.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Skills are &lt;strong&gt;sequenced logically.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Students know what they will be learning and &lt;strong&gt;why.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Teacher provides &lt;strong&gt;organized and structured instruction&lt;/strong&gt; using the following techniques:&lt;br /&gt; - Review&lt;br /&gt; - Explanation&lt;br /&gt; - Demonstration/modeling&lt;br /&gt; - Example/nonexample&lt;br /&gt; - Scaffolded practice&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With these principle and techniques in mind, take a moment to think back over the course materials so far.&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;em&gt;Can you find instances where these principles were applied to this course's instruction? &lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;Have we provided you with precisely defined explanations? &lt;/em&gt;&lt;em&gt;D&lt;/em&gt;&lt;em&gt;emonstrations of skills or concepts? Examples and non-examples? Opportunities for practice?&lt;/em&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;div class="O1"&gt;&lt;strong&gt;We hope that you can - this is deliberate!&lt;/strong&gt; And because we feel that EI is a foundational, &lt;em&gt;&lt;strong&gt;critical&lt;/strong&gt;&lt;/em&gt; instructional concept for adult education, you should continue to see these principles applied to your course materials and activities throughout the remainder of this course.&lt;/div&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Course Reference:&lt;/strong&gt;&lt;/span&gt; Linked below is a document summarizing the characteristics and principles of Explicit Instruction. You may wish to keep this handy as you complete course activities.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;a title="Characteristics and Principles of Explicit Instruction" href="@@PLUGINFILE@@/Summary%20of%20EI%20Princiles.pdf" target="_blank"&gt;Characteristics and Principles of Explicit Instruction&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;strong&gt;Now we ask you to pause and reflect on what you have learned.&lt;/strong&gt; &lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt;You will be asked to post your thoughts to a discussion forum.&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt; &lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt; &lt;/div&gt;
+&lt;div class="O1"&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;em&gt;&lt;br /&gt;Which one of the above principles (and/or instructional techniques) are you most interested in applying to your instructional practice? Why?&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="O1"&gt; &lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Next to end this lesson, return to the Main Course Menu, and access the Discussion Forum to post your reflection.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="103">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="104">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="105">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

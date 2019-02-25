@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="52" moduleid="1656" modulename="lesson" contextid="2292">
+  <lesson id="52">
+    <course>25</course>
+    <name>5B - EI Lesson Plan – Part 2: Explain and Model for Content Learning</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1494002285</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="540">
+        <prevpageid>0</prevpageid>
+        <nextpageid>543</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503588695</timemodified>
+        <title>EI for Content Learning - Preparing for the Explain and Model Step</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="125" height="166" style="margin-left: 10px; float: right;" alt="Teacher holding a pencil up to her cheek, looking up thoughtfully" src="@@PLUGINFILE@@/LtA-S3a-Whatpre-req.JPG" /&gt;In EI for content learning, the teacher prepares for the explanation and modeling steps by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifying key concepts and/or vocabulary (declarative knowledge) that are critical for student understanding.&lt;/li&gt;
+&lt;li&gt;Choosing a tool to organize the information in a way that will be most beneficial to student comprehension and retention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;Once the graphic organizer is selected, the instructor must:&lt;/div&gt;
+&lt;ul&gt;
+&lt;li style="width: 716px;"&gt;Plan the lesson introduction (set up new learning).*&lt;/li&gt;
+&lt;li style="width: 716px;"&gt;Develop blank and completed graphic organizer examples.&lt;/li&gt;
+&lt;li style="width: 716px;"&gt;Consider effective nonexamples to use during explanation.&lt;/li&gt;
+&lt;li style="width: 716px;"&gt;Plan how to explain content using the graphic organizer.&lt;/li&gt;
+&lt;li style="width: 716px;"&gt;Plan how to model use of the graphic organizer to explore content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style="width: 716px;"&gt;&lt;br /&gt;To guide us through these steps, let’s examine an example of how a graphic organizer was used to teach basic paragraph structure.&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;br /&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1253">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="543">
+        <prevpageid>540</prevpageid>
+        <nextpageid>542</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377548914</timecreated>
+        <timemodified>1508964454</timemodified>
+        <title>Explain (I DO) for Content Learning (video activity)</title>
+        <contents>&lt;div&gt;
+&lt;p&gt;&lt;img width="125" height="208" style="margin-left: 10px; float: right;" alt="I DO graphic showing a larger person figure labeled Teacher standing next to a small person figure labeled Student." src="@@PLUGINFILE@@/LtAEI-S3M2-I_DO.jpg" /&gt;The Explain part of an explicit instruction is based on the teacher introducing learners to how the GO organizes the content. &lt;br /&gt;&lt;br /&gt;During the explanation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learners should have a filled in GO to examine.&lt;/li&gt;
+&lt;li&gt;The teacher should explain the parts of the GO using learner friendly language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Again, we call this step I DO because the teacher is doing most of the talking.&lt;br /&gt;&lt;br /&gt;Let’s watch a teacher explain the parts of a paragraph using a GO shaped like a hamburger sandwich. The GO helps her English language learners understand the parts of a paragraph using the structure of a hamburger sandwich. She is developing their content knowledge of paragraph structure. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Click on the link below to view of copy of the hamburger GO.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a title="EIS5 Hamburger Writing Graphic Organizer with instructions" href="@@PLUGINFILE@@/Hamburger%20model%20fill-in.pdf" target="_blank"&gt;&lt;strong&gt;Hamburger Writing graphic organizer - filled in&lt;/strong&gt;&lt;/a&gt; (pdf format)&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;strong&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;br /&gt;Play the video below to watch a clip from &lt;/strong&gt;&lt;em&gt;Observing Standards-in-Action: ESL Classroom Lesson.&lt;strong&gt; As &lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;you&lt;/strong&gt;&lt;strong&gt; watch, make note of&lt;/strong&gt; how the teacher explains the hamburger GO and observe for the following.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Her use of examples and nonexamples&lt;/li&gt;
+&lt;li&gt;How consistently she uses the GO to explain the parts of a paragraph&lt;/li&gt;
+&lt;li&gt;The questions she asks to check for learners’ comprehension.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;strong&gt;Video - SIA: Writing a Paragraph Explanation (ESL)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=-EAjp2hgxsE"&gt;SIA: Writing a Paragraph Explanation (ESL)&lt;/a&gt;&lt;br /&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3264&amp;amp;chapterid=1005" target="_blank"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3264&amp;amp;chapterid=1005" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=-EAjp2hgxsE&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;This video is a part of Standards-in-Action: Innovations for Standards-Based Education, &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;produced under U.S. Department of Education Contract No. ED-04-CO-0121/0001 &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;Copyright © 2011 assigned to the U.S. Department of Education. &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;All rights reserved, used with permission.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1262">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1263">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="545">
+        <prevpageid>541</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508979999</timemodified>
+        <title>EI for Content Learning: Explain &amp; Model – Wrap Up &amp; Assignments</title>
+        <contents>&lt;p&gt;&lt;img width="179" height="150" style="margin-left: 10px; float: right;" alt="Street sign pointing right with word Review" src="@@PLUGINFILE@@/LTA-EI-S1c-Review.jpg" /&gt;During this session, we’ve examined how EI for content learning differs from EI for skill and strategy learning. In particular, how to use graphic organizers during the &lt;strong&gt;&lt;em&gt;explain and model&lt;/em&gt;&lt;/strong&gt; phases of the lesson to provide a clear structure for learners when learning new content. Now it’s your turn to apply explicit instruction to content teaching.  &lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;Consider the graphic organizers you reviewed&lt;/strong&gt; earlier in this session, as well as the content (declarative knowledge) you typically teach. &lt;strong&gt;What is one graphic organizer/content combination that you feel would provide a clear structure for student learning?&lt;/strong&gt; How would you explain and model the use of this graphic organizer?  &lt;br /&gt;&lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt;&lt;strong&gt;You may wish to refer to these reflections in completing the Session 5 Assignment A.&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Week 5 Assignments overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;strong&gt;&lt;span style="text-decoration: underline;"&gt;A. In the 1st assignment for this session&lt;/span&gt; &lt;/strong&gt;we ask you to apply what you have learned to creating another EI lesson – this one for content learning. You will be asked to draft the lesson introduction, explanation and modeling phases, and to submit your lesson for facilitator feedback. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="text-decoration: underline;"&gt;B. In the 2nd assignment for this session&lt;/span&gt;,&lt;/strong&gt; we ask you to review and incorporate facilitator feedback on your completed EI lesson for skill and strategy learning, and then share this revised lesson with your peers for feedback.  You are also asked to provide feedback on at least 2 others’ EI lesson plan ideas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You may complete these two assignments in any order.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click Finish Lesson to end this lesson, return to the Main Course Menu, and access the Session #4 Assignment.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1259">
+            <jumpto>540</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1260">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1261">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Finish Lesson</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="544">
+        <prevpageid>542</prevpageid>
+        <nextpageid>541</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1408642165</timecreated>
+        <timemodified>1508964612</timemodified>
+        <title>Modeling (I DO) for Content learning (activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;&lt;img width="100" height="167" style="margin-left: 10px; float: right;" alt="I DO graphic showing a larger person figure labeled Teacher standing next to a small person figure labeled Student." src="@@PLUGINFILE@@/LtAEI-S3M2-I_DO.jpg" /&gt;The next part of the explicit instruction lesson for content learning is the teacher demonstration or modeling showing how to use the graphic organizer. This is a continuation of I DO. The teacher is still doing most of the talking.&lt;br /&gt;&lt;br /&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;(1) Click on the link below to read an example &lt;/strong&gt;of a teacher modeling how to use the hamburger graphic organizer.&lt;strong&gt; &lt;/strong&gt;&lt;/div&gt;
+&lt;div style="width: 716px; text-align: center;"&gt;&lt;strong&gt;&lt;a title="Description of a Teacher Modeling the Hamburger GO" href="@@PLUGINFILE@@/Hamburger%20model%20Go.pdf" target="_blank"&gt;Model – Hamburger Writing EI Lesson&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div style="width: 716px; text-align: left;"&gt;&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;(2) Then print out (or save) the lesson plan and identify the following modeling behaviors.&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Places where the teacher would be physically pointing to different parts of the graphic organizer. &lt;em&gt;[Put a star* next to these places.]&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Statements where the teacher is showing her thinking (think-alouds). &lt;em&gt;[&lt;span style="text-decoration: underline;"&gt;Underline these statements&lt;/span&gt;.]&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;o:OfficeDocumentSettings&gt;
+  &lt;o:AllowPNG/&gt;
+ &lt;/o:OfficeDocumentSettings&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:WordDocument&gt;
+  &lt;w:View&gt;Normal&lt;/w:View&gt;
+  &lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+  &lt;w:TrackMoves/&gt;
+  &lt;w:TrackFormatting/&gt;
+  &lt;w:PunctuationKerning/&gt;
+  &lt;w:ValidateAgainstSchemas/&gt;
+  &lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+  &lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+  &lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+  &lt;w:DoNotPromoteQF/&gt;
+  &lt;w:LidThemeOther&gt;EN-US&lt;/w:LidThemeOther&gt;
+  &lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+  &lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+  &lt;w:Compatibility&gt;
+   &lt;w:BreakWrappedTables/&gt;
+   &lt;w:SnapToGridInCell/&gt;
+   &lt;w:WrapTextWithPunct/&gt;
+   &lt;w:UseAsianBreakRules/&gt;
+   &lt;w:DontGrowAutofit/&gt;
+   &lt;w:SplitPgBreakAndParaMark/&gt;
+   &lt;w:EnableOpenTypeKerning/&gt;
+   &lt;w:DontFlipMirrorIndents/&gt;
+   &lt;w:OverrideTableStyleHps/&gt;
+  &lt;/w:Compatibility&gt;
+  &lt;m:mathPr&gt;
+   &lt;m:mathFont m:val="Cambria Math"/&gt;
+   &lt;m:brkBin m:val="before"/&gt;
+   &lt;m:brkBinSub m:val="--"/&gt;
+   &lt;m:smallFrac m:val="off"/&gt;
+   &lt;m:dispDef/&gt;
+   &lt;m:lMargin m:val="0"/&gt;
+   &lt;m:rMargin m:val="0"/&gt;
+   &lt;m:defJc m:val="centerGroup"/&gt;
+   &lt;m:wrapIndent m:val="1440"/&gt;
+   &lt;m:intLim m:val="subSup"/&gt;
+   &lt;m:naryLim m:val="undOvr"/&gt;
+  &lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 9]&gt;&lt;xml&gt;
+ &lt;w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371"&gt;
+  &lt;w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/&gt;
+  &lt;w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/&gt;
+  &lt;w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/&gt;
+  &lt;w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="59" Name="Table Grid"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/&gt;
+  &lt;w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" Name="Light Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" Name="Light List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" Name="Light Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" Name="Medium List 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" Name="Medium List 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" Name="Dark List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" Name="Colorful List"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" SemiHidden="true" Name="Revision"/&gt;
+  &lt;w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/&gt;
+  &lt;w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/&gt;
+  &lt;w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/&gt;
+  &lt;w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/&gt;
+  &lt;w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/&gt;
+  &lt;w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/&gt;
+  &lt;w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="List Table 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="List Table 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="List Table 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/&gt;
+  &lt;w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/&gt;
+  &lt;w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/&gt;
+ &lt;/w:LatentStyles&gt;
+&lt;/xml&gt;&lt;![endif]--&gt;&lt;!--[if gte mso 10]&gt;
+&lt;style&gt;
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+&lt;/style&gt;
+&lt;![endif]--&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1265">
+            <jumpto>540</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1266">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1267">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="542">
+        <prevpageid>543</prevpageid>
+        <nextpageid>544</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1508964547</timemodified>
+        <title>Video Activity – Explain for Content Learning Possible Responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="175" height="178" style="margin-left: 10px; float: right;" alt="Photo of instructor from SIA Writing video, labeling the Hamburger image on the board." src="@@PLUGINFILE@@/LtAEI-S5b_hamburgerGOvideosnap.jpg" /&gt;While many answers are possible, below are our responses to the questions regarding the SIA: Writing a Paragraph Explanation video clip:&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;The teacher explains the hamburger graphic organizer by:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Using examples and nonexamples&lt;br /&gt;&lt;em&gt;The teacher shows pictures of cookies, spaghetti, fruit and bacon as non-examples of what goes into a hamburger. (&lt;/em&gt;&lt;em&gt;This is to make the point that the inside of a paragraph has to support the main idea: the information has to belong.)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Consistently using the graphic organizer to explain the parts of a paragraph
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;She has a picture on chart paper and she labels each part of the picture as she describes the graphic organizer&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Students have the hamburger graphic organizer at their seats to refer to while they listen.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Using questions to check for learners’ comprehension. Examples of her questions are:
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;What is a topic?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What happens if we take off the bottom?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What does it mean to support things?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;What is the bottom called?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1256">
+            <jumpto>540</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1257">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1258">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="541">
+        <prevpageid>544</prevpageid>
+        <nextpageid>545</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1508964754</timemodified>
+        <title>Modeling (I DO) for Content learning – possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p align="right" style="text-align: left;"&gt;&lt;a title="Hamburger Writing Graphic organizer - blank" href="https://ovae-moodle-dev.myquotient.net/pluginfile.php/2290/mod_folder/content/0/LtAEI-S5b-hamburger-writing_WBRDM.pdf?forcedownload=1"&gt;&lt;img width="150" height="194" style="margin-left: 10px; float: right;" alt="Graphic Organizer titled Hamburger Writing - shows sylized hamburger in 5 sections:Top bun labeled Topic Sentence; tomato layer labeled Detail #1; Lettuce layer labeled Detail #2; Burger layer labeled Detail #3; and Bottom bun labeled Concluding Paragraph." src="@@PLUGINFILE@@/LtAEI-S5b_blank-hamburgerGO.jpg" /&gt;&lt;/a&gt;While your answers may vary, click on the link below to see our responses to the activity.&lt;/p&gt;
+&lt;p align="right" style="text-align: center;"&gt;&lt;strong&gt;&lt;a title="Teacher Modeling Hamburger Writing GO activity - possible responses" href="@@PLUGINFILE@@/Hamburger%20responses.pdf" target="_blank"&gt;Model – Hamburger Writing EI Lesson – responses&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="right" style="text-align: left;"&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;How did your answers compare?&lt;/strong&gt;  &lt;br /&gt;Thinking of the graphic organizers you found on the web, can you visualize how you might demonstrate using them to your learners?&lt;br /&gt;&lt;br /&gt;For your reference, linked below are copies of a blank Hamburger Graphic Organizer page and the Hamburger Writing Lesson - Introduction, Explain and Model sections.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;" align="right"&gt;&lt;a title="Hamburger Writing Graphic Organizer blank" href="@@PLUGINFILE@@/Hamburger%20blank.pdf" target="_blank"&gt;Hamburger Graphic Organizer – blank&lt;/a&gt; (pdf format)&lt;/li&gt;
+&lt;li style="text-align: left;" align="right"&gt;&lt;a title="Hamburger Writing EI Lesson Plan Parts 1 &amp;amp; 2" href="@@PLUGINFILE@@/hamburger%20lesson%20example.pdf" target="_blank"&gt;Hamburger Writing EI Lesson Plan Parts 1 &amp;amp;2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;br /&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1254">
+            <jumpto>540</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1255">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

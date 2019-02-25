@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="177" moduleid="2044" modulename="resource" contextid="2706">
+  <resource id="177">
+    <name>Collated Explicit Instruction Course References and Resources</name>
+    <intro>&lt;p&gt;Collated Explicit Instruction Course References and Resources pdf format&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>4</display>
+    <displayoptions>a:0:{}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>3</revision>
+    <timemodified>1526228858</timemodified>
+  </resource>
+</activity>

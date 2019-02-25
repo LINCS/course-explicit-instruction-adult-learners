@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="475" modulename="folder" contextid="746">
+  <folder id="2">
+    <name>Course-wide Images</name>
+    <intro>&lt;p&gt;Images and files used repeatedly throughout the course&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <revision>4</revision>
+    <timemodified>1401828972</timemodified>
+    <display>0</display>
+    <showexpanded>1</showexpanded>
+  </folder>
+</activity>

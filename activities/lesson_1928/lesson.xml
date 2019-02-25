@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="75" moduleid="1928" modulename="lesson" contextid="2587">
+  <lesson id="75">
+    <course>25</course>
+    <name>6A - EI Lesson Plan – Part 3: Practice and Closure for Content Learning</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>1</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1524174206</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="771">
+        <prevpageid>0</prevpageid>
+        <nextpageid>772</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503588781</timemodified>
+        <title>Review and Session 6 Objectives</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;b&gt;Explicit Instruction Lesson Plan – Practice and Closure&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="163" height="246" style="float: right;" alt="Overview - 3 business people discussing large plan document" src="@@PLUGINFILE@@/LTA-EI-S1a-Overview.jpg" /&gt;Last session we:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reviewed key EI concepts.&lt;/li&gt;
+&lt;li&gt;Examined how EI can be used to teach content knowledge.&lt;/li&gt;
+&lt;li&gt;Explored how to map concepts for EI lesson planning using different types of graphic organizers.&lt;/li&gt;
+&lt;li&gt;Applied the explain and model parts of an EI lesson to content teaching.&lt;/li&gt;
+&lt;li&gt;Began development of an EI lesson to introduce, explain, and model content.&lt;/li&gt;
+&lt;li&gt;Refined your EI Lesson for a skill or strategy via facilitator and peer feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;In this session we will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examine how to structure practice as an important component of explicit instruction for content learning.&lt;/li&gt;
+&lt;li&gt;Explore the teacher’s role in guided and independent practice.&lt;/li&gt;
+&lt;li&gt;Revisit ways to provide lesson closure.&lt;/li&gt;
+&lt;li&gt;Complete the development of an EI lesson to introduce, explain, and model content.&lt;/li&gt;
+&lt;li&gt;Review course key ideas and plan how you will apply EI to your instruction of adult learners.&lt;/li&gt;
+&lt;li&gt;Evaluate your learning, providing feedback to course facilitators and designers.&lt;/li&gt;
+&lt;li&gt;Refine your EI Lesson for content learning via facilitator and peer feedback (optional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;EI Lesson Plan Format:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are working through the four parts of an explicit instruction lesson for the second&lt;sup&gt;&lt;/sup&gt; time. In this session we will focus on the last two parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lesson Introduction&lt;/li&gt;
+&lt;li&gt;Teacher Explanation and Modeling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Practice &amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Closure &amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1717">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="772">
+        <prevpageid>771</prevpageid>
+        <nextpageid>773</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1503588795</timemodified>
+        <title>Practice and Content Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;img width="150" height="172" style="margin-left: 10px; float: right;" alt="hands on a piano keyboard" src="@@PLUGINFILE@@/LtAEI-S4M2-Practice-Piano-sm.jpg" /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In Session 4 we explored methods for supporting students in practicing skills and strategies.  Many of the same principles apply for practicing content learning.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What is the connection between practice and retention in content learning?&lt;/b&gt;&lt;br /&gt;For content learning, the following is still true:&lt;br /&gt;     &lt;i&gt;In cognitive terms, practice is how learners solidify information in long-term memory. &lt;/i&gt; &lt;/p&gt;
+&lt;p&gt;As we learned in the previous session, &lt;b&gt;content learning &lt;/b&gt;focuses on key &lt;b&gt;concepts and vocabulary&lt;/b&gt; (declarative information). Just like for skills and strategies, learning new vocabulary and concepts takes &lt;i&gt;multiple exposures&lt;/i&gt; for learners to comprehend and actively use the information. The more difficult the concept or the less familiar the learner is with vocabulary, the more time the learner needs to develop &lt;b&gt;real comprehension.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Practice and Self-Regulated Content Learning&lt;/b&gt;&lt;br /&gt;Many of our learners do not get enough&lt;b&gt; sustained and connected &lt;/b&gt;practice to fully comprehend new concepts and vocabulary. When they do not get enough practice to function independently, they often become discouraged learners who are dependent on others or who do not persist with their education. Thus, the purpose of practice is to &lt;b&gt;&lt;i&gt;give learners ample opportunities to become successful and confident in understanding and using new concepts and vocabulary.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1718">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1719">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="773">
+        <prevpageid>772</prevpageid>
+        <nextpageid>774</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1503588805</timemodified>
+        <title>Review – Using Graphic Organizers to Precisely Define Content</title>
+        <contents>&lt;div&gt;
+&lt;p&gt;Again, &lt;b&gt;practice is most effective when the content to be learned is precisely defined. &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="175" height="196" style="margin-left: 10px; float: right;" alt="Head in silhouette showing gears in the brain area and lots of differently colored word or though balloons with arrows in and around them pointing in different directions." src="@@PLUGINFILE@@/LtAEI-S5a_Build-knowledge-GO.jpg" /&gt;Quick Review – What Do We Know About Precisely Defining Content?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Two key points from Session 5:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For content learning the teacher must first &lt;b&gt;identify &lt;/b&gt;key&lt;b&gt; &lt;/b&gt;vocabulary and concepts students need to understand and then &lt;b&gt;organize &lt;/b&gt;information in a way to promote learner comprehension and retention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Graphic organizers&lt;/b&gt; can be one of the most effective tools to precisely define &lt;i&gt;content.&lt;br /&gt;&lt;/i&gt;&lt;i&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm%20%281%29.jpg" /&gt;&lt;strong&gt;Think about your experience trying out graphic organizers.  Which of the benefits listed below stood out to you most during the last session’s graphic organizer assignment?&lt;/strong&gt; Why?  Would you add any other benefits to the list?&lt;/div&gt;
+&lt;div&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;Graphic organizers help the teacher identify the most important information students need to learn.&lt;/li&gt;
+&lt;li&gt;Graphic organizer structure helps students see relationships between concepts.&lt;/li&gt;
+&lt;li&gt;Graphic organizer structure provides organization and at times, concrete representations for ideas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Assuming we have our content clearly defined using a graphic organizer, let’s now look at supporting EI practice for content learning.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1720">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1721">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1722">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="774">
+        <prevpageid>773</prevpageid>
+        <nextpageid>776</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1508976536</timemodified>
+        <title>Review of EI Practice</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Let’s review key points about practice addressed in Session 4.&lt;/p&gt;
+&lt;p&gt;Below is the graphic depicting how explicit instruction progresses from teacher-centered instruction to student-centered practice.&lt;/p&gt;
+&lt;p&gt;&lt;img width="500" height="375" alt="Change in Teacher and Student Roles: 3 sets of figures, arranged on an arrow drawn from lower left to upper right. Lower left set: Large teacher figure next to small student figure labeled I DO; Middle set: equal sized teacher and student figures labled WE DO; top right set: small teacher figure next to large student figure labeled YOU DO." src="@@PLUGINFILE@@/LtAEI-S4-Change-in-roles.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;Looking at the graphic above, what do you remember about how WE DO is structured?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can you explain what the WE DO image represents?&lt;/li&gt;
+&lt;li&gt;What would the WE DO phase look like for &lt;b&gt;content learning&lt;/b&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Compare your answers to the above questions with the explanations on the next slide&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1723">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1724">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1725">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="776">
+        <prevpageid>774</prevpageid>
+        <nextpageid>775</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878378</timecreated>
+        <timemodified>1503588824</timemodified>
+        <title>WE DO (practice) for Content Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="125" height="156" style="margin-left: 10px; float: right;" alt="We Do - Student and teacher Icons of equal/medium size; " src="@@PLUGINFILE@@/We%20DO.jpg" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While answers may vary, your answers should sound similar to these below:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;WE DO – Guided Practice&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WE DO is the middle step of the EI learning process.&lt;/li&gt;
+&lt;li&gt;During WE DO, the teacher supports learners as they practice learning.&lt;/li&gt;
+&lt;li&gt;The teacher and learner are of equal size in the graphic because the teacher acts as more of a coach and guide, gradually giving the learner more control and responsibility for learning.&lt;/li&gt;
+&lt;li&gt;WE DO usually includes peer-assisted practice, as students build their skills and understanding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="150" height="125" style="margin-left: 10px; float: right;" alt="We DO (peers): small teacher figure next to larger Student figure, with several other student figures to the right - all together labeled students" src="@@PLUGINFILE@@/We%20DO-peer.jpg" /&gt;For Content Learning &lt;/b&gt;the purpose of practice (WE DO) is for students to try out using the graphic organizer with the content in the way the teacher has explained and modeled.  When implementing teacher-led practice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Practice examples should be relatively short and easy to complete.&lt;/li&gt;
+&lt;li&gt;The teacher prompts learners to use the graphic organizer with the new content as they practice.&lt;/li&gt;
+&lt;li&gt;The teacher provides feedback to reinforce and clarify learning and use of the graphic organizer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s look at some example practice sessions for content learning with a graphic organizer.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1732">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1733">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1734">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="777">
+        <prevpageid>775</prevpageid>
+        <nextpageid>778</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097425</timecreated>
+        <timemodified>1524172611</timemodified>
+        <title>WE DO (practice) for Content Learning (Video Examples 3 &amp; 4)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Examples of Practice for Content Learning, &lt;em&gt;Continued.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;&lt;br /&gt;Watch the remaining two clips of learner practice from &lt;i&gt;Observing Standards-in-Action: ESL Classroom Lesson, &lt;/i&gt;taking notes for later discussion based on the questions listed below.&lt;/strong&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Writing a Paragraph Guided Practice #3 (ESL)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=huy-m_IN914&amp;amp;t=1s"&gt;SIA – Writing a Paragraph Guided Practice #3 (ESL)&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3265&amp;amp;chapterid=1008" target="_blank"&gt;&lt;span style="background-color: #ffffff;"&gt;Video Transcript&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=huy-m_IN914&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p&gt;Take notes on the following questions for later discussion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How is this practice more challenging than the previous practice?&lt;/li&gt;
+&lt;li&gt;As the teacher checks in with the different groups, she is able to provide further explanations that some students need for their comprehension. Why is this teacher monitoring particularly important in this practice?  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Writing a Paragraph Guided Practice #4 (ESL)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=wBkF5yE3gLM"&gt;SIA: Writing a Paragraph Guided Practice #4&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3265&amp;amp;chapterid=1009" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=wBkF5yE3gLM&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Take notes on the following questions for later discussion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why do you think she structured the fourth guided practice session as a whole class activity?&lt;/li&gt;
+&lt;li&gt;How well is the hamburger GO integrated into the practice?&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="font-size: x-small;" gt="" em=""&gt;This video is a part of Standards-in-Action: Innovations for Standards-Based Education, &lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;produced under U.S. Department of Education Contract No. ED-04-CO-0121/0001 &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;Copyright © 2011 assigned to the U.S. Department of Education. &lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;&lt;em&gt;All rights reserved, used with permission.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1735">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1736">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1737">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="775">
+        <prevpageid>776</prevpageid>
+        <nextpageid>777</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1508979169</timemodified>
+        <title>WE DO (practice) for Content Learning (Video Examples 1 &amp; 2)</title>
+        <contents>&lt;p&gt;&lt;img width="125" height="162" style="margin-left: 10px; float: right;" alt="Graphic Organizer titled Hamburger Writing - shows sylized hamburger in 5 sections: Top bun labeled Topic Sentence; tomato layer labeled Detail #1; Lettuce layer labeled Detail #2; Burger layer labeled Detail #3; and Bottom bun labeled Concluding Paragraph." src="@@PLUGINFILE@@/LtAEI-S5b_blank-hamburgerGO.jpg" /&gt;We will revisit the video &lt;i&gt;Observing Standards-in-Action: ESL Classroom Lesson, &lt;/i&gt;where the teacher uses a hamburger graphic organizer to help students understand the structure of a paragraph. Linked below is a copy of the full lesson plan describing guided practice sessions:&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;a title="Hamburger Lesson Plan Full" href="@@PLUGINFILE@@/Hamburger%20lesson%20plan%20full.pdf" target="_blank"&gt;LtAEI-S6a-Hamburger-lesson-plan-full.pdf&lt;/a&gt; &lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Watch video clips of four practice sessions for this lesson.  As you watch each video clip below, use the listed questions to take notes &lt;/strong&gt;for use in a discussion post after viewing all the guided practice sessions.&lt;strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Writing a Paragraph Guided Practice #1 (ESL)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=5o7dUk-ditc"&gt;SIA: Writing a Paragraph Guided Practice #1 (ESL)&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3265&amp;amp;chapterid=1006" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; &lt;em&gt; https://www.youtube.com/watch?v=5o7dUk-ditc&amp;amp;t&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For this video, please take notes on the following questions for later discussion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How does the teacher structure this first guided practice to be a short and easy practice session?&lt;/li&gt;
+&lt;li&gt;How well is the hamburger graphic organizer integrated into the practice?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Writing a Paragraph Guided Practice #2 (ESL)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=Fc1RhOkNYe4"&gt;SIA: Writing a Paragraph Guided Practice #2 (ESL)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3265&amp;amp;chapterid=1007" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;https://www.youtube.com/watch?v=Fc1RhOkNYe4&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For this video, please take notes on the following questions for later discussion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How is this an example of &lt;b&gt;&lt;i&gt;scaffolded&lt;/i&gt;&lt;/b&gt; practice – giving learners a slightly more difficult task to complete while still providing guidance and support?&lt;/li&gt;
+&lt;li&gt;How well is the hamburger graphic organizer integrated into the practice?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next to view the next 2 practice sessions.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1729">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1730">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1731">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="778">
+        <prevpageid>777</prevpageid>
+        <nextpageid>779</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097511</timecreated>
+        <timemodified>1508979364</timemodified>
+        <title>When is EI practice enough? </title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Please take a moment to reflect on these examples of practice for EI content learning.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/b&gt; &lt;br /&gt;&lt;strong&gt;Do you think this is enough practice on this topic?&lt;/strong&gt; Are these students ready to move on to the YOU DO phase and write a paragraph independently?&lt;/p&gt;
+&lt;p&gt;For this content, the teacher did not think the students were ready.  She conducts a fifth guided practice session - beginning to move her students into applying their knowledge of paragraph structure to writing a paragraph. She conducts this as a teacher-led practice – working with the group to write a paragraph based on the following topic sentence: “&lt;i&gt;In the U.S. it is important to express your voice&lt;b&gt;.&lt;/b&gt;&lt;/i&gt;”&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;b&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;br /&gt;Optional:&lt;/b&gt; Click on the “More Video” button below to watch the fifth guided practice. When you are done watching, click on the Return button to come back to this slide.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Now we ask you to look back over your notes from viewing the guided practice activities, and consider the following questions:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How well do you think the practice activities helped students understand the organization of a paragraph? &lt;/b&gt;How important was teacher monitoring during practice? What challenges did the teacher discover some students were having? How consistently did the teacher and students refer to the hamburger GO? What effect do you think this will have on student retention?&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1738">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1739">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1740">
+            <jumpto>781</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1795">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>More Video</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="779">
+        <prevpageid>778</prevpageid>
+        <nextpageid>781</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097590</timecreated>
+        <timemodified>1524173206</timemodified>
+        <title>WE DO (practice) for Content Learning (Video Example 5)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;This fifth guided practice example is &lt;span style="background-color: #ffffff;"&gt;about 7 minutes long. &lt;/span&gt;You are welcome to take time to review it, or you may want to move on to look at independent practice and closure for this lesson.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Writing a Paragraph Guided Practice #5 (ESL)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=oEmwCaWrXnI"&gt;SIA: Writing a Paragraph Guided Practice #5 (ESL)&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3265&amp;amp;chapterid=1010" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=oEmwCaWrXnI&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing puzzle piece" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;As you watch, consider these questions:&lt;/strong&gt;&lt;br /&gt;Why do you think she chose guided rather than peer-assisted practice?&lt;br /&gt;At the end of this practice session, do you think the students are ready for independent practice?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p align="right" style="text-align: left;"&gt;&lt;span style="font-size: x-small;"&gt;This video clip is a part of &lt;i&gt;Standards-in-Action: Innovations for Standards-Based Education&lt;/i&gt;, &lt;/span&gt;&lt;span style="font-size: x-small;"&gt;produced under U.S. Department of Education Contract No. ED-04-CO-0121/0001 &lt;/span&gt;&lt;span style="font-size: x-small;"&gt;with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. &lt;/span&gt;&lt;span style="font-size: x-small;"&gt;Copyright © 2011 assigned to the U.S. Department of Education. &lt;/span&gt;&lt;span style="font-size: x-small;"&gt;All rights reserved, used with permission.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Return below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1742">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Return</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="781">
+        <prevpageid>779</prevpageid>
+        <nextpageid>782</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097551</timecreated>
+        <timemodified>1503588879</timemodified>
+        <title>YOU DO (practice) for Content Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="100" height="167" style="margin-left: 10px; float: right;" alt="You DO: small teacher figure standing next to large student figure." src="@@PLUGINFILE@@/You%20DO.jpg" /&gt;Quick review – in the YOU DO phase of practice, the learner takes ownership of the skill/strategy and the teacher provides feedback and guidance as needed. Thus, the teacher is now shown as smaller in the graphic and the student is the size the teacher was at the beginning.&lt;/p&gt;
+&lt;p&gt;For the SIA Writing a Paragraph (ESL) video, there is no independent practice recorded.  Take a moment to consider what you might do next with this topic and group of learners.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;b&gt;Are these learners now ready for independent practice? &lt;br /&gt;&lt;/b&gt;&lt;span style="text-decoration: underline;"&gt;If no,&lt;/span&gt; what would you do next?  &lt;br /&gt;Would you try some more peer-assisted practice? How would you structure that?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="text-decoration: underline;"&gt;If yes,&lt;/span&gt; how would you structure this independent practice? &lt;br /&gt;Would it take place in class or out of class? What kind of task would you assign?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;There are no clear right or wrong answers to the questions above&lt;/strong&gt; – each instructor must judge the needs of his or her learners in designing scaffolded practice activities.  In this case, the fifth guided practice activity (the optional video), shows the teacher beginning to transition students from defining and recognizing the parts of a paragraph to a first guided practice in how to write a paragraph.  We can imagine that she will provide more guided practice sessions focused on writing a paragraph before students are asked to write a paragraph independently. She could also ask them to do some peer-assisted or independent practice with defining and recognizing the parts of a paragraph before moving on to actual writing tasks.&lt;/p&gt;
+&lt;p&gt;Let’s move on to the Final Part of Explicit Instruction - Closure&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on Next below to continue.&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1741">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1796">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1797">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="782">
+        <prevpageid>781</prevpageid>
+        <nextpageid>784</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097704</timecreated>
+        <timemodified>1524173263</timemodified>
+        <title>EI Content Learning – Closure review and video activity</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="150" height="156" style="margin-left: 10px; float: right;" alt="Teacher with her back to viewer, holding textbook and explaining something to class of adult learners." src="@@PLUGINFILE@@/LTA-EI-S1c-explain.jpg" /&gt;We examined lesson closure in Session 4. Let’s review.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Closure -&lt;/b&gt; An action, statement or activity that can serve one or more purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Help students organize and remember what they have learned&lt;/li&gt;
+&lt;li&gt;Promote student reflection by reviewing what happened in class&lt;/li&gt;
+&lt;li&gt;Allow the teacher to do a quick check for understanding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align="right" style="text-align: center;"&gt;Goeke, 2009, p. 76&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;Closure Examples&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review and summarize &lt;br /&gt;&lt;i&gt;Example – What are the three types of sentences in a paragraph?&lt;br /&gt; &lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify relevance&lt;br /&gt;&lt;i&gt;Example – Why is it important to be able to express your thoughts in writing?&lt;br /&gt; &lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect to next session/s&lt;br /&gt;&lt;i&gt;Example – Next class, we will…..&lt;br /&gt; &lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Set up independent practice (homework)&lt;br /&gt;&lt;i&gt;Example – Given a short paragraph, students will write the sentences onto the hamburger GO and exclude sentences that do not support the topic.&lt;br /&gt; &lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Assess - Short activity for the teacher to determine how well learners "got it"&lt;br /&gt;&lt;i&gt;Example: Given a blank hamburger GO, students will label each part. &lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;Watch this last video clip&lt;/strong&gt; from &lt;em&gt;SIA Writing a Paragraph&lt;/em&gt;, as the teacher provides closure to the lesson. &lt;br /&gt;&lt;strong&gt;As you watch, identify which closure elements she uses (see above).&lt;/strong&gt; &lt;br /&gt;A link to the full lesson plan is provided below for your reference.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;a title="SIA EI Hamburger Writing Lesson Plan - full" href="@@PLUGINFILE@@/LtAEI-S5b-Hamburger-lesson-plan-full.pdf" target="_blank"&gt;&lt;span style="background-color: #ffffff;"&gt;LtAEI-S6a-Hamburger-lesson-plan-full.pdf &lt;/span&gt;&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Writing a Paragraph Closure (ESL)&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=ca09i5qcbzM"&gt;SIA: Writing a Paragraph Closure (ESL)&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3265&amp;amp;chapterid=1011" target="_blank"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="background-color: #ffffff;"&gt;Video Transcript&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=ca09i5qcbzM&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p&gt;This video clip is a part of &lt;i&gt;Standards-in-Action: Innovations for Standards-Based Education&lt;/i&gt;, produced under U.S. Department of Education Contract No. ED-04-CO-0121/0001 with MPR Associates, Inc. and subcontractor, Susan Pimentel, Inc. Copyright © 2011 assigned to the U.S. Department of Education. All rights reserved, used with permission.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1748">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1749">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1750">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="784">
+        <prevpageid>782</prevpageid>
+        <nextpageid>785</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1408997358</timecreated>
+        <timemodified>1508979596</timemodified>
+        <title>EI Lesson – Closure video activity responses</title>
+        <contents>&lt;div&gt;
+&lt;p&gt;&lt;img width="125" height="127" style="margin-left: 10px; float: right;" alt="Instructor from SIA Writing video labeling the Hamburger image on a whiteboard." src="@@PLUGINFILE@@/LtAEI-S5b_hamburgerGOvideosnap.jpg" /&gt;While other answers are possible, below are our responses to the questions regarding closure in the SIA Writing a Paragraph (ESL) video:&lt;/p&gt;
+&lt;p&gt;We observed the teacher use closure to do the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review and summarize &lt;/li&gt;
+&lt;li&gt;Identify relevance &lt;/li&gt;
+&lt;li&gt;Connect to next session/s &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;Consider how you would have closed this lesson. &lt;br /&gt;What would you have done differently?&lt;/strong&gt; Why?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This concludes our explanation and modeling of the process for EI Lesson planning for Content Learning. We now ask you to complete two tasks before moving on to wrap up this course.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;-&lt;strong&gt; Participate in a discussion&lt;/strong&gt; of practice and closure for EI Content Learning (*your* peer-assisted practice for this topic)&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;- &lt;strong&gt;Complete your EI lesson plan for Content Learning&lt;/strong&gt; (*your* independent practice for this topic)&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1754">
+            <jumpto>771</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1755">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1756">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="785">
+        <prevpageid>784</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508979659</timemodified>
+        <title>EI for Content Learning – Wrap up</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="150" height="126" style="margin-left: 10px; float: right;" alt="Street sign pointing right with word Review" src="@@PLUGINFILE@@/LTA-EI-S1c-Review.jpg" /&gt;In this lesson we reviewed the importance of scaffolded practice in building student’s self-directed learning skills and automaticity. You then examined several examples of guided practice for EI Content Learning (integrating the use of graphic organizers) and considered options for moving students on to independent practice.&lt;/p&gt;
+&lt;p&gt;During this process we asked you to make note of your reflections on practice and closure for EI Content Learning. &lt;span style="color: #800080;"&gt;&lt;b&gt;You will be asked next to share these reflections in a post to a discussion forum.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Once you have completed your post, we ask you to integrate this new learning into the EI lesson plan you began in Session #5 focused on content learning using a graphic organizer. &lt;span style="color: #800080;"&gt;&lt;b&gt;You will submit this completed lesson plan to your facilitator for feedback.&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Optional:&lt;/b&gt; Once you have received facilitator feedback on your EI Content Learning lesson plan, you may choose to share it with your peers and ask for their feedback.&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Next to end this lesson, return to the Main Course Menu, and access the next session section.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1726">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1727">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1728">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

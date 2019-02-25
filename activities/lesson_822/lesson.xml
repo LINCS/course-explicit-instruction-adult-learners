@@ -1,0 +1,1214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="10" moduleid="822" modulename="lesson" contextid="1240">
+  <lesson id="10">
+    <course>25</course>
+    <name>3A - Explicit Instruction and Task Analysis</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1493997874</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="93">
+        <prevpageid>0</prevpageid>
+        <nextpageid>94</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503521456</timemodified>
+        <title>Review and Session 3 Objectives</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt; &lt;b&gt;Explicit Instruction Lesson Plan – Skill/Strategy Learning&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="163" height="246" style="float: right;" alt="Overview - 3 business people discussing large plan document" src="@@PLUGINFILE@@/LTA-EI-S1a-Overview.jpg" /&gt;Last session we:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Described the importance of developing students’ ability to be self-regulated learners.&lt;/li&gt;
+&lt;li&gt;Described the components of a Lesson Introduction that incorporates principles of explicit instruction.&lt;/li&gt;
+&lt;li&gt;Prepared you to develop a Lesson Introduction relevant to your learners using an explicit instruction lesson plan format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;In this session we will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Describe skills and strategies in the context of EI and self-regulated learning.&lt;/li&gt;
+&lt;li&gt;Describe how to task analyze an academic skill or strategy into steps.&lt;/li&gt;
+&lt;li&gt;Describe how to explain and model a strategy or skill (including the use of a ‘think aloud’).&lt;/li&gt;
+&lt;li&gt;Continue development of an EI Lesson incorporating the ‘explain and model’ steps for a skill or strategy (based on a task analysis).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;EI Lesson Plan Format:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As previously stated, we are working our way through the four parts of our explicit instruction lesson plan format. In this session we will focus on the second part:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lesson Introduction&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher Explanation and Demonstration/Modeling &amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Practice&lt;/li&gt;
+&lt;li&gt;Closure&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="251">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="94">
+        <prevpageid>93</prevpageid>
+        <nextpageid>95</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1509125788</timemodified>
+        <title>Self-Regulation  and EI: Explanation and Modeling</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="250" height="157" style="float: right; margin-left: 10px;" alt="Instructor pointing to Syllable poster - screenshot from video in Lesson Introduction" src="@@PLUGINFILE@@/LtAEI-S3a-alphabetics%231.JPG" /&gt;From the previous session you may remember that our goal as adult education instructors is to teach in a way that helps our students become independent or &lt;em&gt;&lt;strong&gt;self-regulated&lt;/strong&gt;&lt;/em&gt; learners.&lt;/p&gt;
+&lt;p&gt;Explicit instruction is designed to help students master basic skills as well as higher order thinking strategies that are the building blocks for success in any academic or vocational area. In explicit instruction we support this mastery through &lt;em&gt;&lt;strong&gt;task analysis&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A task analysis &lt;em&gt;breaks down&lt;/em&gt; what we are teaching in a series of steps. The teacher then explains and models these steps, which the learners then use to practice new skills and/or content.&lt;/p&gt;
+&lt;p&gt;When modeling, it is important that instructors&lt;em&gt;&lt;strong&gt; think aloud&lt;/strong&gt;&lt;/em&gt; as well. When teachers model and explain their own thought processes, learners are more likely to understand and begin to use those same processes on their own. &lt;strong&gt; This is an essential part of EI.&lt;/strong&gt; Modeling new skills and/or concepts - based on a task analysis - combined with the use of “think alouds,” supports the development of self-regulation in adult learners.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What is a task analysis? Have you ever based your instruction on one? If so, how did you conduct the task analysis?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="252">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="253">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="95">
+        <prevpageid>94</prevpageid>
+        <nextpageid>96</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1508938745</timemodified>
+        <title>Teacher Explanation is based in a Task Analysis</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="216" height="162" style="float: right; margin-left: 10px;" alt="generic person figure walking up a series of block steps arranged in three-quarters of a circle" src="@@PLUGINFILE@@/LtAEI-S3A-seriesofsteps.png" /&gt;An important part of an explicit instruction lesson is making sure that we have a clear set of steps that students will learn to follow. The process we use to develop these steps is called a &lt;strong&gt;task analysis.&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;em&gt;&lt;strong&gt;Task Analysis is the process of breaking down an academic task into steps that teachers can explain and demonstrate.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A task analysis provides the basis for the teacher explanation, as well as the demonstration/modeling parts of the EI lesson.&lt;/p&gt;
+&lt;p&gt;Let’s take a closer look at the task analysis process.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="254">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="255">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="256">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="96">
+        <prevpageid>95</prevpageid>
+        <nextpageid>97</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1508938922</timemodified>
+        <title>Task Analysis</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="216" height="162" style="float: right; margin-left: 10px;" alt="generic person figure walking up a series of block steps arranged in three-quarters of a circle" src="@@PLUGINFILE@@/LtAEI-S3A-seriesofsteps.png" /&gt;How we teach can have either a negative or positive effect on developing students into &lt;strong&gt;self-regulated learners&lt;/strong&gt;.  Explicit Instruction is designed to enable to students to develop this important learning attribute.&lt;/p&gt;
+&lt;p&gt;Here are the &lt;strong&gt;steps to doing a task analysis.&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify a critical basic skill or higher order thinking strategy learners need to be able to perform.&lt;/li&gt;
+&lt;li&gt;Divide it into steps.&lt;/li&gt;
+&lt;li&gt;Determine prerequisite knowledge and skills needed to perform the steps.&lt;/li&gt;
+&lt;li&gt;Develop methods to assess students’ prerequisite knowledge and skills.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;em&gt;Does this process sound familiar? &lt;br /&gt;Have you used it in your work with adult learners?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Task analysis is important in teaching basic skills, such as how to multiply or write a simple sentence. Task analysis is also important in teaching higher order thinking strategies, such as how to solve math word problems or to write a persuasive essay.&lt;/p&gt;
+&lt;p&gt;Let’s work through two task analyses:&lt;/p&gt;
+&lt;p&gt;  &lt;strong&gt;&amp;gt; &lt;/strong&gt;One task analysis will be for a basic skill: &lt;strong&gt;How to add decimals.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;  &amp;gt; &lt;/strong&gt; The other task analysis will be for a higher order thinking strategy: &lt;br /&gt;&lt;strong&gt;      How to answer literal and inferential reading comprehension questions.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="257">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="258">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="259">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="97">
+        <prevpageid>96</prevpageid>
+        <nextpageid>98</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1503521507</timemodified>
+        <title>Task Analysis of a Basic Skill – Steps 1 &amp; 2</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="150" height="133" style="float: right; margin-left: 10px;" alt="Woman writing decimal problem on chalkboard" src="@@PLUGINFILE@@/LTA-EI-S1c-modeling.jpg" /&gt;A &lt;em&gt;&lt;strong&gt;basic skill&lt;/strong&gt; &lt;/em&gt;is a procedure that with practice can be performed automatically. Basic skills require very little or no higher order thinking.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 1: &lt;/strong&gt; Identify a basic skill or higher order thinking strategy learners need to be able to perform.&lt;/p&gt;
+&lt;p&gt;Let’s begin with the basic skill of adding decimals, as in the following sample problem:    &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Add 1.452 to 1.3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 2:&lt;/strong&gt;  Divide the task into steps.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;But wait, what are the ‘right’ steps?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing a puzzle piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt; Take a minute and solve the problem below, and list the steps you followed&lt;/strong&gt;.    &lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;1.452 + 1.3 =&lt;/strong&gt; _________&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;When you are done, click on the &lt;strong&gt;Next&lt;/strong&gt; button to compare your steps to the steps on the next slide.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="263">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="264">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="265">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="98">
+        <prevpageid>97</prevpageid>
+        <nextpageid>138</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878378</timecreated>
+        <timemodified>1508939712</timemodified>
+        <title>Task Analysis of a Basic Skill – Steps 2 &amp; 3</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="200" height="214" style="float: right; margin-left: 10px;" alt="Illustration of decimal addition steps – first line up the decimals (1.452 + 1.3), then pad the zeros so no place values are empty (1.3 becomes 1.300), and then add the columns normally (results in 2.752)" src="@@PLUGINFILE@@/LtA-S3M1-Decimal%20steps.JPG" /&gt;Here is one way to break this task down into steps.*&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 2: &lt;/strong&gt; Divide the task into steps.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;1.452 + 1.3 =&lt;/strong&gt; _________&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Write down the numbers, one under the other, with the decimal points lined up.&lt;/li&gt;
+&lt;li&gt;Put in zeros (“pad” the zeros) so the numbers have the same length.&lt;/li&gt;
+&lt;li&gt;Then add normally, remembering to put the decimal point in the answer.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: right;"&gt;* Source: MathIsFun.com&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;How did your steps compare? Did you have more steps, or fewer? Is yours also a “right” way to break down this task?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Now that we have broken down our task, let’s look at our next step.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 3:&lt;/strong&gt; Determine prerequisite knowledge and skills.&lt;/p&gt;
+&lt;p&gt;A task analysis builds on knowledge and skills that the student has acquired previously. These prerequisites must be clearly identified.&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting a puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;&lt;em&gt;What prerequisite knowledge and skills does a learner need to know before learning to add decimals?&lt;/em&gt; Take a minute and list the prerequisites for our example problem.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you are done, click on the &lt;strong&gt;Next&lt;/strong&gt; button to compare your steps to the steps on the next slide.&lt;/p&gt;
+&lt;p&gt; &lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="266">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="267">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="268">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="138">
+        <prevpageid>98</prevpageid>
+        <nextpageid>139</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097425</timecreated>
+        <timemodified>1508939805</timemodified>
+        <title>Task Analysis of a Basic Skill – Steps 3 &amp; 4</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 3:&lt;/strong&gt; Determine prerequisite knowledge and skills.&lt;/p&gt;
+&lt;p&gt;W&lt;img width="150" height="105" style="float: right; margin-left: 10px;" alt="chalkboard with simple addition problems on it" src="@@PLUGINFILE@@/LtA-S3a-basicadd.JPG" /&gt;e think that some important prerequisite knowledge and skills for adding decimals are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skill in basic addition facts&lt;/li&gt;
+&lt;li&gt;Skill in adding multidigit numbers with regrouping&lt;/li&gt;
+&lt;li&gt;Knowledge of decimals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;How did your list of prerequisite skills compare?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;You may have thought of other prerequisites, or stated them somewhat differently, but let’s use this list for now and move on to Step 4.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 4:&lt;/strong&gt; Develop methods to assess students’ prerequisite knowledge and skills.&lt;/p&gt;
+&lt;p&gt;After you identify the prerequisite skills, develop a short assessment to determine if learners have these prerequisites.&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting a puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Take a minute and think about how you might quickly assess each of the prerequisites for adding decimals with your learners.  What ‘sample items’ might you put on a short quiz, for example?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you are done, click on the &lt;strong&gt;Next&lt;/strong&gt; button to compare your steps to the steps on the next slide.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="377">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="378">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="379">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="139">
+        <prevpageid>138</prevpageid>
+        <nextpageid>140</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097468</timecreated>
+        <timemodified>1508939870</timemodified>
+        <title>Task Analysis of a Basic Skill – Step 4 Activity Possible Responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 4:&lt;/strong&gt; Develop methods to assess students’ prerequisite knowledge and skills.&lt;/p&gt;
+&lt;p&gt;Below are some sample items to address each of our listed prerequisites for adding decimals:&lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;To assess skill in basic addition facts&lt;/span&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Add the following numbers (common addition facts):&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;3 + 4 = ____     7 + 4 = ____     6 + 3 = ____      7 + 8 = ____     9 + 9 = ____ &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;To assess skill in adding multidigit numbers with regrouping&lt;/span&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Add the following numbers:&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;12 + 59 = ____    33 + 8 + 13 = ____   &lt;img width="138" height="50" alt="3 math problems in vertical layout: 27+59; 58+75; 134+86" src="@@PLUGINFILE@@/LTA-EI-S3a-TAstep4mathprobswt.jpg" /&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;To assess knowledge of decimals&lt;/span&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Which is more? (Circle your answer)&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;1.5 or 1.456     46.999 or 78.4     13.003 or 13.02     7.6 or 7 ½    27.3 or 27 ¼ &lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;How did your approach (or items) for assessing prerequisites skills compare? What would you do if a student did not have the prerequisite skills?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;em&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;div style="width: 716px;"&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="380">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="381">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="382">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097468</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="140">
+        <prevpageid>139</prevpageid>
+        <nextpageid>141</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097511</timecreated>
+        <timemodified>1508939956</timemodified>
+        <title>Supporting students who lack pre-requisite skills</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="150" height="225" style="float: right; margin-right: 10px;" alt="student standing, looking up towards a thought ballon containing a question mark" src="@@PLUGINFILE@@/LTA-EI-S3a-whatSSknow.jpg" /&gt;Task Analysis Step 4:&lt;/strong&gt; Develop methods to assess students’ prerequisite knowledge and skills.&lt;/p&gt;
+&lt;p&gt;Note that this step in the task analysis connects with the &lt;strong&gt;Lesson Introduction&lt;/strong&gt; component: &lt;em&gt;Review and check for prerequisite skills.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The task analysis process assists you to identify the needed skills and to design a check for those skills that you would use as a part of your lesson introduction. In addition, during the task analysis, instructors should consider how they will modify instruction for students who do not have the prerequisite skills.&lt;/p&gt;
+&lt;p&gt;In the example we are using this may mean:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;practicing addition facts,&lt;/li&gt;
+&lt;li&gt;practicing addition with regrouping, and/or&lt;/li&gt;
+&lt;li&gt;reviewing decimals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;What other supports might you plan for students who lack the prerequisite skills for adding decimals?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="383">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="384">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="385">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="141">
+        <prevpageid>140</prevpageid>
+        <nextpageid>142</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097551</timecreated>
+        <timemodified>1503521555</timemodified>
+        <title>Task Analysis – higher order thinking strategies</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="150" height="152" style="float: right; margin-left: 10px;" alt="transparent head in profile, showing brain and nervous system" src="@@PLUGINFILE@@/LtA-S3a-HOTbrain.JPG" /&gt;So far we have examined an example of a task analysis for a basic math skill. Let’s move on to &lt;strong&gt;higher order thinking (HOT) strategies&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;First of all, we need to define what we mean by “strategy” in this context.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;em&gt;&lt;strong&gt;A strategy&lt;/strong&gt;&lt;/em&gt; is a procedure a learner uses to perform a complex task. Strategies are comprised of thinking and action steps to help learners develop higher order thinking skills.&lt;/p&gt;
+&lt;p&gt;A number of research-based strategies have been developed and tested for effectiveness. In general, teachers should try to use these tested strategies rather than developing their own. Let’s take a look at one example.&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing a puzzle piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Examine two sets of reading comprehension strategies&lt;/strong&gt; found in &lt;em&gt;&lt;a href="https://lincs.ed.gov/publications/pdf/L2AProfessionalGuide_final.pdf"&gt;Learning to Achieve: A Professional’s Guide to Educating Adults with Learning Disabilities&lt;/a&gt;.See Figure 11 and 12 on Reading Comprehension Strategies on Page 76. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;Note that each strategy is presented as a series of steps to follow, but that how these steps are presented varies. Sometimes…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the first letter of the step is mnemonic – &lt;strong&gt;ASK IT&lt;/strong&gt; (Figure 11),&lt;/li&gt;
+&lt;li&gt;the steps are numbered (Figure 12), or&lt;/li&gt;
+&lt;li&gt;the steps are unnumbered (Figure 11).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s try the task analysis process for a higher order thinking strategy.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="386">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="387">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="388">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="142">
+        <prevpageid>141</prevpageid>
+        <nextpageid>143</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097590</timecreated>
+        <timemodified>1508940046</timemodified>
+        <title>Task Analysis of a HOT Strategy  – Step 1</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 1: &lt;/strong&gt; Identify a basic skill or higher order thinking strategy learners need to be able to perform.&lt;/p&gt;
+&lt;p&gt;&lt;img width="150" height="225" style="float: right; margin-left: 10px;" alt="student, looking at textbook with head in hand, confused" src="@@PLUGINFILE@@/LtA-S3a-HOTreadingcomp.JPG" /&gt;The higher order thinking skill we are going to address is the ability to answer both literal and inferential reading comprehension  questions. &lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt; A literal comprehension question&lt;/strong&gt; asks the student to recall or find information that is clearly stated in the text.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;An inferential comprehension question&lt;/strong&gt; requires the student to draw on their own knowledge, as well as pull information from the text, in order to understand the reading.&lt;/p&gt;
+&lt;p&gt;Given a reading passage and several comprehension questions, both literal and inferential, we want this learner to be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;distinguish the types of questions and,&lt;/li&gt;
+&lt;li&gt;based on their reading, provide answers to the questions.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;How would you approach teaching this skill? &lt;br /&gt;What would you envision as the “steps” to this higher order thinking process?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="389">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="390">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="391">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="143">
+        <prevpageid>142</prevpageid>
+        <nextpageid>144</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097625</timecreated>
+        <timemodified>1508941039</timemodified>
+        <title>Task Analysis of a HOT Strategy  – Step 2</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Task Analysis Step 2:&lt;/strong&gt;  Divide the task into steps.&lt;/p&gt;
+&lt;p&gt;&lt;img width="200" height="300" style="float: right; margin-left: 10px;" alt="Teacher bending down to student in wheelchair, both discussing textbook" src="@@PLUGINFILE@@/LtA-S3a-QARstrat.JPG" /&gt;As we noted before, when teaching &lt;em&gt;&lt;strong&gt;strategies,&lt;/strong&gt;&lt;/em&gt; it is helpful to use already-developed strategies that have a research base. Thus this step is more about *finding* an existing researched step-by-step process than creating one yourself.&lt;/p&gt;
+&lt;p&gt;One such strategy that addresses our chosen reading comprehension skill is the &lt;strong&gt;Question – Answer Relationship Strategy (QAR).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;QAR is a strategy that teaches learners how to answer &lt;strong&gt;reading comprehension&lt;/strong&gt; questions. The strategy guides learners to categorize questions based on how information is presented in a reading passage. &lt;/p&gt;
+&lt;p&gt;Learners start by identifying questions that can be answered by information that is easiest to find and then move through a passage to answer more inferential questions. The strategy is divided into three parts.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Right There&lt;/strong&gt; - Identify information that is in one place in the passage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Think and Search&lt;/strong&gt; - Identify information that has to be put together from different parts of the passage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Writer and Me&lt;/strong&gt; - Identify what you already know and how it helps you understand the reading.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: right;"&gt;(Raphael &amp;amp; Au, 2005)&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing a puzzle piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Take a few moments to review the QAR strategy and to consider what prerequisite skills would be required for successful use of this strategy.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="392">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="393">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="394">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="144">
+        <prevpageid>143</prevpageid>
+        <nextpageid>145</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097668</timecreated>
+        <timemodified>1503521762</timemodified>
+        <title>Task Analysis of a HOT Strategy  – Step 3</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="150" height="200" style="float: right; margin-left: 10px;" alt="woman looking up - thinking - holding a pencil to her cheek" src="@@PLUGINFILE@@/LtA-S3a-Whatpre-req.JPG" /&gt;Task Analysis Step 3:&lt;/strong&gt; Determine prerequisite knowledge and skills.&lt;/p&gt;
+&lt;p&gt;Here is a list of the prerequisites that we feel are important for learners to be able to learn this strategy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Passage reading level&lt;/strong&gt; - Learners should be learning this strategy in passages on their comprehension reading levels.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background knowledge&lt;/strong&gt; - Learners should have some background knowledge of the passage topic.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Literal comprehension&lt;/strong&gt; - Learners should be able to answer simple literal comprehension questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Again, the prerequisites you listed may differ, depending on your learners. For the next step, however, we’ll use this list above. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing a puzzle piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;Consider the methods a teacher might use to assess this list of prerequisite knowledge and skills for the QAR strategy. Note down your ideas.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When you are done, click on the next button to compare your steps to the steps on the next slide.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="395">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097668</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="396">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097668</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="397">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097668</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="145">
+        <prevpageid>144</prevpageid>
+        <nextpageid>146</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097704</timecreated>
+        <timemodified>1508940282</timemodified>
+        <title>Task Analysis of a HOT Strategy  – Step 4</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="175" height="263" style="float: right; margin-left: 10px;" alt="Female student looking up to a question mark in a thought balloon" src="@@PLUGINFILE@@/LTA-EI-S3a-whatSSknow.jpg" /&gt;Task Analysis Step 4:&lt;/strong&gt; Develop methods to assess students’ prerequisite knowledge and skills.&lt;/p&gt;
+&lt;p&gt;To conduct a prerequisite assessment for QAR the teacher might&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ensure that the reading passages match the learners’ comprehension levels&lt;/strong&gt; by&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;asking comprehension questions or&lt;/li&gt;
+&lt;li&gt;using a “cloze” test in which words are omitted at regular intervals and learners are asked to supply the missing words. (Ideas for using cloze tests are readily available in literacy texts or on the web).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;&lt;strong&gt;assess background knowledge&lt;/strong&gt; by asking questions on relevant topics and key vocabulary words.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;test literal comprehension&lt;/strong&gt; by asking simple comprehension questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The QAR strategy is just one of many research-based strategies that can help learners begin to guide their own reading comprehension. The three steps of QAR give learners a road map of types of questions that can help them comprehend a reading passage. The QAR steps are the basis for teacher explanation and modeling in this EI lesson.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;How can providing a clear set of steps to follow help learners begin to gain the confidence and competence that supports self-regulated learning?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="398">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="399">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="400">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="146">
+        <prevpageid>145</prevpageid>
+        <nextpageid>99</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097750</timecreated>
+        <timemodified>1508940391</timemodified>
+        <title>Task Analysis and self-regulated learners</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="175" height="131" style="float: right; margin-left: 10px;" alt="generic person figure walking up a series of block steps arranged in three-quarters of a circle" src="@@PLUGINFILE@@/LtAEI-S3A-seriesofsteps.png" /&gt;While a good task analysis is useful throughout the explicit instruction process, the steps of the task analysis play a particularly important role in the Explain and Model part of an explicit instruction lesson.&lt;/p&gt;
+&lt;p&gt;During the Explanation phase of an EI lesson, the teacher, through the task analysis, gives learners a clear set of steps to follow. During the modeling and practice phases of instruction, the continued use and reinforcement of these steps help learners to &lt;em&gt;internalize&lt;/em&gt; the steps. This internalization assists learners to ultimately ‘own’ the critical skill being taught.&lt;/p&gt;
+&lt;p&gt;Once they have mastered the skill or strategy, they can then &lt;strong&gt;apply it in new situations&lt;/strong&gt; and &lt;strong&gt;combine it with other skills&lt;/strong&gt; to solve more complex problems. These are behaviors displayed by &lt;em&gt;self-regulated learners.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Consider the EI Lesson Plan list below. &lt;br /&gt;At what point would you conduct the task analysis? Why?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explicit Instruction Lesson Plan:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lesson Introduction&lt;/li&gt;
+&lt;li&gt;Teacher Explanation and Demonstration/Modeling&lt;/li&gt;
+&lt;li&gt;Practice&lt;/li&gt;
+&lt;li&gt;Closure&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="401">
+            <jumpto>93</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="402">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="403">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="99">
+        <prevpageid>146</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508979819</timemodified>
+        <title>Explicit Instruction and Task Analysis - Review and Planning Activity</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="150" height="126" style="float: right; margin-left: 10px;" alt="Street sign pointing right with word Review" src="@@PLUGINFILE@@/LTA-EI-S1c-Review.jpg" /&gt;&lt;/p&gt;
+&lt;div class="O1"&gt;In this lesson we examined a process for completing a task analysis of both a basic skill (adding decimals) and a higher order thinking strategy (reading comprehension – answering both literal and inferential questions). Remember:&lt;/div&gt;
+&lt;div class="O1" style="padding-left: 30px;"&gt;A &lt;strong&gt;basic skill&lt;/strong&gt; is a procedure that with practice can be performed automatically. Basic skills require very little or no higher order thinking.&lt;/div&gt;
+&lt;div class="O1" style="padding-left: 30px;"&gt;A &lt;strong&gt;strategy&lt;/strong&gt; is a procedure a learner uses to perform a complex task. Strategies are comprised of thinking and action steps to help learners develop higher order thinking skills.&lt;/div&gt;
+&lt;div class="O1" style="padding-left: 30px;"&gt; &lt;/div&gt;
+&lt;div class="O1"&gt;As indicated, the task analysis forms the basis for the Explain and Model steps of the EI Lesson, as well as informing the prerequisite component of the Lesson Introduction. Thus the task analysis is a critical step in &lt;em&gt;planning&lt;/em&gt; an EI lesson for either a skill or a strategy.&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Consider the Lesson Introduction you designed for the assignment in Session 2. Was the focus of the lesson a skill or a strategy? &lt;/strong&gt;&lt;strong&gt;If a skill, &lt;/strong&gt;begin to think about how you would break this skill down into steps. &lt;strong&gt;If a strategy,&lt;/strong&gt; consider how you would locate a tested procedure for this complex task.&lt;/p&gt;
+&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;You will be asked to conduct a task analysis as a part of the Assignment for Session #3.&lt;/strong&gt;&lt;/p&gt;
+&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;Next we will examine how to conduct the Explain and Demonstrate/Model component of the EI Lesson plan format we are using.&lt;/p&gt;
+&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Finish to end this lesson, return to the Main Course Menu, and access the next session section.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="260">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="261">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="262">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Finish</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

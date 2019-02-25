@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="470" modulename="lesson" contextid="741">
+  <lesson id="3">
+    <course>25</course>
+    <name>Reading 1A: Course Introduction</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>0</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1523980137</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="14">
+        <prevpageid>0</prevpageid>
+        <nextpageid>16</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1378239026</timecreated>
+        <timemodified>1508872000</timemodified>
+        <title>Session #1 Overview</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="169" height="253" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Overview - 3 business people discussing large plan document" src="@@PLUGINFILE@@/LTA-EI-S1a-Overview.jpg" /&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Session #1: Introduction to Explicit Instruction&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In this session we will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Overview the course goals and syllabus.&lt;/li&gt;
+&lt;li&gt;Get to know the participants in this course.&lt;/li&gt;
+&lt;li&gt;Define Explicit Instruction (EI).&lt;/li&gt;
+&lt;li&gt;Describe the characteristics and principles of EI.&lt;/li&gt;
+&lt;li&gt;Identify types of student needs that are addressed by EI.&lt;/li&gt;
+&lt;li&gt;Examine role of both students and the instructor in EI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let's get started by looking at the goals and syllabus for this course.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="35">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1378239026</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="16">
+        <prevpageid>14</prevpageid>
+        <nextpageid>36</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1378327009</timecreated>
+        <timemodified>1503519777</timemodified>
+        <title>Course Goals</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #800080;"&gt;Goals for this Course&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Explicit Instruction (EI) is an approach suitable for addressing any student goal, skill or content area. This course is designed for adult education instructors working primarily with native English-speaking adults at all literacy levels, particularly those who face barriers to learning. It is also, however, an appropriate approach for use with ESL learners functioning at intermediate and higher levels of oral language skills.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Goals:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;to increase adult educators' understanding of explicit instruction, its key elements, applications, and purposes;&lt;/li&gt;
+&lt;li&gt;to assist adult educators in planning lessons that incorporate the elements of explicit instruction; and&lt;/li&gt;
+&lt;li&gt;to help adult educators incorporate explicit instruction in to their everyday teaching practice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #800080;"&gt;Please take a moment to reflect on the above course goals, and consider how they align with your own needs.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt=" Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;What are your own goals for this course? What do you hope to gain by participating in this professional development opportunity?&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span style="color: #000000;"&gt;Now we'll review the topics and learning activities planned for this course by taking a look a the course syllabus.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next link below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="37">
+            <jumpto>14</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1378327009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="38">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1378327009</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="36">
+        <prevpageid>16</prevpageid>
+        <nextpageid>35</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379451197</timecreated>
+        <timemodified>1508867333</timemodified>
+        <title>Course Syllabus</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;img width="182" height="214" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Hand pointing to location on large map" src="@@PLUGINFILE@@/LTA-EI-S1a-syllabus.jpg" /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The course syllabus provides an outline of course topics and activities designed to assist participants in meeting these goals. Please take a moment to review the Syllabus linked below. This will provide you with a “big picture” guide as you go through the course. As you review the course activities, consider how they relate to your own goals for this course, and any questions or concerns you may have.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Clicking the link will open the Syllabus in a new window or tab:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a title="Course Syllabus" href="@@PLUGINFILE@@/Course%20Syllabus.pdf" target="_blank"&gt;&lt;strong&gt;Explicit Instruction Course Syllabus&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;Did your review of the course syllabus affect your goals for participating in the course? What activities stood out as of particular interest to you?&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;span style="color: #000000;"&gt;Now that you have been introduced to the course, let's move on to &lt;em&gt;participant&lt;/em&gt; introductions.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next link below to continue.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="91">
+            <jumpto>14</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379451197</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="92">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379451197</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="93">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379451197</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="35">
+        <prevpageid>36</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379434757</timecreated>
+        <timemodified>1503519819</timemodified>
+        <title>Course Participant Introductions</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Research, and likely your own experiences, indicate that the strength of classroom connections (teacher-student and student-student) have a direct effect on motivation, retention, and learning. It is important then, for learners to get to know and feel comfortable with both their instructor(s) and their peers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;br /&gt;Can you think of one or more examples from your own experiences that support these statements?  In what ways are peer relationships important in your classroom?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Research also notes that online learning often presents barriers to the creation of these important &lt;em&gt;classroom connections&lt;/em&gt;. Throughout this course, we have provided &lt;strong&gt;Discussion Forum activities&lt;/strong&gt; in order to foster practitioner networks and learning relationships. We strongly encourage you to not only share your ideas and experiences, but also to read and respond to others in the course in order to strengthen your learning experience and build your professional learning network.&lt;/p&gt;
+&lt;p&gt;To get started making these connections, the next course activity asks everyone to help build a sense of &lt;em&gt;online community&lt;/em&gt; by introducing yourselves and getting to know others in the course. In your introduction, we ask that you share with others:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;your name, location and a bit about your learners;&lt;/li&gt;
+&lt;li&gt;any experience(s) you've had using Explicit Instruction; and&lt;/li&gt;
+&lt;li&gt;your thoughts regarding the needs, concerns, and goals that drew you to participate in this course.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;We look forward to virtually meeting you via the discussion!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click Next to end this lesson, return to the Main Course Menu, and access the Discussion Forum to post your introduction. &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="88">
+            <jumpto>14</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379434757</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="89">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379434757</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="90">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379434757</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

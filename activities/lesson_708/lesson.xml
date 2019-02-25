@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="708" modulename="lesson" contextid="1051">
+  <lesson id="8">
+    <course>25</course>
+    <name>2A Explicit Instruction Lesson Plan Format</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1441912825</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="57">
+        <prevpageid>0</prevpageid>
+        <nextpageid>58</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503520811</timemodified>
+        <title>Review and Session 2 Objectives</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="163" height="246" style="float: right;" alt="Overview - 3 business people discussing large plan document" src="@@PLUGINFILE@@/LTA-EI-S1a-Overview.jpg" /&gt;Last session we:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Defined explicit instruction.&lt;/li&gt;
+&lt;li&gt;Described the characteristics and principles of explicit instruction.&lt;/li&gt;
+&lt;li&gt;Identified types of student needs that are addressed by explicit instruction.&lt;/li&gt;
+&lt;li&gt;Described the teacher role in explicit instruction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;In this session we will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Describe the importance of developing students’ ability to be self-regulated learners.&lt;/li&gt;
+&lt;li&gt;Describe the components of a Lesson Introduction that incorporates principles of explicit instruction.&lt;/li&gt;
+&lt;li&gt;Prepare you to develop a Lesson Introduction relevant to your learners using an explicit instruction lesson plan format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="149">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="58">
+        <prevpageid>57</prevpageid>
+        <nextpageid>59</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1508872278</timemodified>
+        <title>The Big Picture – Self-regulation</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="225" height="157" style="float: right; margin-left: 10px;" alt="3 adult students thinking and writing independently" src="@@PLUGINFILE@@/LTA-EI-S2a-3studentswriting.jpg" /&gt;Many of our ABE students have struggled with school learning. This struggle or lack of school success often results in ‘dependent learners’ who:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;attribute their success or failures to others,&lt;/li&gt;
+&lt;li&gt;do not set realistic short-term learning goals,&lt;/li&gt;
+&lt;li&gt;do not monitor their progress, and/or&lt;/li&gt;
+&lt;li&gt;do not use strategies to help them learn challenging content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;Our goal as adult educators is to teach in a way that helps our students become independent or self-regulated learners who:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;set goals for their learning,&lt;/li&gt;
+&lt;li&gt;can describe their progress toward those goals, and&lt;/li&gt;
+&lt;li&gt;marshall their intellectual and emotional resources to solve problems and persist in working to master challenging content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="71" height="58" style="float: left; margin-right: 10px;" alt="Activity Icon = hand putting puzzle piece in place" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;em&gt;&lt;b&gt;Review the statements below and decide which would be made by a self-regulated learner:&lt;/b&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: left; padding-left: 90px;"&gt;&lt;em&gt;“The teacher gave an easy test, so I did well.”&lt;br /&gt;“I used the study guide and got a good grade on the quiz.”&lt;br /&gt;“I’m really not sure of the purpose of this class.”&lt;br /&gt;“I’m tired so I better sit in front to help me pay attention.”&lt;br /&gt;“I’m going to look at the guide questions before I read.”&lt;/em&gt;&lt;span style="font-size: x-small;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="150">
+            <jumpto>57</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="151">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="59">
+        <prevpageid>58</prevpageid>
+        <nextpageid>60</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1503520830</timemodified>
+        <title>Activity: Self-regulation – Possible Responses</title>
+        <contents>&lt;p&gt;&lt;img width="225" height="157" style="float: right; margin-left: 10px;" alt="3 adult students thinking and writing independently" src="@@PLUGINFILE@@/LTA-EI-S2a-3studentswriting.jpg" /&gt;While responses may vary, we’ve listed below one set of responses regarding self-regulation and each of these learner statements.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Identify the statements made by a self-regulated learner&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;em&gt;The teacher gave an easy test, so I did well.&lt;/em&gt;”&lt;br /&gt;&lt;span style="color: #ff0000;"&gt;&lt;strong&gt;Not self-regulated.&lt;/strong&gt;&lt;/span&gt; Gives teacher credit for the good test grade, rather than giving oneself credit for knowing the material.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;em&gt;I used the study guide and got a good grade on the quiz&lt;/em&gt;.”&lt;br /&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;Self-regulated.&lt;/span&gt;&lt;/strong&gt; Attributed focused effort to good grade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;em&gt;I’m really not sure of the purpose of this class&lt;/em&gt;.”&lt;br /&gt;&lt;span style="color: #ff0000;"&gt;&lt;strong&gt;Not self-regulated.&lt;/strong&gt;&lt;/span&gt; Is in a learning situation and does not know the class goal or have a goal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;“&lt;em&gt;I’m tired so I better sit in front to help m&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;e pay attention&lt;/span&gt;&lt;/em&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;.”&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;Self-regulated.&lt;/strong&gt;&lt;/span&gt; Has a plan for how to pay attention when tired. Has a goal to learn from the class session.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;“&lt;em&gt;I’m going to look at the guide questions before I read&lt;/em&gt;.”&lt;/span&gt;&lt;br /&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: small;"&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;Self-regulated.&lt;/strong&gt;&lt;/span&gt; Has a plan to guide focus when reading.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="font-family: arial, helvetica, sans-serif;"&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Optional: &lt;/strong&gt;&lt;/span&gt; To learn more about self-regulated learning v&lt;span style="font-size: small;"&gt;isit the resource bel&lt;/span&gt;&lt;/span&gt;&lt;span style="font-size: small;"&gt;ow:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://lincs.ed.gov/sites/default/files/3_TEAL_Self%20Reg%20Learning.pdf"&gt;TEAL Center Fact Sheet No. 3:  Self-Regulated Learning&lt;/a&gt; &lt;span style="line-height: 115%; font-family: arial, helvetica, sans-serif; font-size: small;"&gt;(American Institutes for Research, 2010)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="152">
+            <jumpto>57</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="153">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="154">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="60">
+        <prevpageid>59</prevpageid>
+        <nextpageid>61</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1508872472</timemodified>
+        <title>Self-Regulation and Explicit Instruction</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="213" height="187" style="float: right; margin-left: 10px;" alt="a small group of adult students at a table working with an instructor" src="@@PLUGINFILE@@/LTA-EI-S2a-3Teacher-and-2students.jpg" /&gt;How we teach can have either a negative or positive effect on developing students into &lt;strong&gt;self-regulated learners&lt;/strong&gt;.  Explicit Instruction is designed to enable students to develop this important learning attribute. &lt;br /&gt;&lt;br /&gt;Explicit Instruction offers learners &lt;em&gt;&lt;strong&gt;carefully focused instruction&lt;/strong&gt;&lt;/em&gt; that guides them to mastery.  It begins with the teacher carefully controlling the content of lessons and gradually transferring responsibility to students as they demonstrate proficiency in meeting the learning objectives.&lt;br /&gt;&lt;br /&gt;Let’s examine how this &lt;em&gt;&lt;strong&gt;transfer of control&lt;/strong&gt; &lt;/em&gt;from teacher to student is structured in Explicit Instruction lesson plans.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="155">
+            <jumpto>57</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="156">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="157">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="61">
+        <prevpageid>60</prevpageid>
+        <nextpageid>62</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1503520850</timemodified>
+        <title>EI Lesson Plan Format</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="56" height="58" style="float: left; margin-right: 10px;" alt="hand, palm out, fingers slightly spread (5)" src="@@PLUGINFILE@@/LTA-EI-S1c-5hand.jpg" /&gt;In Session 1 we explored five techniques that organize and structure explicit instruction: review, explanation, demonstration/modeling, examples and non-examples, and scaffolded practice. We also explored how these techniques can be organized into a lesson plan format.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;A number of different lesson plan formats have been proposed for explicit instruction. For the purposes of our sessions, we will use a lesson plan format consisting of four major parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Lesson Introduction  &lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher Explanation and Modeling&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scaffolded Practice&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Closure&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Note that this structure is not specific to any one type of subject matter. What is in each of these lesson sections? Let’s take a quick look…&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="161">
+            <jumpto>57</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="162">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="163">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="62">
+        <prevpageid>61</prevpageid>
+        <nextpageid>73</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878378</timecreated>
+        <timemodified>1508872675</timemodified>
+        <title>EI Lesson Plan Format Sections</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;(1) Lesson Introduction&lt;/strong&gt; &lt;br /&gt;Teacher gets students focused, activates prior knowledge, and checks on students’ readiness for new learning .&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;(2) Teacher Explanation and Modeling&lt;/strong&gt;&lt;br /&gt;Teacher describes and demonstrates how to learn the new content.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;(3) Scaffolded Practice&lt;/strong&gt;&lt;br /&gt;Teacher engages students in a range of practice activities and increases difficulty as students show mastery. Students receive feedback to guide their performance.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;(4) Closure&lt;/strong&gt;&lt;br /&gt;Teacher wraps up the lesson to focus students’ attention on what they have learned. &lt;br /&gt;&lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Optional: &lt;/strong&gt;&lt;/span&gt; To examine this lesson plan format in more detail, click on the link below.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;span style="color: #0000ff;"&gt;&lt;a href="@@PLUGINFILE@@/Lesson%20Plan%20Outline.pdf" target="_blank"&gt;&lt;span style="color: #0000ff;"&gt;Explicit Instruction Lesson Plan Outline&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;How is this EI Lesson Plan format similar to/different from your own lesson formats?  &lt;br /&gt;At this point, what element of this lesson plan format interests you most?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="164">
+            <jumpto>57</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="165">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="166">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="73">
+        <prevpageid>62</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508872824</timemodified>
+        <title>EI Lesson Plan Format - Review and Reflection</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="153" height="133" style="float: right; margin-left: 10px;" alt="a small group of adult learners working together at a table with an instructor" src="@@PLUGINFILE@@/LTA-EI-S2a-3Teacher-and-2students.jpg" /&gt;In this lesson we examined self-regulated learning and how &lt;strong&gt;EI fosters the growth of self-regulation skills&lt;/strong&gt; for adult literacy learners. We also examined an &lt;strong&gt;EI lesson plan format&lt;/strong&gt; which will guide us through the remainder of this course.&lt;br /&gt;&lt;br /&gt;Let’s dive in and examine the EI &lt;em&gt;lesson introduction&lt;/em&gt;, an important but often neglected part of a lesson.&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Next to end this lesson, return to the Main Course Menu, and access the next session section.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="158">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="159">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="160">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

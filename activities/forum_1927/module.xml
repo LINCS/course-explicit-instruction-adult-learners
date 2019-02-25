@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="1927" version="2018051400">
+  <modulename>forum</modulename>
+  <sectionid>239</sectionid>
+  <sectionnumber>7</sectionnumber>
+  <idnumber></idnumber>
+  <added>1378246628</added>
+  <score>0</score>
+  <indent>2</indent>
+  <visible>1</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>2</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>{"op":"&amp;","showc":[true],"c":[{"type":"completion","cm":1931,"e":1}]}</availability>
+  <showdescription>0</showdescription>
+  <tags>
+  </tags>
+</module>

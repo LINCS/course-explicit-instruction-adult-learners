@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="481" modulename="lesson" contextid="758">
+  <lesson id="5">
+    <course>25</course>
+    <name>Reading 1D: Explicit Instruction - Roles and Benefits</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1493996451</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="17">
+        <prevpageid>0</prevpageid>
+        <nextpageid>18</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1509033024</timemodified>
+        <title>Who can benefit from Explicit Instruction?</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Many adults learn new concepts and skills quickly and easily on their own, without direct instruction. This leads us to ask, “&lt;em&gt;Who is the target audience for Explicit Instruction? Who benefits from this approach&lt;/em&gt;?”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teacher and Learner Roles in Instruction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One major feature of EI is the role of the instructor in the teaching/learning process. There are many different instructional approaches that define teacher and student roles in different ways. For example, explicit instruction can be contrasted with “implicit instruction,” which includes such approaches as “discovery learning” and “inductive teaching”. The following diagram illustrates how teacher and student roles differ in the two approaches.&lt;/p&gt;
+&lt;p&gt;&lt;img width="498" height="193" alt="Diagram with 2 squares with double headed arrow between - 1) Implicit instruction: Instructor is a resource, Student regulates learning 2) Explicit instruction: Instructor regulates learning, student follows teacher's lead" src="@@PLUGINFILE@@/LTA-EI-S1d-implicit-explicit-roles.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Implicit Instruction&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Implicit instruction is most appropriate when students have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;previous successful experiences relevant to the content,&lt;/li&gt;
+&lt;li&gt;prior knowledge, skills, and strategies that provide a solid foundation for the new learning, and&lt;/li&gt;
+&lt;li&gt;strong confidence to delve into new learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let's contrast this with Explicit Instruction.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="39">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="18">
+        <prevpageid>17</prevpageid>
+        <nextpageid>19</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1503520560</timemodified>
+        <title>Audience for Explicit Instruction</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="200" height="160" style="margin-left: 10px; margin-right: 10px; float: right;" alt="Group of diverse people smiling" src="@@PLUGINFILE@@/LTA-EI-S1d-Adultlearners.jpg" /&gt;&lt;/strong&gt;&lt;strong&gt;Adult Literacy Learners' Characteristics&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, many of our students do not have these advantages and can't always take advantage of an implicit instruction approach.&lt;/p&gt;
+&lt;p&gt;Many of our students have one or more of the following characteristics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;previous struggles in school,&lt;/li&gt;
+&lt;li&gt;limited educational experiences,&lt;/li&gt;
+&lt;li&gt;learning or attention disabilities,&lt;/li&gt;
+&lt;li&gt;big gaps in prior knowledge, and/or&lt;/li&gt;
+&lt;li&gt;a lot of emotional baggage resulting from poor educational experiences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Many students such as these often benefit from instruction that is structured, systematic, flexible, responsive to the needs of adult learners, and research-based.  &lt;strong&gt;Explicit Instruction&lt;/strong&gt; for core concepts may be their best hope for succeeding in adult education.&lt;/p&gt;
+&lt;p&gt;Note, however, that adult learners are complex individuals and often display a range of relative strengths and weaknesses. The appropriate instructional approach for a student may depend on the material being addressed. Let's look at some examples.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="40">
+            <jumpto>17</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="41">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="19">
+        <prevpageid>18</prevpageid>
+        <nextpageid>20</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1508871348</timemodified>
+        <title>Example #1 - Albert Einstein in Science Class</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Suppose you were teaching &lt;strong&gt;science&lt;/strong&gt; and Albert Einstein was enrolled in your class. We list his likely learner characteristics &lt;em&gt;for science concepts and skills&lt;/em&gt; in the table below.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-left: 10px; margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt; &lt;em&gt;&lt;strong&gt;Would he be a good candidate for implicit instruction? For example, do you think he would be capable of student-directed learning that uses the instructor primarily &lt;span style="background-color: #ffffff;"&gt;as a resource?&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;img width="561" height="196" alt="Image next to table.  Image shows Albert Einstein in space and E equals MC squared in the background.  Table lists three Learner Characteristics and indicates a level of low and high for each; Einstein gets high for previous experience, prior knowledge and confidence" src="@@PLUGINFILE@@/LTA-EI-S1d-einstein_science.jpg" /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000; background-color: #ffff00;"&gt;&lt;/span&gt;Yes, based on these characteristics, you would expect Albert to do well with implicit instruction in science. He might even discover a new theory or two!&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="42">
+            <jumpto>17</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="43">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="44">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="20">
+        <prevpageid>19</prevpageid>
+        <nextpageid>23</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1508871669</timemodified>
+        <title>Example #2 - Albert Einstein in Driver's Ed Class</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Now, suppose you were teaching driver's education and Albert Einstein was enrolled in your class. Again, we list his likely learner characteristics for concepts and skills relating to driving a car in the table below.&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;Based on these characteristics, do you feel he would be a good candidate for implicit instruction? Would you put him behind the wheel and let him figure things out &lt;span style="background-color: #ffff00;"&gt;on his own&lt;/span&gt;?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;img width="583" height="217" alt="Picture of a car dashboard next to a table.  The table lists three Learner Characteristics and indicates a level of  low or high for each; Einstein gets low for previous experience, prior knowledge and confidence." src="@@PLUGINFILE@@/LTA-EI-S1d-einstein_car.jpg" /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Did you know, Albert Einstein never learned to drive? He thought it was too complicated! He was reluctant to even try. With these characteristics, Albert would probably need very structured, systematic, explicit instruction in drivers’ education.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;Any man who can drive safely while kissing a pretty girl is simply &lt;br /&gt;not giving the kiss the attention it deserves. &lt;/em&gt;&lt;/span&gt; Albert Einstein&lt;/p&gt;
+&lt;p&gt;As was the case with Einstein, we all have subject areas and skills that we learn more readily than others.&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;What are some subject areas or skills that you would probably learn well with implicit instruction? What are some subject areas or skills in which you would probably need more explicit instruction to learn effectively?&lt;br /&gt;&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;/span&gt;&lt;span style="background-color: #ffff00; color: #000000;"&gt;&lt;span style="background-color: #ffffff;"&gt;This is, of course, also true of our adult learners. Some who typically benefit from explicit instruction in math may need little assistance for reading, or a student who reads fiction well, may have difficulties analyzing nonfiction texts.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;Take a minute and think of a learner you have that has distinct areas of strengths and needs. &lt;br /&gt;How might you use implicit instruction to engage this learner in areas of strengths? What is a specific area of need that you feel should be addressed by explicit instruction?&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="45">
+            <jumpto>17</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="46">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="47">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="23">
+        <prevpageid>20</prevpageid>
+        <nextpageid>24</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377548914</timecreated>
+        <timemodified>1509033199</timemodified>
+        <title>Explicit to Implicit Instruction - Reflections on Your Preferences</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;Explicit and implicit instruction represent a continuum with varying degrees of teacher control and student self-regulation. Instruction falls somewhere along that continuum. Teachers may have preferred styles, but they often adjust their styles depending on instructional content and student needs.&lt;/p&gt;
+&lt;p&gt;&lt;img width="698" height="193" alt="Blue line with arrow at each end and overlap in middle - three blocks of text: right end - Explicit Instruction Teacher regulates learning, and the student follows the teacher’s lead; middle - Student and teacher share control of learning;  left end - Implicit Instruction  Teacher is a resource to support student learning, and the student regulates his/her own learning  " src="@@PLUGINFILE@@/LTA-EI-S1d-EI-continuum.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Where does your preferred style of instruction fall on the continuum?&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;What other style(s) do you sometimes use?&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;What style(s) have you heard about that you'd like to learn more about?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt;To assist you in your reflections, in the document linked below are some techniques of explicit instruction. We suggest that you think about how often do you use each of these techniques in your current instruction. You may also note for yourself which techniques you are particularly interested in learning more about.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt;&lt;a href="@@PLUGINFILE@@/Techniques.docx" target="_blank"&gt;What Techniques of EI Do I Use? Want to Learn?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="57">
+            <jumpto>17</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="58">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="59">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="24">
+        <prevpageid>23</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1503520606</timemodified>
+        <title>Characteristics of EI - Review and Reflection</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;In this section, we have examined the characteristics of learners that would most benefit from Explicit Instruction. We also explored some of the different roles learners and instructors can have in both explicit and implicit instruction. Lastly, we asked you to reflect on your current instructional approaches and techniques, noting where you fell on the continuum, and what techniques you might like to try.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="106" height="91" style="margin-left: 10px; margin-right: 10px; float: left;" alt="Assignment icon - hand writing in notebook" src="@@PLUGINFILE@@/LTA-EI-Assignmenticon.jpg" /&gt;&lt;strong&gt;We will now wrap up this session with an assignment&lt;/strong&gt; that asks you to observe a full explicit instruction lesson, making note of your observations. You will then submit answers to some questions to your course facilitator. &lt;/p&gt;
+&lt;p&gt;Note that you are also encouraged to submit any questions or comments regarding any of the material presented in this session.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click Finish Lesson to end this lesson, return to the Main Course Menu, and access the Session #1 Assignment.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="48">
+            <jumpto>17</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="49">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="50">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Finish Lesson</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

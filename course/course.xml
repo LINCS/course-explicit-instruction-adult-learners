@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="25" contextid="370">
+  <shortname>Explicit Instruction</shortname>
+  <fullname>Explicit Instruction for Adult Learners</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;Explicit instruction (EI) is a well-structured and effective methodology for teaching academic content and skills. In addition to academic outcomes, EI is designed to enable learners to gradually take more responsibility for their learning with the goal of students becoming self-regulated learners. In this course, designed for adult educators, participants will be introduced the principles of EI and provided with both curricular materials and video examples of how EI can be implemented with adult learners.  Course participants will also be guided through a step-by-step process to develop EI lesson plans to meet the needs of their learners.&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>0</newsitems>
+  <startdate>1371528000</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>262144000</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme>lincs</theme>
+  <timecreated>1371491998</timecreated>
+  <timemodified>1442846831</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>8</numsections>
+  <hiddensections>1</hiddensections>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>5</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
+  <category id="6">
+    <name>Explicit Instruction</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

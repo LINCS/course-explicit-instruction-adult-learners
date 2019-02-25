@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="53" moduleid="1657" modulename="lesson" contextid="2293">
+  <lesson id="53">
+    <course>25</course>
+    <name>5A - EI for Content Learning and the Use of Graphic Organizers to Define Learning</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>1</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1438875539</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="546">
+        <prevpageid>0</prevpageid>
+        <nextpageid>547</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503587158</timemodified>
+        <title>Review and Session 5 Objectives</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="163" height="246" style="float: right;" alt="Overview - 3 business people discussing large plan document" src="@@PLUGINFILE@@/LTA-EI-S1a-Overview.jpg" /&gt;Last session we:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Examined how to structure scaffolded practice as an important component of EI.&lt;/li&gt;
+&lt;li&gt;Explored the teacher’s role in guided, peer-assisted, and independent practice.&lt;/li&gt;
+&lt;li&gt;Described ways to provide lesson closure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;In this session we will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review key EI concepts.&lt;/li&gt;
+&lt;li&gt;Examine how EI can be used to teach content knowledge.&lt;/li&gt;
+&lt;li&gt;Explore how to map concepts for EI lesson planning using different types of graphic organizers.&lt;/li&gt;
+&lt;li&gt;Apply the &lt;em&gt;explain and model&lt;/em&gt; parts of an EI lesson to content teaching.&lt;/li&gt;
+&lt;li&gt;Begin development of an EI lesson to introduce, explain and model content.&lt;/li&gt;
+&lt;li&gt;Refine your EI Lesson for a skill or strategy via facilitator and peer feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Explicit Instruction Lesson Plan – Content Learning&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We will again work through the four parts of an explicit instruction lesson. In this session we will focus on the first two parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Lesson Introduction &lt;strong&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher Explanation and Modeling &lt;strong&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Practice&lt;/li&gt;
+&lt;li&gt;Closure&lt;strong&gt; &lt;br /&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1268">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="547">
+        <prevpageid>546</prevpageid>
+        <nextpageid>548</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1509111710</timemodified>
+        <title>EI Review – Skills and Strategy Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;img width="150" height="172" style="margin-left: 10px; float: right;" alt="hands on a piano keyboard" src="@@PLUGINFILE@@/LtAEI-S4M2-Practice-Piano-sm.jpg" /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt;I&lt;/strong&gt;n the next two sessions, we are going to apply explicit instruction principles to teaching content. We’ll begin our discussion with a quick review of EI lesson design for skills and strategy learning.&lt;/p&gt;
+In Session 1 we explored principles of explicit instruction. One principle is that &lt;strong&gt;learning is precisely defined&lt;/strong&gt;. &lt;br /&gt;&lt;br /&gt;In Sessions 2 – 4 we examined how we use this principle when we are teaching &lt;strong&gt;strategies and skills.&lt;/strong&gt; As a reminder:&lt;/div&gt;
+&lt;div style="width: 716px; margin-left: 30px;"&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;A basic skill&lt;/strong&gt;&lt;/em&gt; is a procedure that with practice can be performed automatically. Basic skills require very little or no higher order thinking. The example skill we used earlier was adding decimals.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;A strategy&lt;/strong&gt;&lt;/em&gt; is a procedure a learner uses to perform a complex task. Strategies are comprised of thinking and action steps to help learners develop higher order thinking skills. The example strategy we used earlier was QAR – a tool for teaching learners how to answer literal and inferential reading comprehension questions.&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;br /&gt;&lt;strong&gt;We precisely define skills and strategies by doing a task analysis.&lt;/strong&gt; &lt;br /&gt;A task analysis is the process of breaking down an academic task into a procedure that teachers can explain and demonstrate.&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;br /&gt;Here are the two example task analyses we’ve used in the course so far:&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;
+&lt;table style="width: 617px; height: 333px;" border="1" cellspacing="0" cellpadding="6"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th width="223" valign="top" scope="col"&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Skill Example&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;th width="223" valign="top" style="text-align: center;" scope="col"&gt;
+&lt;p&gt;&lt;strong&gt;Strategy Example&lt;/strong&gt;&lt;/p&gt;
+&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="223" valign="top"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="276" height="271" style="vertical-align: middle; display: block; margin-left: auto; margin-right: auto;" alt="Adding decimals: Example: 1.2 + 11.75 Step 1: Rewrite the problem in vertical format, lining up the decimals. Step 2. Add as usual, right to left. (result is 1295) Step 3. Add the decimal point to the answer, lined up under the other decimal points. (result 12.95)" src="@@PLUGINFILE@@/LtAEI-S5a_Skills_add_decimal.JPG" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="223" valign="top"&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;b&gt;QAR – Question, Answer, Response&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Right There – &lt;/i&gt;&lt;/b&gt;Identify information that is in one place in the passage.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Think and Search&lt;/i&gt;&lt;/b&gt; – Identify information that has to be put together from different parts of the passage.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Writer and Me&lt;/i&gt;&lt;/b&gt; – Identify how what you already know helps you understand the reading.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00; color: #000000;"&gt;&lt;span style="background-color: #ffffff;"&gt;Now let’s take a look at content learning and how it differs from skill and strategy learning.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1269">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1270">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="548">
+        <prevpageid>547</prevpageid>
+        <nextpageid>549</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1509127025</timemodified>
+        <title>EI Content Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;What is Content Learning?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Content learning is focused on acquiring new vocabulary and concepts. This type of learning is a little different from skills and strategy learning.  Skills and strategy learning is procedural in nature, while content learning is declarative. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Procedural vs. Declarative Knowledge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Procedural knowledge&lt;/strong&gt;&lt;/em&gt; addresses&lt;em&gt;&lt;strong&gt; knowing how to do&lt;/strong&gt;&lt;/em&gt; something.&lt;br /&gt;Skills and strategy learning is focused on developing learners’ procedural knowledge. For example, knowing how to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;get from one city to another,&lt;/li&gt;
+&lt;li&gt;find the main idea in a paragraph, or&lt;/li&gt;
+&lt;li&gt;decode words that have multiple syllables.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;Declarative knowledge&lt;/strong&gt;&lt;/em&gt; is &lt;em&gt;&lt;strong&gt;knowing about&lt;/strong&gt; &lt;/em&gt;something. Content learning is focused on developing learners’ declarative knowledge. For example, knowing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;that Washington, DC is the capital of the U.S.,&lt;/li&gt;
+&lt;li&gt;why 90 degrees is a hot day, or&lt;/li&gt;
+&lt;li&gt;the differences between socialism and capitalism.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;em&gt;&lt;strong&gt;&lt;strong&gt; &lt;img width="400" height="255" style="margin-right: auto; margin-left: auto; display: block;" alt="Cover of a driving manual labled Declarative - Driving Rules next to a photo of a youth driving, labeled Procedural - Driving Process" src="@@PLUGINFILE@@/LtAEI-S5a_driving-rules-v-process.jpg" /&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Both types of knowledge are important for school learning. Both types of knowledge can be developed with explicit instruction.&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;Given this difference, how do you think EI lessons for content learning will differ from EI lessons for skill and strategy learning?&lt;/strong&gt;  What might change? Would you use different techniques for one or more of the four EI lesson steps? Would the lesson format itself differ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1271">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1272">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1273">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="549">
+        <prevpageid>548</prevpageid>
+        <nextpageid>550</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1508958176</timemodified>
+        <title>EI Content Learning – Lesson Format</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;For &lt;strong&gt;content learning&lt;/strong&gt;, the EI lesson format itself does not change. All the elements on the Lesson Plan outline linked below still apply:  &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;a title="EI Lesson Plan Outline" href="@@PLUGINFILE@@/Lesson%20Plan%20Outline.pdf" target="_blank"&gt;EI Lesson Plan Outline&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="180" height="158" style="margin-left: 10px; float: right;" alt="small group of adult students at a table working with an instructor" src="@@PLUGINFILE@@/LTA-EI-S2a-3Teacher-and-2students.jpg" /&gt;In fact, all elements of the lesson introduction step remain exactly the same for content learning:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;gaining students’ attention&lt;/li&gt;
+&lt;li&gt;informing students of the session’s objective/s&lt;/li&gt;
+&lt;li&gt;identifying reason/s to learn&lt;/li&gt;
+&lt;li&gt;connecting to prior knowledge&lt;/li&gt;
+&lt;li&gt;reviewing &amp;amp; checking for prerequisite skills&lt;/li&gt;
+&lt;li&gt;preteaching vocabulary&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The explanation and modeling step, however, looks significantly different.&lt;/strong&gt; As we just reviewed, we use task analysis to precisely define the procedures for skills and strategy learning. For content learning we need a different process to &lt;em&gt;break down&lt;/em&gt; the information for learners.&lt;/p&gt;
+&lt;p&gt;For content learning the goal of the explain and model step is to: (a) &lt;strong&gt;identify key vocabulary and concepts&lt;/strong&gt; students need to understand and then (b) &lt;strong&gt;organize information&lt;/strong&gt; in a way to promote learner comprehension and retention.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="width: 716px; text-align: left;"&gt;&lt;strong&gt;Graphic organizers&lt;/strong&gt; can be one of the most effective tools to precisely define content.&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;br /&gt;Have you used graphic organizers with adult learners?&lt;/strong&gt; What graphic organizers have you used and for what purpose? Do you feel they are effective? Why?&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style="width: 716px;"&gt; &lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1274">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1275">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1276">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="550">
+        <prevpageid>549</prevpageid>
+        <nextpageid>551</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379877844</timecreated>
+        <timemodified>1508958479</timemodified>
+        <title>EI Content Learning – Why Graphic Organizers #1</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;How can graphic organizers be an effective tool in explicit instruction? &lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;Graphic organizers can help the teacher to &lt;em&gt;&lt;strong&gt;identify the most important information&lt;/strong&gt;&lt;/em&gt; students need to learn.&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;The amount of possible content to be taught can be overwhelming for both teachers and students. The structure of graphic organizers force decisions about what content is critical.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Here is an example of a graphic organizer developed by a teacher after analyzing a chapter on climates that students will be reading. This graphic organizer helped the teacher identify the key concepts presented in the chapter and the relationships between the concepts.&lt;strong&gt; &lt;br /&gt;&lt;br /&gt; &lt;img width="700" height="438" alt="World Climates Concept Map - a hierarchical flow chart showing various Climates and their temperature and precipitation;  Top is Climate, then Tropical is hot with high precipitation;  Dry is very hot or very cold with little precipitation; Temperate has seasons and moderate precipitation; Cold has seasons and little precipitation; Polar is cold with little precipitation" src="@@PLUGINFILE@@/LtAEI-S5a_Climate-map.jpg" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;b&gt;Source:  &lt;/b&gt;Cited as TATC on page 116 of: Taymans, J. M. (2010).&lt;i&gt; Learning to Achieve: &lt;br /&gt;A professional’s guide to educating adults with learning disabilities. &lt;br /&gt;&lt;/i&gt;National Institute for Literacy, Washington, D.C.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1280">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1281">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1282">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379877844</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="551">
+        <prevpageid>550</prevpageid>
+        <nextpageid>552</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878378</timecreated>
+        <timemodified>1508958679</timemodified>
+        <title>EI Content Learning – Why Graphic Organizers #2</title>
+        <contents>&lt;div style="width: 716px;"&gt;&lt;strong&gt;How can graphic organizers be an effective tool in explicit instruction?&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;Graphic organizers can provide a visual representation of information, organized into a structure that helps students to &lt;em&gt;&lt;strong&gt;see relationships between concepts.&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;div style="width: 716px; margin-left: 30px;"&gt;&lt;em&gt;This can help students make connections with what they already know (their prior knowledge). It can also help students make connections between key concepts and vocabulary words that are new to them.&lt;/em&gt;&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;em&gt;&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;The graphic organizer below would be one way to help learners connect the vocabulary word &lt;em&gt;leisure&lt;/em&gt; to what they already know by helping them identify their &lt;strong&gt;leisure&lt;/strong&gt; activities.&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;img width="500" height="279" style="display: block; margin-left: auto; margin-right: auto;" alt="A rectangle divided into 4 parts with the title Leisure in the center. Four parts, clockwise from upper left: Watching TV; Checking FaceBook; Sleeping; Visiting Family" src="@@PLUGINFILE@@/LtAEI-S5a_leisure.JPG" /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1283">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1284">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1285">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="552">
+        <prevpageid>551</prevpageid>
+        <nextpageid>553</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097425</timecreated>
+        <timemodified>1508960921</timemodified>
+        <title>EI Content Learning – Why Graphic Organizers #3</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;How can graphic organizers be an effective tool in explicit instruction?&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;#3)&lt;/strong&gt; Graphic organizers &lt;em&gt;&lt;strong&gt;provide a structure&lt;/strong&gt;&lt;/em&gt; for learners who have difficulty &lt;em&gt;&lt;strong&gt;organizing information&lt;/strong&gt;&lt;/em&gt; or who need &lt;em&gt;&lt;strong&gt;concrete representations&lt;/strong&gt; &lt;/em&gt;to structure ideas.&lt;br /&gt;&lt;br /&gt;Note that while the text-based graphic organizer on the left below is accurate and helpful, the pictures on the other graphic organizer below provides a more concrete representation of each of the three branches of government.&lt;/p&gt;
+&lt;table style="width: 706px; height: 16px;" border="1" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="112" valign="top"&gt;
+&lt;p&gt; &lt;img width="350" height="183" alt="Oval header labeled Branches of Government with three boxes branching off underneath. Text in 3 boxes is: Legislative; Executive; Judicial" src="@@PLUGINFILE@@/LtAEI-S1a_BranchesUSgov-text.JPG" /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="112" valign="top"&gt;
+&lt;p&gt; &lt;img width="350" height="224" alt="Oval header labeled Branches of Government with three branches underneath.  Each branch has an image and a text box; Branch 1 has image of the congressional meeting chamber and Legislative; Branch 2 has image of the White House and Executive; Branch 3 has image of the 9 supreme court justices and Judicial" src="@@PLUGINFILE@@/LtAEI-S1a_BranchesUSgov-pic.JPG" /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;How do these reasons for using graphic organizers compare with your earlier reflections on graphic organizers?&lt;/strong&gt;  Have you used a graphic organizer with your adult learners for any of these purposes? Are the graphic organizers you’ve used similar to any of the examples?&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1286">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1287">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1288">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097425</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="553">
+        <prevpageid>552</prevpageid>
+        <nextpageid>554</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097511</timecreated>
+        <timemodified>1503587288</timemodified>
+        <title>Planning EI for Content Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;&lt;img width="125" height="166" style="margin-left: 10px; float: right;" alt="Teacher holding pencil to cheek, looking up and to right - 'thinking'" src="@@PLUGINFILE@@/LtA-S3a-Whatpre-req.JPG" /&gt;In EI for content learning, a teacher would use a graphic organizer to &lt;strong&gt;explain&lt;/strong&gt; content and &lt;strong&gt;demonstrate&lt;/strong&gt; how to use the graphic organizer to deepen learners’ knowledge.  Learners would then &lt;strong&gt;practice&lt;/strong&gt; using the graphic organizer to further explore the content, or to explore related content.&lt;br /&gt;&lt;br /&gt;Let’s look at how to integrate graphic organizers into an EI lesson. The first step would be to prepare for teacher Explanation and Modeling.&lt;br /&gt;&lt;br /&gt;In content learning, the teacher &lt;em&gt;identifies key concepts and/or vocabulary &lt;/em&gt;and&lt;em&gt; organizes the information&lt;/em&gt; so that learners can explore the content in a way that will aid comprehension and retention. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;The first challenge for teachers, then, is to determine what types of organization and relationship connections will be most beneficial to student comprehension and retention.&lt;/strong&gt; Graphic organizers come in many different shapes and sizes - what type of graphic organizer would be best for the content?  &lt;br /&gt;&lt;br /&gt;Let’s examine some possible ways of organizing information using graphic organizers.&lt;/div&gt;
+&lt;div style="width: 716px;"&gt; &lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1289">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1290">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1291">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097511</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="554">
+        <prevpageid>553</prevpageid>
+        <nextpageid>556</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097590</timecreated>
+        <timemodified>1508961421</timemodified>
+        <title>Organizing Content for EI – Hierarchical Concepts #1</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Concept Maps&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Concept maps show &lt;b&gt;&lt;i&gt;hierarchical relationships&lt;/i&gt;&lt;/b&gt;, with the most important (or overarching) concept placed at the top and supporting concepts below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="300" height="225" style="margin-right: auto; display: block; margin-left: auto;" alt="Hierarchical flow chart made of rectangles. Center top rectangle labeled Central Concept, with 2 boxes branching off each labeled Supporting concept, each having 2 boxes branching off with the word Detail in them." src="@@PLUGINFILE@@/LtAEI-S5a_conceptmap.JPG" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;Below are examples of concept maps you've already seen with the central concept at the top of the map:&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="112" valign="top"&gt;
+&lt;p&gt; &lt;img width="350" height="224" alt="Oval header labeled Branches of Government with three branches underneath. Each branch has an image and a text box; Branch 1 has image of a congressional meeting chamber and Legislative; Branch 2 has image of the White House and Executive; Branch 3 has image of the 9 supreme court justices and Judicial" src="@@PLUGINFILE@@/LtAEI-S1a_BranchesUSgov-pic.JPG" /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="112" valign="top"&gt;
+&lt;p&gt; &lt;em style="text-align: center;"&gt;&lt;img width="350" height="219" alt="World Climates Concept Map - a hierarchical flow chart showing Climates and their temperature and precipitation; Top is Climate, then Tropical is hot with high precipitation; Dry is very hot or very cold with little precipitation; Temperate has seasons and moderate precipitation; Cold has seasons and little precipitation; Polar is cold with little precipitation" src="@@PLUGINFILE@@/LtAEI-S5a_Climate-map.jpg" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1293">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1294">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1295">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097590</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="556">
+        <prevpageid>554</prevpageid>
+        <nextpageid>555</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097551</timecreated>
+        <timemodified>1508962432</timemodified>
+        <title>Organizing Content for EI – Hierarchical concepts #2</title>
+        <contents>&lt;div style="width: 716px;"&gt;&lt;strong&gt;Spider Concept Map&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;More complex or more elaborated concepts can be structured with the main concept in the center and supporting concepts and details surrounding the central concept. These are sometimes called spider concept maps.  &lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;img width="500" height="275" style="display: block; margin-left: auto; margin-right: auto;" alt="Web-like map with oval in the center containing words Central Concept. 5 arrows lead out to 5 rectangles, each one labeled Supporting Concept.  Each Supporting Concept rectangle has 3 arrows leading to cloud shapes labeled Details" src="@@PLUGINFILE@@/LtAEI-S5a_spider-concept-map.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;Below are examples of a more complex concept maps with the central concept at the center of the map:&lt;/div&gt;
+&lt;div style="width: 716px;"&gt; &lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;img width="550" height="474" style="display: block; margin-left: auto; margin-right: auto;" alt="Web-like map with a cloud in the center labeled Shapes, and two branches.  Top branch is labeled 2 D, which branches further into 4-sided shapes, with examples square and rectangle, 3-sided shapes, with example triangle and 6-sided shapes with example hexagon.  Bottom branch is labeled 3 D, and branches into Shapes that Roll, with examples cylinder, cone and sphere, and Shapes that don't Roll, with examples cube and cuboid" src="@@PLUGINFILE@@/LtAEI-S5a_shapes_adapted-JAMES-BIRNEY.jpg" /&gt;&lt;br /&gt;*Created by learners in Fife, Scotland, using mapping software. Used with permission of James Birney.&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;  &lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;/div&gt;
+&lt;div style="width: 716px;"&gt;&lt;img width="600" height="450" style="display: block; margin-left: auto; margin-right: auto;" alt="Web like map with Water as the central concept, connecting to Humans, plants and animals. Humans then connects to 5 items such as: Use water to generate electricity, farmers use water for plants and animals, use water to keep their homes safe and clean. Plants item connects to only 2 boxes: Use water to carry food to other parts of the plant, Use water to combine with carbon dioxide to make food. Annials connects to 4 items such as: use water to cool down and Use water to wash themselves and their young." src="@@PLUGINFILE@@/LtAEI-S5a_water-concept-map.jpg" /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click the Next button below to continue.&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1292">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1315">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1316">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097551</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="557">
+        <prevpageid>555</prevpageid>
+        <nextpageid>558</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097704</timecreated>
+        <timemodified>1508962897</timemodified>
+        <title>Organizing Content for EI – Compare/Contrast</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Venn Diagram&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;A compare/contrast or Venn diagram provides a structure for identifying similarities and differences between two or more concepts. &lt;br /&gt;&lt;img width="500" height="419" style="display: block; margin-left: auto; margin-right: auto;" alt="Three overlapping circles labeled Concept 1, Concept 2, and Concept 3. Overlaps between circles are labeled How 1 and 2 Are Alike; How 2 and 3 Are Alike; and How 1 and 3 Are Alike.  Center area where all 3 overlap is labeled How All 3 are Alike" src="@@PLUGINFILE@@/LtAEI-S5a_Venn-trio.jpg" /&gt;     &lt;br /&gt;&lt;br /&gt;Below is an example of a Venn diagram comparing two concepts:&lt;/p&gt;
+&lt;p&gt;&lt;img width="600" height="356" style="display: block; margin-left: auto; margin-right: auto;" alt="Two overlapping circles with a list in each circle and a list in the overlap. Left hand circle is labeled Homer Simpson: adult, has a job, likes to eat, apologizes a lot. Right hand circle is labeled Bart Simpson: child, goes to school, likes to be active, gets in trouble in school. Overlap has 2 items: same family, cartoon character" src="@@PLUGINFILE@@/LtAEI-S5a_Venn-simpsons.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1299">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1300">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1301">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="555">
+        <prevpageid>556</prevpageid>
+        <nextpageid>557</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097625</timecreated>
+        <timemodified>1508962622</timemodified>
+        <title>Organizing Content for EI – Sequence</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Sequence Graphic Organizers&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Any concept that has a distinct order can be presented in a sequence chart. For example, this graphic organizer can be used to outline key events in a story or in history.&lt;/p&gt;
+&lt;p&gt;&lt;img width="366" height="80" alt="Three rectangles with arrows between each, all pointing right. Boxes labeled (from left to right) First, Second, Third" src="@@PLUGINFILE@@/LtAEI-S5a_sequence123.jpg" /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;Below is an example of a sequence graphic organizer – the steps for how a bill becomes law in the U.S.&lt;/p&gt;
+&lt;p&gt;&lt;img width="650" height="175" alt="Flowchart labeled How a Bill Becomes a Law.  Contains 5 boxes in a line with arrows between each, all pointing right. Boxes labeled, (from left to right) Legislation is introduced in Congress; Committee action; Floor debate and vote; Conference committee; President signs" src="@@PLUGINFILE@@/LtAEI-S5a_bill2law.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1296">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1297">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1298">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097625</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="558">
+        <prevpageid>557</prevpageid>
+        <nextpageid>559</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1400097750</timecreated>
+        <timemodified>1508963470</timemodified>
+        <title>Organizing Content for EI – Cause and Effect</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;Cause and Effect Diagrams&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; This graphic organizer shows the direct relationship between different events or concepts. This can be used in any subject area for tasks such as:&lt;/p&gt;
+&lt;table style="width: 612px; height: 122px;" border="1" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="223" valign="top"&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;analyzing characters and events in a story&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;mapping historical events in social studies&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style="font-size: small;"&gt;identifying outcomes of variables in an experiment&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="223" valign="top"&gt;
+&lt;p&gt;&lt;img width="275" height="223" style="display: block; margin-left: auto; margin-right: auto;" alt="Graphic Organizer with 5 items.  Blue diamond in center is labeled Main Event.  Two ovals on the left are labeled Cause and have arrows leading into the Main Event.  Two more arrows on the right lead away from the Main Event to half-circles labeled Effect" src="@@PLUGINFILE@@/LtAEI-S5a_cause-effect.jpg" /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Try filling out the cause-effect graphic organizer linked below with the information provided.&lt;/strong&gt; (You will be able to print your completed form, but you may not be able to save it.)&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;a title="Simple Cause and Effect Form" href="@@PLUGINFILE@@/Cause%20Effect%20Fillable%20form.pdf" target="_blank"&gt;Simple Cause-Effect Form&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Causes and Effects of Water Pollution:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;There are two main causes of water pollution. One is the  dumping of industrial waste into rivers, streams, and oceans, and the other is insecticides/pesticides from agribusiness farming leaching into ground water. Two major effects of water pollution are (1) fish, birds and animals die from exposure to chemicals and (2) people become sick or diseased from direct contact with water, such as diarrhea, or from eating creatures exposed to polluted water. &lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;For your classroom use, here is a blank version of the cause and effect graphic organizer: &lt;a title="Simple Cause and Effect GO" href="@@PLUGINFILE@@/Blank%20Cause%20Effect.pdf" target="_blank"&gt;Cause &amp;amp; Effect Graphic Organizer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1302">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1303">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1304">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1400097750</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="559">
+        <prevpageid>558</prevpageid>
+        <nextpageid>561</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1408997358</timecreated>
+        <timemodified>1529004224</timemodified>
+        <title>Organizing Content for EI – Graphic Organizers for Vocabulary</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;A major facet of content learning is &lt;strong&gt;acquiring important vocabulary&lt;/strong&gt;. There are many types of graphic organizers designed to help learners comprehend and use new vocabulary.&lt;br /&gt;&lt;br /&gt;Some titles of vocabulary graphic organizers include: word maps, word charts, verbal and visual word associations, and the Frayer Word Model. Let's look at two examples of Vocabulary graphic organizers&lt;br /&gt;&lt;br /&gt;Below is a simple graphic organizer designed to assist students to self-assess their knowledge of new vocabulary. A final empty column can be added for the learner to fill in with their own definitions from readings and/or class discussions.&lt;/p&gt;
+&lt;p&gt;&lt;img width="500" height="337" style="display: block; margin-left: auto; margin-right: auto;" alt="Chart titled Knowledge Rating Scale with 4 columns and 7 rows. 1st column is labeled Word, with the 6 rows stating: rhombus, triangle, pentagon, quadrilateral, trapezoid, and square. The 2nd column is labeled Know it well (with an x across from triangle and square); the 3rd column is labeled Have seen or heard it (with pentagon and quadrilateral marked) and the fourth column is labeled No Clue (with rhombus and trapezoid marked)." src="@@PLUGINFILE@@/LtAEI-S5a_knowledge-rating-scale.jpg" /&gt;&lt;/p&gt;
+&lt;p align="right"&gt;Blachowicz &amp;amp; Fisher, 2006&lt;/p&gt;
+&lt;p&gt;Our second example of a vocabulary graphic organizer is one learners can use to study individual vocabulary terms.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;br /&gt;&lt;img width="450" height="360" style="display: block; margin-left: auto; margin-right: auto;" alt="Chart titled Verbal and Visual Word Associaltion (VVWA) with 4 quadrants: upper left quadrant is labeled Word and has the word CELL printed large; upper right quadrant is labeled Visual Representation and has a drawing of a cell with nucleus labeled; lower left quadrant is labeled Definition and states: It is a very tiny structure that makes up all plants and animals; lower right quadrant is labeled Personal Association or Characteristic and states: It reminds me of the rooms in a house. They have different uses, but together they make a home." src="@@PLUGINFILE@@/LtAEI-S5a_VVWA-Science.JPG" /&gt;Eeds &amp;amp; Cockrum, 1985&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;Have you used vocabulary graphic organizers like these with your adult learners?&lt;/strong&gt;  If not, how do you assist them to learn new vocabulary?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1305">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1306">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1307">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408997358</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="561">
+        <prevpageid>559</prevpageid>
+        <nextpageid>562</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438378342</timecreated>
+        <timemodified>1508964090</timemodified>
+        <title>Organizing Content for EI – Vocabulary: Frayer Model</title>
+        <contents>&lt;p style="text-align: left;"&gt;Like the previous graphic organizer, the &lt;strong&gt;Frayer Model of vocabulary learning&lt;/strong&gt; also provides a table with 4 cells learners use to make multiple connections to new words. In this case, the four cells are headed: Definition, Characteristics, Examples and Non-examples.&lt;br /&gt;&lt;br /&gt;  &lt;img width="350" height="198" style="display: block; margin-left: auto; margin-right: auto;" alt="Rectangle divided into quadrants with small box in the center labeled New Word.  Surrounding quadrants labeled, clockwise from upper left: Definition, Characteristics, Examples and Non-examples." src="@@PLUGINFILE@@/LtAEI-S5a_FrayerModel.JPG" /&gt;&lt;br /&gt; &lt;br /&gt;Here is an example of a Frayer graphic organizer used in a science context for the word crystal.&lt;br /&gt;&lt;br /&gt; &lt;img width="550" height="358" style="display: block; margin-left: auto; margin-right: auto;" alt="Frayer Model – Same shape with center box labeled Crystal; upper left quadrant says Definition: a solid made of atoms arranged in an ordered pattern; upper right quadrant says Characteristics: glassy, clear colored, brightly colored, evenly shaped, sparkle; lower left quadrant says: Examples: metals, rocks, snowflakes, salt, sugar; and lower right quadrant says Non-examples: coal, pepper, lava, obsidian." src="@@PLUGINFILE@@/LtAEI-S5a_FrayerCrystal.JPG" /&gt;&lt;br /&gt; &lt;br /&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt=" Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Try filling out a blank Frayer graphic organizer linked below with a vocabulary word of your choice.&lt;/strong&gt; &lt;br /&gt;(You will be able to print your completed form, but you may not be able to save it.)&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;a title="Frayer Model Form" href="@@PLUGINFILE@@/Frayer%20Model%20fillable.pdf" target="_blank"&gt;Frayer Model form&lt;/a&gt;  &lt;/strong&gt;pdf FORM&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;span style="color: #000000;"&gt;For your own classroom use, here is a blank Fryer Model:  &lt;a title="Frayer Model Blank" href="@@PLUGINFILE@@/Frayer%20model%20blank.pdf" target="_blank"&gt;Frayer Model&lt;/a&gt; (pdf format)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1309">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438378342</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1310">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438378342</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1311">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438378342</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="562">
+        <prevpageid>561</prevpageid>
+        <nextpageid>560</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1438378480</timecreated>
+        <timemodified>1508964207</timemodified>
+        <title>Activity: Building Your Knowledge of Graphic Organizers</title>
+        <contents>&lt;p&gt;&lt;img width="175" height="196" style="margin-left: 10px; float: right;" alt="Head in silhouette showing gears in the brain area and lots of differently colored word or though balloons with arrows in and around them pointing in different directions." src="@@PLUGINFILE@@/LtAEI-S5a_Build-knowledge-GO.jpg" /&gt;These are just a few of the most common graphic organizers available to teachers and students for organizing content. There are many, many more. Luckily, there are many easily accessible repositories of graphic organizers for educators available on the web.&lt;/p&gt;
+&lt;p&gt;Earlier we noted that:&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;em&gt;The first step in planning an EI lesson for content learning is to determine what types of organization and relationship connections will be most beneficial to student comprehension and retention.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In order to make these decisions effectively, instructors need to be familiar with a wide range of graphic organizers. (Even more than we’ve shown you here!)&lt;br /&gt;&lt;br /&gt;To assist you in making these decisions, we ask you to take some time to explore one or more web-based collections of graphic organizers before moving on to the next session.&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;Use the links on the first page of the Session 5 References and Resources document linked below to &lt;strong&gt;explore online various graphic organizers and their purposes.  Make note of the web addresses for  3-5 specific graphic organizers* that are both new to you and that you feel would be useful for your learners.&lt;/strong&gt;  You will share these with your peers in the following forum discussion post.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;&lt;a title="EIS5 Resources and References" href="@@PLUGINFILE@@/Resources%20and%20References.pdf" target="_blank"&gt;Explicit Instruction Session 5 Resources and References&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;span style="color: #000000;"&gt;&lt;em&gt;*Be sure to share the web address from the specific page for the graphic organizer  &lt;br /&gt;– not the whole collection site!&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Note: This activity will also assist you in completion of the Assignment for this session.&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1312">
+            <jumpto>546</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438378480</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1313">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438378480</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1314">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1438378480</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="560">
+        <prevpageid>562</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1503588678</timemodified>
+        <title>Summary: EI for Content Learning &amp; Using Graphic Organizers to Define Learning</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="150" height="168" style="margin-left: 10px; float: right;" alt="Head in silhouette showing gears in the brain area and lots of differently colored word or though balloons with arrows in and around them pointing in different directions." src="@@PLUGINFILE@@/LtAEI-S5a_Build-knowledge-GO.jpg" /&gt;In this lesson we examined a process for identifying, organizing and clarifying declarative knowledge as part of an EI lesson through the use of &lt;strong&gt;graphic organizers.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Like the task analysis, the graphic organizer and its use in organizing the content forms the basis for the Explain and Model steps of the EI Lesson. Also like the task analysis, the graphic organizer can also help to inform the prerequisite component of the Lesson Introduction, and &lt;strong&gt;is thus a critical step in planning an EI lesson for content learning.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;What are your thoughts regarding the use of graphic organizers to support content learning?&lt;/strong&gt; What benefits do you see in these tools? What questions or concerns do you have?&lt;br /&gt;&lt;br /&gt;You will be asked next to share these reflections, as well as the graphic organizers you chose from the web exploration activity in a post to a Discussion forum. Once you have completed your post, we will move on to examine how to conduct the Explain and Model component of an EI Lesson for content learning using a graphic organizer.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Next to end this lesson, return to the Main Course Menu, and access the next session section.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1277">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1278">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="1279">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="72" moduleid="350" modulename="forum" contextid="582">
+  <forum id="72">
+    <type>general</type>
+    <name>Discussion 1A: Participant Introductions</name>
+    <intro>&lt;div class="box generalbox" id="intro"&gt;
+&lt;div class="no-overflow"&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;&lt;img width="128" height="99" style="margin-left: 10px; margin-right: 10px; float: right;" alt="Discussion Graphic - multicolored heads with gear thought balloons" src="@@PLUGINFILE@@/LTA-EI-Discussionicon.jpg" /&gt;&lt;span style="color: #800080;"&gt;Please post your introduction to this Discussion Forum.&lt;/span&gt; &lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Include in your introduction:&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id="yui_3_9_1_2_1372798193403_357"&gt;
+&lt;li&gt;your name and location (include your state!),&lt;/li&gt;
+&lt;li&gt;a brief description of the students/classes you teach,&lt;/li&gt;
+&lt;li&gt;your experience(s) with using Explicit Instruction, and&lt;/li&gt;
+&lt;li&gt;what needs, concerns, goals etc. drew you to participate in this course.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;Instructions for Posting to Forums:&lt;/span&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(1) Click on the "Add a new discussion topic"&lt;/strong&gt; near the bottom of your screen.&lt;br /&gt;You should now see a new section titled, "Your new discussion topic. &lt;em&gt;You may have to scroll down.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(2) Type your introduction.&lt;/strong&gt; Insert "Introduction - Your Name" in the &lt;span style="color: #800000;"&gt;&lt;em&gt;subject&lt;/em&gt;&lt;/span&gt; line.&lt;br /&gt;In the &lt;em&gt;&lt;span style="color: #800000;"&gt;message&lt;/span&gt;&lt;/em&gt; box, type your responses to the questions above. &lt;em&gt;You may attach a photo if you wish.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(3) Save and share your post.&lt;/strong&gt; When you are finished typing your introduction:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt; click on the drop down list under the message box to choose whether or not you want to receive emails of this forums' posts, and then&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt; click on the "Post to Forum" button.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;To "meet" other participants via the Forum: &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;&lt;span style="color: #000000;"&gt;Once you have posted your introduction, click on the links below to read and reply to other participants' introductions. &lt;/span&gt;&lt;/strong&gt;&lt;span style="color: #000000;"&gt;Check back to this forum frequently (or select emails for this forum) to enhance your interaction with others in the course.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;span style="color: #000000;"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;span style="color: #000000;"&gt;&lt;strong&gt;&lt;span style="color: #008000;"&gt;Once You Have Completed Your Post:&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;strong&gt;Click on an "Explicit Instruction" link at the top of this page &lt;/strong&gt;(or at left under "Current Course")&lt;strong&gt; &lt;/strong&gt;to return to the Main Course Outline and access the next course activity.&lt;/div&gt;
+&lt;div class="no-overflow"&gt;&lt;/div&gt;
+&lt;div class="no-overflow"&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Note: &lt;/strong&gt; This item will not automatically mark itself complete on the main course outline until you have posted.&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>3</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1523980107</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

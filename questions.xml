@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="243">
+    <name>Default for Explicit Instruction</name>
+    <contextid>370</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>25</contextinstanceid>
+    <info>The default category for questions shared in context 'Explicit Instruction'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+171025174724+GvS7up</stamp>
+    <parent>420</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="420">
+    <name>top</name>
+    <contextid>370</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>25</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>unknownhost+190207210443+amIBgk</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="367" modulename="lesson" contextid="626">
+  <lesson id="1">
+    <course>25</course>
+    <name>Reading 1B: Characteristics of Explicit Instruction</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1503519928</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1">
+        <prevpageid>0</prevpageid>
+        <nextpageid>2</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1503519843</timemodified>
+        <title>What is Explicit Instruction?</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="148" height="340" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Scaffolded skyscraper with crane" src="@@PLUGINFILE@@/LTA-EI-S1c-scaffolded.jpg" /&gt;&lt;span style="color: #008000;"&gt;&lt;em&gt;Explicit instruction is characterized by a series of supports or scaffolds, whereby students are guided through the learning process with clear statements about the purpose and rationale for learning,...clear explanations and demonstrations of the instructional target, and supported practice with feedback until independent mastery has been achieved&lt;/em&gt;&lt;/span&gt;. (Archer &amp;amp; Hughes, 2011,  p. 1)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explicit instruction is: &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;structured&lt;/li&gt;
+&lt;li&gt;systematic&lt;/li&gt;
+&lt;li&gt;flexible&lt;/li&gt;
+&lt;li&gt;responsive to the needs of adult learners&lt;/li&gt;
+&lt;li&gt;research-based&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is called &lt;em&gt;explicit&lt;/em&gt; because it is a &lt;em&gt;&lt;strong&gt;direct approach&lt;/strong&gt;&lt;/em&gt; to teaching that outlines how to plan and deliver instruction. &lt;/p&gt;
+&lt;p&gt;Let's take a look at each of these characteristics more closely.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="1">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="2">
+        <prevpageid>1</prevpageid>
+        <nextpageid>3</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1509030606</timemodified>
+        <title>Explicit Instruction is...</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="250" height="160" style="margin-left: 10px; margin-right: 10px; border: 1px solid black; float: right;" alt="Woman drawing a flow chart showing progress from idea to plan to action" src="@@PLUGINFILE@@/LTA-EI-S1b-Systematic-PDSA.jpg" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stru&lt;/strong&gt;&lt;strong&gt;ctured&lt;/strong&gt; – EI lessons follow a common structure or format. The teacher is responsible for planning instructional experiences that &lt;em&gt;&lt;strong&gt;lead&lt;/strong&gt;&lt;/em&gt; learners &lt;em&gt;to &lt;strong&gt;mastery&lt;/strong&gt;&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Systematic&lt;/strong&gt; – We start with the basics and build upon them. Students work toward mastery by &lt;em&gt;&lt;strong&gt;using a system, steps, or prompts&lt;/strong&gt; &lt;/em&gt;to perform academic tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="2">
+            <jumpto>1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="3">
+        <prevpageid>2</prevpageid>
+        <nextpageid>4</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1509030669</timemodified>
+        <title>Explicit Instruction is...</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;img width="200" height="200" style="float: right; margin-left: 10px; margin-right: 10px;" alt="Smiling male student in class with other adult students" src="@@PLUGINFILE@@/LTA-EI-S1b-flex-response-smilingman.jpg" /&gt;Flexible&lt;/strong&gt; - Explicit instruction components can be combined with other types of instruction such as collaborative learning and contextualized teaching.  As teachers, we will not use every component of explicit instruction in every lesson. But knowing the &lt;em&gt;how&lt;/em&gt; and &lt;em&gt;why&lt;/em&gt; of explicit instruction allows us to offer more effective instruction that will specifically target our most vulnerable learners.   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Responsive&lt;/strong&gt; - Explicit instruction does not mean rote and mechanical instruction. It is based in, and responsive to, the needs of your adult learners. EI teaches students how to engage in &lt;strong&gt;&lt;em&gt;efficient learning behaviors&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click on Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4">
+            <jumpto>1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="5">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="6">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="4">
+        <prevpageid>3</prevpageid>
+        <nextpageid>5</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1503519899</timemodified>
+        <title>Explicit Instruction is....</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img width="150" height="121" style="float: right; border: 1px solid black; margin-left: 5px; margin-right: 5px;" alt="file folders with magnifying glass" src="@@PLUGINFILE@@/LTA-EI-S1b%20-%20research-based-magnify-folders.jpg" /&gt;&lt;strong&gt;Research-Based&lt;/strong&gt; - Explicit instruction is a framework of instruction that matches what we know about learning and long term retention of knowledge and skills. EI incorporates many options for helping our learners understand the organization and logic of what they are learning. This helps them &lt;em&gt;hook into &lt;/em&gt;and&lt;em&gt; hold onto&lt;/em&gt; new knowledge and skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #008000;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Optional Reading - For More Information:&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;i&gt;What is Explicit Instruction?  &lt;/i&gt;&lt;/b&gt;[First 4 pages].&lt;b&gt;&lt;i&gt;  &lt;/i&gt;&lt;/b&gt;Excerpts from Goeke, Jennifer L.  &lt;i&gt;Explicit Instruction: A Framework for Meaningful Direct Teaching&lt;/i&gt;  Pearson, 2008.  Available at: &lt;a href="http://www.shastacoe.org/uploaded/Dept/is/District_Support/Explicit_Instruction.pdf"&gt;http://www.shastacoe.org/uploaded/Dept/is/District_Support/Explicit_Instruction.pdf&lt;/a&gt;     &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Explicit Instruction: Effective Classroom Practices Report&lt;/b&gt; by Tracey Hall. Copyright 2002, Wakefield, MA: National Center on Accessing the General Curriculum. Available at: &lt;a href="@@PLUGINFILE@@/NCAC%20Explicit%20Instruction%20report.pdf"&gt;@@PLUGINFILE@@/NCAC%20Explicit%20Instruction%20report.pdf&lt;/a&gt;&lt;span style="line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: x-small;"&gt;Above are some links to information provided by other organizations. These links are provided for the user's convenience. The U.S. Department of Education cannot guarantee the accuracy of the information at these sites. The inclusion of these links is not intended to reflect their importance; nor is it intended to endorse any views or products of these organizations. For further information, see our &lt;a href="http://www2.ed.gov/about/contacts/gen/othersites/edrespol.html"&gt;Collection Scope and Criteria for Inclusion.&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="7">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="8">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="9">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="5">
+        <prevpageid>4</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508867750</timemodified>
+        <title>Characteristics of EI - Review and Reflection</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;div&gt;&lt;strong&gt;In this section we have examined the question "&lt;em&gt;What is Explicit Instruction?&lt;/em&gt;"&lt;/strong&gt;  We've found it to be a &lt;em&gt;direct approach&lt;/em&gt; to teaching that outlines how to plan and deliver instruction on almost any topic.&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Explicit Instruction is:&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;– Structured&lt;/div&gt;
+&lt;div class="O1"&gt;– Systematic&lt;/div&gt;
+&lt;div class="O1"&gt;– Flexible&lt;/div&gt;
+&lt;div class="O1"&gt;– Responsive to the needs of adult learners&lt;/div&gt;
+&lt;div class="O1"&gt;– Research-based&lt;/div&gt;
+&lt;p&gt;Within the limits of an online course format, this course was designed with these characteristics in mind. As you move through the course readings and activities, you should see characteristics of this &lt;em&gt;direct approach&lt;/em&gt; to instruction reflected in how course material is delivered to you and/or the activities you are asked to complete.&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;strong&gt;Now we ask you to pause and reflect on what you have learned.&lt;/strong&gt; &lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt;You will be asked to post your thoughts to a discussion forum.&lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt; &lt;/em&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt; &lt;/div&gt;
+&lt;div class="O1"&gt;&lt;img width="54" height="50" style="float: left; margin-left: 10px; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;em&gt;Considering the above characteristics of Explicit Instruction, which two are most compatible with your current teaching methods? Why?&lt;/em&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div class="O1"&gt; &lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Next to end this lesson, return to the Main Course Menu, and access the Discussion Forum to post your reflection.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="10">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="11">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="12">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

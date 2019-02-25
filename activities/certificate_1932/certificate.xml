@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="71" moduleid="1932" modulename="certificate" contextid="2591">
+  <certificate id="71">
+    <name>Certificate of Completion: LINCS Explicit Instruction Online Course</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>1</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>1</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>12</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>0</printsignature>
+    <printseal>0</printseal>
+    <timecreated>1440356561</timecreated>
+    <timemodified>1533230119</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="1932" version="2016052300">
+  <modulename>certificate</modulename>
+  <sectionid>239</sectionid>
+  <sectionnumber>7</sectionnumber>
+  <idnumber></idnumber>
+  <added>1440356561</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>1</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>{"op":"&amp;","showc":[true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true],"c":[{"type":"grade","id":84,"min":100.00000},{"type":"completion","cm":470,"e":1},{"type":"completion","cm":350,"e":1},{"type":"completion","cm":367,"e":1},{"type":"completion","cm":471,"e":1},{"type":"completion","cm":543,"e":1},{"type":"completion","cm":544,"e":1},{"type":"completion","cm":481,"e":1},{"type":"completion","cm":484,"e":1},{"type":"completion","cm":708,"e":1},{"type":"completion","cm":709,"e":1},{"type":"completion","cm":711,"e":1},{"type":"completion","cm":710,"e":1},{"type":"completion","cm":822,"e":1},{"type":"completion","cm":824,"e":1},{"type":"completion","cm":821,"e":1},{"type":"completion","cm":820,"e":1},{"type":"completion","cm":992,"e":1},{"type":"completion","cm":993,"e":1},{"type":"completion","cm":1924,"e":1},{"type":"completion","cm":994,"e":1},{"type":"completion","cm":990,"e":1},{"type":"completion","cm":1657,"e":1},{"type":"completion","cm":1659,"e":1},{"type":"completion","cm":1656,"e":1},{"type":"completion","cm":1658,"e":1},{"type":"completion","cm":1660,"e":1},{"type":"completion","cm":1928,"e":1},{"type":"completion","cm":1926,"e":1},{"type":"completion","cm":1931,"e":1},{"type":"completion","cm":989,"e":1},{"type":"completion","cm":1930,"e":1},{"type":"completion","cm":3258,"e":1}]}</availability>
+  <showdescription>0</showdescription>
+  <tags>
+  </tags>
+</module>

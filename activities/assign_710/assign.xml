@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="41" moduleid="710" modulename="assign" contextid="1053">
+  <assign id="41">
+    <name>Session #2 Assignment: Develop an EI Lesson Introduction</name>
+    <intro>&lt;p&gt;&lt;img style="float: left; margin-left: 10px; margin-right: 10px;" src="@@PLUGINFILE@@/LTA-EI-Assignmenticon.jpg" alt="Assignment icon - hand writing in notebook" height="64" width="75" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For this assignment, we ask that you plan a lesson introduction&lt;/strong&gt; using all six introduction components. This introduction should be planned for no more than 10 minutes of instructional time.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Steps to Complete this Assignment:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Pick a topic that you teach.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plan a 10 minute (or shorter) lesson introduction&lt;/strong&gt; where you explicitly address the 6 components of a lesson introduction, &lt;strong&gt;using the Lesson Introduction template&lt;/strong&gt; linked below.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Submit your plan to your facilitator &lt;strong&gt;&lt;strong id="m_6988009433028461209gmail-yui_3_13_0_2_1539290322046_104"&gt;in the Lesson Introduction Template format. &lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;(If you have questions about submitting your file, please contact your facilitator.) &lt;br /&gt;Click on the Add Submission button below, and then upload your plan or enter it into the box below (or paste). Feel free to add any reflections or thoughts you have on this process in the box as well.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Click on the Save button&lt;/strong&gt; to submit your work.&lt;br /&gt;&lt;span style="color: #ff0000;"&gt;&lt;strong&gt;IMPORTANT: If you do not do this last step, your work will be lost and the assignment will not be complete.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Remember to use the Lesson Introduction template:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;a href="@@PLUGINFILE@@/LtAEI-S2-EI%20Lesson_Intro_Plan.docx" target="_blank"&gt;Explicit Instruction: Planning Your Lesson Introduction  .doc&lt;/a&gt; - for digital editing&lt;/p&gt;
+&lt;p style="margin-left: 30px;"&gt;&lt;a href="@@PLUGINFILE@@/LtAEI-S2-EI%20Lesson_Intro_Plan.pdf" target="_blank"&gt;Explicit Instruction: Planning Your Lesson Introduction  .pdf&lt;/a&gt; - print only&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #008000;"&gt;&lt;span style="color: #000000;"&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Once you have submitted your assignment:&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;span style="color: #800080;"&gt;&lt;span style="color: #800080;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;Click on an "Explicit Instruction" link at the top (or at left under "My courses") &lt;/strong&gt;to return to the Main Course Outline and access the next course activity.&lt;/p&gt;
+&lt;span style="color: #800080;"&gt;&lt;span style="color: #800080;"&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Note: &lt;/strong&gt; This item will not automatically mark itself complete on the main course outline until you have saved an assignment. Y&lt;/span&gt;&lt;span style="color: #800080;"&gt;our facilitator will review your responses, provide feedback and mark the assignment complete ("grade" of 100= complete). If marked incomplete, you must address issues and resubmit for facilitator review.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;span style="color: #000000;"&gt;This assignment must be marked complete in order for you to receive a completion certificate at the end of this course. &lt;/span&gt;&lt;span style="color: #800080;"&gt;&lt;span style="color: #000000;"&gt;You can check the status of this assignment at any time using the grades link in the left-hand navigation.&lt;/span&gt; &lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>1</sendnotifications>
+    <sendlatenotifications>1</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>100</grade>
+    <timemodified>1539354041</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>untilpass</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="258">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="259">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="260">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="261">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>1048576</value>
+      </plugin_config>
+      <plugin_config id="262">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="263">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="264">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1233">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="1234">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

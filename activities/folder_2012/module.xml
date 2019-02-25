@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="2012" version="2018051400">
+  <modulename>folder</modulename>
+  <sectionid>240</sectionid>
+  <sectionnumber>8</sectionnumber>
+  <idnumber></idnumber>
+  <added>1442446246</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>0</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>0</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>1</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>$@NULL@$</availability>
+  <showdescription>0</showdescription>
+  <tags>
+  </tags>
+</module>

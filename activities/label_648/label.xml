@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="174" moduleid="648" modulename="label" contextid="978">
+  <label id="174">
+    <name>
+Session 3
+</name>
+    <intro>&lt;hr /&gt;
+&lt;p&gt;&lt;span style="color: #800080;"&gt;&lt;strong&gt;Session 3&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1382645481</timemodified>
+  </label>
+</activity>

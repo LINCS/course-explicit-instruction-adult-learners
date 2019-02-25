@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filters>
+  <filter_actives>
+    <filter_active>
+      <filter>activitynames</filter>
+      <active>-1</active>
+    </filter_active>
+  </filter_actives>
+  <filter_configs>
+  </filter_configs>
+</filters>

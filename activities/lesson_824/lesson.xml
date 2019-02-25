@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="12" moduleid="824" modulename="lesson" contextid="1242">
+  <lesson id="12">
+    <course>25</course>
+    <name>3B- EI Lesson Plan - Part 2: Explanation and Demonstration/Modeling - in process</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1494195670</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="119">
+        <prevpageid>0</prevpageid>
+        <nextpageid>120</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1509126141</timemodified>
+        <title>Explain and Model (I DO)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="125" height="208" style="margin-left: 10px; float: right;" alt="I DO graphic showing a larger person icon labeled Teacher standing next to a smaller person icon labeled Student." src="@@PLUGINFILE@@/LtAEI-S3M2-I_DO.jpg" /&gt;Now that we have looked at how to conduct a task analysis of a skill or strategy, let’s take a closer look at how you would explain and model these steps to your learners.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Explicit Instruction Lesson Plan&lt;/strong&gt; &lt;br /&gt;&lt;br /&gt;We are working our way through the four parts of an explicit instruction lesson. In this session we will focus on the second part:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lesson Introduction&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teacher Explanation and Demonstration &amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Practice&lt;/li&gt;
+&lt;li&gt;Closure&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This phase of the lesson is often called the “I Do” part of the lesson. The teacher is explaining and demonstrating, and learners are listening and observing before they try out the new skill or strategy.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;img width="175" height="133" style="float: left; margin-right: 10px;" alt="Car steering wheel and dashboard" src="@@PLUGINFILE@@/LtA-S3b-Drivecar.JPG" /&gt;&lt;/strong&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;br /&gt;Most people learn to drive a car by first observing others. Think about learning how to parallel park. It helps to have an expert parallel parker explain and demonstrate how to do it. An &lt;em&gt;&lt;strong&gt;effective demonstration&lt;/strong&gt;&lt;/em&gt; would include the expert talking about the decisions she/he is making when backing in, moving forward, gauging distance from the curb, and finally determining when the car is successfully parked. &lt;br /&gt;&lt;br /&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;br /&gt;Click on the Next button below to continue.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="323">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="120">
+        <prevpageid>119</prevpageid>
+        <nextpageid>122</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1503521894</timemodified>
+        <title>EI Lesson - Explanation Step (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="100" height="150" style="float: right; margin-left: 10px;" alt="Teacher bending down to student in wheelchair, both discussing textbook" src="@@PLUGINFILE@@/LtA-S3a-QARstrat.JPG" /&gt;The &lt;strong&gt;Explain part&lt;/strong&gt; of an explicit instruction lesson is based on the teacher introducing learners to the task-analyzed steps.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;Learners&lt;/span&gt; should have a guide sheet that lists the steps to follow in simple language.&lt;/li&gt;
+&lt;li&gt;&lt;span style="text-decoration: underline;"&gt;Teachers&lt;/span&gt; should briefly introduce learners to the skill or strategy steps using learner-friendly language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s watch a teacher explain the QAR steps to a learner.&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing a puzzle piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Play the video below to watch an Introduction to the QAR Strategy. As you watch, think about the following&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What does the learner gain from this step of the EI process? &lt;/li&gt;
+&lt;li&gt;The teacher keeps her explanation of the 3 steps at about 2 minutes. How would your learners benefit from a short, clear explanation?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;strong&gt;Video: Introduction to the QAR Strategy&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a href="https://www.youtube.com/watch?v=QdNC9qYQf18"&gt;Introduction to the QAR Strategy&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262&amp;amp;chapterid=994" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;https://www.youtube.com/watch?v=QdNC9qYQf18&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p align="right"&gt;&lt;span style="font-size: x-small;"&gt;This video excerpt used with permission from &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;The National Center for Family Literacy/National Center for Families Learning (NCFL)&lt;/span&gt;&lt;br /&gt;&lt;a title="National Center for Families Learning" href="http://familieslearning.org/"&gt;&lt;span style="font-size: x-small;"&gt;http://familieslearning.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff; color: #993300;"&gt;Click the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="324">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="325">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="122">
+        <prevpageid>120</prevpageid>
+        <nextpageid>124</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377525972</timecreated>
+        <timemodified>1508941203</timemodified>
+        <title>EI Lesson - Explanation Step – Video Activity review</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="200" height="150" style="float: right; margin-left: 10px;" alt="From QAR video - snapshot of teacher and student discussing some papers together" src="@@PLUGINFILE@@/LtA-S3b-QARsnap.JPG" /&gt;This video example shows how the teacher is preparing the learner to watch the teacher model the skill. While you watched, we asked you to consider, &lt;em&gt;“What does the learner gain from this step of the EI process?”&lt;/em&gt;  Compare your thoughts to those listed below:&lt;/p&gt;
+&lt;p&gt;From this step, the learner has gained:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the steps the teacher is going to use as a visual reminder,&lt;/li&gt;
+&lt;li&gt;a brief explanation of each step, and&lt;/li&gt;
+&lt;li&gt;time to read the passage and clarify any unfamiliar vocabulary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also, typically, a short, clear explanation is easier for learners to both understand and remember.&lt;/p&gt;
+&lt;p&gt;Now that the strategy steps are introduced, it is time for the teacher to demonstrate or model using the steps. This helps the learner ‘see’ the steps in action.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="329">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="330">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="331">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377525972</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="124">
+        <prevpageid>122</prevpageid>
+        <nextpageid>126</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878378</timecreated>
+        <timemodified>1508941609</timemodified>
+        <title>EI Lesson – Modeling and Ex. #1 - QAR Right There  (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="100" height="167" style="float: right; margin-left: 10px;" alt="I DO graphic showing a larger person icon labeled Teacher standing next to a smaller person icon labeled Student" src="@@PLUGINFILE@@/LtAEI-S3M2-I_DO.jpg" /&gt;Modeling is the heart of explicit instruction. Another part of the&lt;strong&gt; “I Do”&lt;/strong&gt; part of the EI process, modeling allows learners to see what competent performance looks like.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Modeling&lt;/strong&gt; has Two Parts:&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Think aloud:&lt;/strong&gt; Verbalization of thinking that helps guide correct use of the steps. During modeling, the teacher ‘thinks aloud’ to allow learners to ‘see’ the thinking that guides the use of the skill steps or strategy.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Physical behavior:&lt;/strong&gt; Actions a person takes to follow the steps such as underlining, pointing, or taking notes.&lt;/p&gt;
+&lt;p&gt;Let’s watch a teacher model the QAR Strategy step by step. We’ll start with the first type of QAR question:&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt; Right there -&lt;/strong&gt; The answer to a Right There question is easily found in the story or article. It’s right there!&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;&lt;br /&gt;Play the Video below to watch a clip of &lt;/strong&gt;&lt;em&gt;QAR-Modeling (Right There)&lt;/em&gt;&lt;strong&gt;. As you watch, observe the teacher showing her thinking:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“I am remembering from what I read…”&lt;/li&gt;
+&lt;li&gt;“It is a kind of question that I can look back.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Also, observe the teacher’s actions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pointing&lt;/li&gt;
+&lt;li&gt;Writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video: QAR Modeling: Right There&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=RUbrAFRtAkI&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=4"&gt;QAR Modeling: Right There&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262&amp;amp;chapterid=995" target="_blank"&gt; Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;https://www.youtube.com/watch?v=RUbrAFRtAkI&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p align="right"&gt;&lt;span style="font-size: x-small;"&gt;This video excerpt used with permission from &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;The National Center for Family Literacy/National Center for Families Learning (NCFL)&lt;/span&gt;&lt;br /&gt;&lt;a title="National Center for Families Learning" href="http://familieslearning.org/"&gt;&lt;span style="font-size: x-small;"&gt;http://familieslearning.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="338">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="339">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="340">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878378</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="126">
+        <prevpageid>124</prevpageid>
+        <nextpageid>128</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379878615</timecreated>
+        <timemodified>1508941751</timemodified>
+        <title>Ex. #2 - Modeling QAR Think and Search (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="125" height="160" style="float: right; margin-left: 10px;" alt="QAR instructor pointing to location in the reading passage" src="@@PLUGINFILE@@/LtA-S3b-QARmodelTS.JPG" /&gt;Now let’s watch the teacher model the second type of QAR question:&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Think and Search&lt;/strong&gt; - To answer this kind of question, you might have to look in more than one place in the story or article and put together ideas or information to get the answer.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Play the video below to watch a clip of &lt;/strong&gt;&lt;em&gt;QAR Modeling: Think and Search&lt;/em&gt;&lt;strong&gt;&lt;em&gt;.&lt;/em&gt; As you watch, observe the teacher showing her thinking: &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“Our whole passage was about keeping kids safe.”&lt;/li&gt;
+&lt;li&gt;“I seem to remember that I read the word emergency.”&lt;/li&gt;
+&lt;li&gt;“I am thinking I saw emergency another place.”&lt;/li&gt;
+&lt;li&gt;Rereads parts of passage&lt;/li&gt;
+&lt;li&gt;Rereads question&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Also, observe the teacher’s actions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Points to and reads the question to be answered&lt;/li&gt;
+&lt;li&gt;Points to key parts of the passage as she searches for the answer&lt;/li&gt;
+&lt;li&gt;Points to QAR guide sheet to identify type of question she is answering&lt;/li&gt;
+&lt;li&gt;Writes answer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video: QAR Modeling: Think and Search&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=Xg3JKnq3C8M&amp;amp;index=5&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq"&gt;QAR Modeling: Think and Search&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262&amp;amp;chapterid=996" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;https://www.youtube.com/watch?v=Xg3JKnq3C8M&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p align="right"&gt;&lt;span style="font-size: x-small;"&gt;This video excerpt used with permission from &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;The National Center for Family Literacy/National Center for Families Learning (NCFL)&lt;/span&gt;&lt;br /&gt;&lt;a title="National Center for Families Learning" href="http://familieslearning.org/"&gt;&lt;span style="font-size: x-small;"&gt;http://familieslearning.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="344">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="345">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="346">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379878615</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="128">
+        <prevpageid>126</prevpageid>
+        <nextpageid>129</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879258</timecreated>
+        <timemodified>1503521932</timemodified>
+        <title>Ex. #3 - Modeling QAR Writer and Me (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="100" height="141" style="float: right; margin-left: 10px;" alt="QAR instructor looking with finger pointing to her head - thinking" src="@@PLUGINFILE@@/LtA-S3b-QARmodelWM.JPG" /&gt;Now let’s watch the teacher model the third type of QAR question. This QAR question goes beyond &lt;em&gt;literal comprehension: &lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Writer and Me&lt;/strong&gt; - For this kind of question you have to use some of your own knowledge or experience. Some information is in the story or article, and some is “in your head.”&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand placing a puzzle piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Play the video below to watch a clip of &lt;/strong&gt;&lt;em&gt;QAR Modeling: Writer and Me&lt;/em&gt;.&lt;strong&gt; As you watch, observe how the teacher shows her thinking. Make note of specific ‘think aloud’ statements that the teacher makes.&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video: QAR Modeling: Writer and Me&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=S_-GMUVFWnI&amp;amp;list=PLImUeO1ttx1YU00qZ0fBQi_oIrOrFxivq&amp;amp;index=6"&gt;QAR Modeling: Writer and Me&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3262&amp;amp;chapterid=997" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;https://www.youtube.com/watch?v=S_-GMUVFWnI&amp;amp;t&lt;/em&gt;&lt;/p&gt;
+&lt;p align="right"&gt;&lt;span style="font-size: x-small;"&gt;This video excerpt used with permission from &lt;/span&gt;&lt;br /&gt;&lt;span style="font-size: x-small;"&gt;The National Center for Family Literacy/National Center for Families Learning (NCFL)&lt;/span&gt;&lt;br /&gt;&lt;a title="National Center for Families Learning" href="http://familieslearning.org/"&gt;&lt;span style="font-size: x-small;"&gt;http://familieslearning.org/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;strong&gt;&lt;em&gt;&lt;/em&gt;&lt;/strong&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="350">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="351">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="352">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879258</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="129">
+        <prevpageid>128</prevpageid>
+        <nextpageid>130</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879474</timecreated>
+        <timemodified>1508941927</timemodified>
+        <title>Video Activity - QAR Modeling #3: Possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="120" height="169" style="float: left; margin-right: 10px;" alt="QAR video instructor looking towards off-screen student while pointing at head - thinking" src="@@PLUGINFILE@@/LtA-S3b-QARmodelWM.JPG" /&gt; As you watched the video, did you note that the teacher used these think aloud questions?&lt;/p&gt;
+&lt;p style="padding-left: 150px;"&gt;&lt;em&gt; “I remember this part of the article...” &lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 150px;"&gt;&lt;em&gt;“I thought it was strange …” &lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 150px;"&gt;&lt;em&gt;“I was thinking….” &lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 150px;"&gt;&lt;em&gt;“If I used this word with my granddaughter…” &lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 150px;"&gt;&lt;em&gt;“That answer is not really &lt;strong&gt;right there&lt;/strong&gt;.”&lt;/em&gt;&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt; &lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;&lt;strong&gt;Please take a moment to reflect on these three video examples of modeling.&lt;/strong&gt; &lt;strong&gt;Use the following questions to guide your reflections:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On a scale of 1 (low) to 5 (high), how well did the teacher explain the steps? Why this rating?&lt;/li&gt;
+&lt;li&gt;On a scale of 1 (low) to 5 (high), how well did the teacher model the steps? Why this rating?&lt;/li&gt;
+&lt;li&gt;What did you learn from watching the teacher explain and model QAR?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="353">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="354">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="355">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879474</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="130">
+        <prevpageid>129</prevpageid>
+        <nextpageid>131</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379879704</timecreated>
+        <timemodified>1527710646</timemodified>
+        <title>Moving from Modeling to Practice</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="100" height="167" style="float: right; margin-right: 10px;" alt="I DO graphic showing a larger person icon labeled Teacher standing next to a smaller person icon labeled Student" src="@@PLUGINFILE@@/LtAEI-S3M2-I_DO.jpg" /&gt;After the first model by the teacher, the next model should involve the learners. While demonstrating with another example, the teacher asks questions about the steps or how to apply the steps.&lt;/p&gt;
+&lt;p&gt;The following can be accomplished by involving students in subsequent short modeling displays that work by::&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;keeping learners involved, &lt;/li&gt;
+&lt;li&gt;helping learners rehearse the steps, and&lt;/li&gt;
+&lt;li&gt;providing information to the teacher about how well learners understand how to use the skill/strategy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: right;"&gt;(Archer &amp;amp; Hughes, 2011)&lt;/p&gt;
+&lt;p&gt;Note that &lt;strong&gt;the teacher&lt;/strong&gt; is still performing the skill. Learners are answering questions to gain familiarity with skill or strategy. Even though we are involving the learner, this is still seen as part of the “I DO” component of an EI lesson.&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #000000;"&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon_2.jpg" /&gt;&lt;/span&gt;&lt;strong&gt;Click on the link below to review an example EI lesson plan - Introduction and Explain and Model sections. Make note of any ideas or questions you generate during your review.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/Punctuation%20Lesson%20Plan.pdf" target="_blank"&gt;EI Lesson Plan Example: End of Sentence Punctuation&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You’ll note that the teacher included fairly explicit “scripts” to follow during the lesson.  Let’s take a look at how this can be helpful.&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="356">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="357">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="358">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379879704</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="131">
+        <prevpageid>130</prevpageid>
+        <nextpageid>137</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1379880335</timecreated>
+        <timemodified>1508942231</timemodified>
+        <title>Preparing for Modeling</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="144" height="216" style="float: right; margin-left: 10px;" alt="Several analog clocks jumbled together - all show different times" src="@@PLUGINFILE@@/LtA-S3b-time.JPG" /&gt;Modeling takes time for preparation and practice. Here are a few tips to help you prepare.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Take the time to practice, aloud, by yourself first.&lt;/strong&gt; Typically, the first few times instructors practice thinking aloud they often realize that the steps they are demonstrating take more thinking and decision-making than expected.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Keep your “thinking” simple and short.&lt;/strong&gt; If you try to verbalize every thought you have about following the steps, you are going to make your model too long and too complicated. Polishing your “think alouds” to be easily understood is an important part of the preparation.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;&lt;strong&gt;Don’t forget your actions!&lt;/strong&gt; In the beginning, focus as much on the physical elements as the think aloud. Physical actions can be easier than verbalizations for learners to follow. Combining the physical acts with the mental acts makes using the strategy steps more concrete for the learner.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="75" height="55" style="float: left; margin-right: 10px;" alt="Activity icon - hand putting piece in puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;&lt;strong&gt;Consider the lesson you began planning in the assignment for session 2. If you were going to model your chosen skill or strategy, what kind of “think alouds” might you use?  What actions? &lt;/strong&gt; (These questions may be easier to address once you’ve completed your task analysis.)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="359">
+            <jumpto>119</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="360">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="361">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1379880335</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="137">
+        <prevpageid>131</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1508979850</timemodified>
+        <title>EI Explanation and Modeling – Wrap Up</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;div&gt;&lt;img width="175" height="147" style="float: right; margin-left: 10px;" alt="Street sign pointing right with word Review" src="@@PLUGINFILE@@/LTA-EI-S1c-Review.jpg" /&gt;In this section, we have examined an EI lesson format and its first component – the Lesson Introduction. We have also begun an exploration of how EI lesson components can support the important development of our students as self-regulated learners.&lt;br /&gt;&lt;br /&gt;In this session, we have examined how you could use a &lt;strong&gt;task analysis&lt;/strong&gt; to explain and &lt;strong&gt;model&lt;/strong&gt; critical content to adult learners.  Through video and text examples, you have explored how to use &lt;strong&gt;“think alouds”&lt;/strong&gt; and specific actions when modeling. We also emphasized the importance of simple and concise explanations and practice as a part of this EI lesson component.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Now we ask you to reflect on what you have learned.&lt;/strong&gt;&lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt;You will be asked to post your thoughts to a discussion forum.&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;img width="54" height="50" style="float: left; margin-right: 10px;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm_2.jpg" /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;&lt;strong&gt; &lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;em&gt;&lt;strong&gt;What are your thoughts on the Explanation and Modeling steps of an EI lesson (including the task analysis component)? What questions do you have?&lt;br /&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt;Click Next to end this lesson, return to the Main Course Menu, and access the Discussion Forum to post your reflection.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="O1"&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;&lt;span style="background-color: #ffffff;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="332">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="333">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="334">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

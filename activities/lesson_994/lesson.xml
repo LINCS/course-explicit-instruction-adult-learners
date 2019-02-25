@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="17" moduleid="994" modulename="lesson" contextid="1446">
+  <lesson id="17">
+    <course>25</course>
+    <name>4C - EI Lesson Plan – Part 4: Closure</name>
+    <intro>$@NULL@$</intro>
+    <introformat>0</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>0</grade>
+    <custom>0</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>0</usemaxgrade>
+    <maxanswers>6</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>0</maxpages>
+    <timelimit>0</timelimit>
+    <retake>0</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1494002104</timemodified>
+    <completionendreached>0</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="191">
+        <prevpageid>0</prevpageid>
+        <nextpageid>192</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115140</timecreated>
+        <timemodified>1508956650</timemodified>
+        <title>EI Closure - Introduction</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="140" height="210" style="margin-left: 10px; float: right;" alt="Overview - 3 business people discussing large plan document" src="@@PLUGINFILE@@/LTA-EI-S1a-Overview.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;We are working our way through the last parts of an explicit instruction lesson. Let’s move on to explore the final part of an explicit instruction lesson - closure&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EI Lesson Plan Format:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As previously stated, we are working our way through the four parts of our explicit instruction lesson plan format. In this session we will focus on the second part:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Lesson Introduction&lt;/li&gt;
+&lt;li&gt;Teacher Explanation and Demonstration&lt;strong&gt; &lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Practice&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Closure&lt;/strong&gt; &amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="527">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115140</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="192">
+        <prevpageid>191</prevpageid>
+        <nextpageid>193</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115666</timecreated>
+        <timemodified>1508956823</timemodified>
+        <title>EI Closure - Definition</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="200" height="208" style="margin-left: 10px; float: right;" alt="Teacher speaking to class of adult students" src="@@PLUGINFILE@@/LTA-EI-S1c-explain.jpg" /&gt;EI lesson closure is an action, statement or activity that serves one or more of these purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Help students organize and remember what they have learned.&lt;/li&gt;
+&lt;li&gt;Promote student reflection by reviewing what happened in class.&lt;/li&gt;
+&lt;li&gt;Allow the teacher to do a quick check for understanding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align="right"&gt;Goeke, 2009, p. 76&lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;em&gt;&lt;strong&gt;What are some techniques you currently use with your adult learners to complete or close a lesson?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="528">
+            <jumpto>191</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="529">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115666</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="193">
+        <prevpageid>192</prevpageid>
+        <nextpageid>195</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377115928</timecreated>
+        <timemodified>1508956973</timemodified>
+        <title>EI Closure – Example Techniques</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="175" height="293" style="margin-left: 10px; float: right;" alt="Percent triangle - Equilateral triangle with P at the top, W in left corner and percent sign in right corner" src="@@PLUGINFILE@@/LtAEI-S4M2-Percent-triangle.jpg" /&gt;Here are some examples of techniques that can be used to provide EI lesson closure:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Review and summarize:&lt;/strong&gt; &lt;br /&gt;&lt;em&gt;“What is the formula for finding percent?”&lt;br /&gt;&lt;/em&gt; &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify relevance:&lt;/strong&gt; &lt;br /&gt;&lt;em&gt;“When will you use percents in your life between now and next class?”&lt;/em&gt; &lt;br /&gt; &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Connect to next session/s:&lt;/strong&gt; &lt;br /&gt;&lt;em&gt;“Next class, we will…”&lt;/em&gt; &lt;br /&gt; &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Set up independent practice&lt;/strong&gt; (homework): &lt;br /&gt;&lt;em&gt;“Do these three percent problems for homework.”&lt;/em&gt; &lt;br /&gt; &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assess:&lt;/strong&gt; &lt;br /&gt;Have students complete a short activity that enables the teacher to quickly determine how well learners ‘got it’, ex.: &lt;br /&gt;&lt;em&gt;“Before you leave find the answer for a 25% discount for an $89 purchase. Put your name on the paper and hand it in.”&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-left: 10px; margin-right: 10px; float: left;" alt="Reflection icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt; &lt;em&gt;&lt;strong&gt; How does this list compare with your own? &lt;br /&gt;What techniques on this list would you like to try?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="530">
+            <jumpto>191</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-Start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="531">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="532">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377115928</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="195">
+        <prevpageid>193</prevpageid>
+        <nextpageid>197</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377548914</timecreated>
+        <timemodified>1508957083</timemodified>
+        <title>EI Closure - Example Closure (video activity)</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="250" height="162" style="margin-left: 10px; float: right;" alt="Instructor explaining the Percent Triangle on a whiteboard" src="@@PLUGINFILE@@/LtAEI-S4M2_SIAstill1.JPG" /&gt;Let’s take a look at closure in a classroom setting. We’ll look at the teacher’s closure for the math – percents lesson.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img width="75" height="55" style="margin-right: 10px; float: left;" alt="Activity icon - hand placing piece of puzzle" src="@@PLUGINFILE@@/LTA-EI-Activityicon.jpg" /&gt;Play the video below to watch this next clip from &lt;/strong&gt;&lt;em&gt;Observing Standards-in-Action: Math Classroom Lesson.&lt;/em&gt;&lt;strong&gt; As you watch, observe the teacher and make note of which closure elements she uses:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review and summarize&lt;/li&gt;
+&lt;li&gt;Identify relevance&lt;/li&gt;
+&lt;li&gt;Connect to next session/s&lt;/li&gt;
+&lt;li&gt;Set up independent practice (homework)&lt;/li&gt;
+&lt;li&gt;Assess (short activity to determine how well learners ‘got it’)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will suggest you refer to these notes in completing your Session #4 assignment.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;strong&gt;Video - SIA: Math Closure&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://www.youtube.com/watch?v=BIyATM_8uxQ"&gt;SIA: Math Closure&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a href="https://lincs-ovae-moodle-dev.civicactions.net/mod/book/view.php?id=3263&amp;amp;chapterid=1004" target="_blank"&gt;Video Transcript&lt;/a&gt;&lt;/p&gt;
+&lt;p id="yui_3_13_0_2_1494359691877_449" style="text-align: center;"&gt;&lt;em id="yui_3_13_0_2_1494357190002_469"&gt;If you are having trouble viewing the video, insert the link below in a new tab/window&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt; https://www.youtube.com/watch?v=BIyATM_8uxQ&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: x-small;"&gt;This video is a part of &lt;i&gt;Standards-in-Action: Innovations for Standards-Based Education&lt;/i&gt;, produced under &lt;/span&gt;&lt;/p&gt;
+&lt;p align="right" style="text-align: center;"&gt;&lt;span style="font-size: x-small;"&gt;U.S. Department of Education Contract No. ED-04-CO-0121/0001 with MPR Associates, Inc. and &lt;br /&gt;subcontractor, Susan Pimentel, Inc. Copyright © 2011 assigned to the U.S. Department of Education. &lt;br /&gt;All rights reserved, used with permission.&lt;/span&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click Next below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="539">
+            <jumpto>191</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="540">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="541">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377548914</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="197">
+        <prevpageid>195</prevpageid>
+        <nextpageid>196</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1408642165</timecreated>
+        <timemodified>1508957150</timemodified>
+        <title>Video Activity – SIA Closure possible responses</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;&lt;img width="200" height="129" style="margin-left: 10px; float: right;" alt="Instructor explaining the Percent Triangle on a whiteboard" src="@@PLUGINFILE@@/LtAEI-S4M2_SIAstill1.JPG" /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;While your answer may differ, listed below are the closure elements we identified in this clip from the SIA – Math Lesson video. We observed the teacher:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review and summarize&lt;/li&gt;
+&lt;li&gt;Connect to next session/s&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;Compare this teachers’ approach to your own. How would you have ended this lesson? Why? What questions or concerns do you have about the closure step of an EI lesson?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00;"&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #993300;"&gt;Click on the Next button below to continue.&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="542">
+            <jumpto>191</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Restart</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="543">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="544">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1408642165</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="196">
+        <prevpageid>197</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1377526531</timecreated>
+        <timemodified>1528910469</timemodified>
+        <title>EI – Practice and Closure – Wrap Up</title>
+        <contents>&lt;div style="width: 716px;"&gt;
+&lt;p&gt;&lt;img width="200" height="168" style="margin-left: 10px; float: right;" alt="Street sign pointing right with word Review" src="@@PLUGINFILE@@/LTA-EI-S1c-Review.jpg" /&gt;During this session, we examined the role of practice and closure in an EI lesson. We’ve explored the approaches for guided, peer-assisted, and independent practice, as well as techniques for closing a lesson. Linked below is an Example EI lesson plan incorporating these last two elements – completing the lesson begun last session.&lt;br /&gt;&lt;br /&gt;&lt;span style="background-color: #ffffff;"&gt;&lt;strong&gt;&lt;a href="@@PLUGINFILE@@/LtAEI-S4_EI-Lesson-Punctuationv2%20%281%29.pdf" target="_blank"&gt;&lt;span style="background-color: #ffffff;"&gt;EI Lesson Plan Example: End of Sentence Punctuation v2&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;img width="54" height="50" style="margin-right: 5px; float: left;" alt="Reflection Icon - dark head profile with puzzle brain" src="@@PLUGINFILE@@/LTA-EI-Reflecticonsm.jpg" /&gt;&lt;strong&gt;Consider the EI lesson you began in in Session #3. How would you incorporate scaffolded practice into your lesson?  What techniques would you use to close your lesson?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="color: #800080;"&gt;&lt;em&gt;You may wish to refer to these reflections in completing the Session 4 Assignment.&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;In the assignment for this session we again ask you to apply what you have learned to creating an EI lesson, and to submit your lesson for facilitator feedback. In week 5 we will ask you to share your lesson with your peers and to provide feedback on others’ EI lesson plan ideas.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt;Click Next to end this lesson, return to the Main Course Menu, and access the Session #4 Assignment.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #993300;"&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="536">
+            <jumpto>0</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Re-start</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="537">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="538">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1377526531</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Finish Lesson</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>
